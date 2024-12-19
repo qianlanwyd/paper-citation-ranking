@@ -1,0 +1,275 @@
+[
+    {
+        "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+        "citations": 2825,
+        "rank": "1 out of 127",
+        "percentile": "top 0%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games",
+        "citations": 1417,
+        "rank": "2 out of 127",
+        "percentile": "top 1%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Why do tree-based models still outperform deep learning on typical tabular data?",
+        "citations": 1286,
+        "rank": "3 out of 127",
+        "percentile": "top 2%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "ADBench: Anomaly Detection Benchmark",
+        "citations": 364,
+        "rank": "4 out of 127",
+        "percentile": "top 3%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+        "citations": 335,
+        "rank": "5 out of 127",
+        "percentile": "top 3%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile Medical Image Segmentation",
+        "citations": 296,
+        "rank": "6 out of 127",
+        "percentile": "top 4%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "OpenOOD: Benchmarking Generalized Out-of-Distribution Detection",
+        "citations": 220,
+        "rank": "7 out of 127",
+        "percentile": "top 5%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Long Range Graph Benchmark",
+        "citations": 202,
+        "rank": "8 out of 127",
+        "percentile": "top 6%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "PDEBench: An Extensive Benchmark for Scientific Machine Learning",
+        "citations": 186,
+        "rank": "9 out of 127",
+        "percentile": "top 7%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset",
+        "citations": 171,
+        "rank": "10 out of 127",
+        "percentile": "top 7%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "OpenXAI: Towards a Transparent Evaluation of Model Explanations",
+        "citations": 155,
+        "rank": "11 out of 127",
+        "percentile": "top 8%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "TAP-Vid: A Benchmark for Tracking Any Point in a Video",
+        "citations": 131,
+        "rank": "12 out of 127",
+        "percentile": "top 9%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "USB: A Unified Semi-supervised Learning Benchmark for Classification",
+        "citations": 128,
+        "rank": "13 out of 127",
+        "percentile": "top 10%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "BackdoorBench: A Comprehensive Benchmark of Backdoor Learning",
+        "citations": 128,
+        "rank": "14 out of 127",
+        "percentile": "top 11%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization",
+        "citations": 124,
+        "rank": "15 out of 127",
+        "percentile": "top 11%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings",
+        "citations": 121,
+        "rank": "16 out of 127",
+        "percentile": "top 12%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "GOOD: A Graph Out-of-Distribution Benchmark",
+        "citations": 104,
+        "rank": "17 out of 127",
+        "percentile": "top 13%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning",
+        "citations": 99,
+        "rank": "18 out of 127",
+        "percentile": "top 14%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs",
+        "citations": 99,
+        "rank": "19 out of 127",
+        "percentile": "top 14%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Towards Better Evaluation for Dynamic Link Prediction",
+        "citations": 91,
+        "rank": "20 out of 127",
+        "percentile": "top 15%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations",
+        "citations": 89,
+        "rank": "21 out of 127",
+        "percentile": "top 16%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time",
+        "citations": 86,
+        "rank": "22 out of 127",
+        "percentile": "top 17%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset",
+        "citations": 85,
+        "rank": "23 out of 127",
+        "percentile": "top 18%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning",
+        "citations": 83,
+        "rank": "24 out of 127",
+        "percentile": "top 18%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning",
+        "citations": 82,
+        "rank": "25 out of 127",
+        "percentile": "top 19%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "OpenFWI: Large-scale Multi-structural Benchmark Datasets for Full Waveform Inversion",
+        "citations": 80,
+        "rank": "26 out of 127",
+        "percentile": "top 20%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks",
+        "citations": 74,
+        "rank": "27 out of 127",
+        "percentile": "top 21%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "M4Singer: A Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus",
+        "citations": 73,
+        "rank": "28 out of 127",
+        "percentile": "top 22%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning",
+        "citations": 73,
+        "rank": "29 out of 127",
+        "percentile": "top 22%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking",
+        "citations": 64,
+        "rank": "30 out of 127",
+        "percentile": "top 23%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World",
+        "citations": 64,
+        "rank": "31 out of 127",
+        "percentile": "top 24%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Communicating Natural Programs to Humans and Machines",
+        "citations": 63,
+        "rank": "32 out of 127",
+        "percentile": "top 25%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks",
+        "citations": 63,
+        "rank": "33 out of 127",
+        "percentile": "top 25%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning",
+        "citations": 61,
+        "rank": "34 out of 127",
+        "percentile": "top 26%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Open High-Resolution Satellite Imagery: The WorldStrat Dataset – With Application to Super-Resolution",
+        "citations": 59,
+        "rank": "35 out of 127",
+        "percentile": "top 27%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors",
+        "citations": 58,
+        "rank": "36 out of 127",
+        "percentile": "top 28%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation",
+        "citations": 54,
+        "rank": "37 out of 127",
+        "percentile": "top 29%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "EnvPool: A Highly Parallel Reinforcement Learning Environment Execution Engine",
+        "citations": 52,
+        "rank": "38 out of 127",
+        "percentile": "top 29%",
+        "date": "2024-12-19"
+    },
+    {
+        "title": "Characteristics of Harmful Text: Towards Rigorous Benchmarking of Language Models",
+        "citations": 48,
+        "rank": "39 out of 127",
+        "percentile": "top 30%",
+        "date": "2024-12-19"
+    }
+]
