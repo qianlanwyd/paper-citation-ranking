@@ -1,6 +1,6 @@
 # Conference Citation Ranking
 
-This repository provides a tool for ranking the citations of individual papers presented at various AI top-tier conferences such as NeurIPS (NIPS), ICML, and others. The aim of this project is to provide insights into the citation performance of papers within a specific conference, helping researchers and institutions assess the impact of individual works.
+This repository provides a tool for ranking the citations of individual papers presented at various AI top-tier conferences such as NeurIPS (NIPS), ICML, ICLR and others. The aim of this project is to provide insights into the citation performance of papers within a specific conference, helping researchers and institutions assess the impact of individual works.
 
 ## Features
 - **Citation Ranking**: Displays citation counts for papers and their ranks within the conference.
