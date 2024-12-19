@@ -39,7 +39,6 @@ The data is presented in JSON format, with each entry representing a paper's cit
    git clone https://github.com/yourusername/conference-citation-ranking.git
    ```
 2. Load the JSON data file containing citation rankings for a specific conference.
-3. Use the provided scripts or your own tools to analyze or visualize the data.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the tool, additional features, or data sources, feel free to open an issue or submit a pull request.
