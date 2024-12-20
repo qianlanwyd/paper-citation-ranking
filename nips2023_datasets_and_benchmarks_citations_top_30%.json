@@ -1,0 +1,625 @@
+[
+    {
+        "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+        "citations": 2226,
+        "rank": "1 out of 289",
+        "percentile": "top 0%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Mathematical Capabilities of ChatGPT",
+        "citations": 520,
+        "rank": "2 out of 289",
+        "percentile": "top 0%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day",
+        "citations": 503,
+        "rank": "3 out of 289",
+        "percentile": "top 1%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "OpenAssistant Conversations - Democratizing Large Language Model Alignment",
+        "citations": 451,
+        "rank": "4 out of 289",
+        "percentile": "top 1%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+        "citations": 338,
+        "rank": "5 out of 289",
+        "percentile": "top 1%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "DataComp: In search of the next generation of multimodal datasets",
+        "citations": 323,
+        "rank": "6 out of 289",
+        "percentile": "top 2%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "citations": 291,
+        "rank": "7 out of 289",
+        "percentile": "top 2%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs",
+        "citations": 272,
+        "rank": "8 out of 289",
+        "percentile": "top 2%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Objaverse-XL: A Universe of 10M+ 3D Objects",
+        "citations": 270,
+        "rank": "9 out of 289",
+        "percentile": "top 3%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset",
+        "citations": 266,
+        "rank": "10 out of 289",
+        "percentile": "top 3%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources",
+        "citations": 251,
+        "rank": "11 out of 289",
+        "percentile": "top 3%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents",
+        "citations": 224,
+        "rank": "12 out of 289",
+        "percentile": "top 4%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "OpenAGI: When LLM Meets Domain Experts",
+        "citations": 203,
+        "rank": "13 out of 289",
+        "percentile": "top 4%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "LeanDojo: Theorem Proving with Retrieval-Augmented Language Models",
+        "citations": 193,
+        "rank": "14 out of 289",
+        "percentile": "top 4%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "ToolQA: A Dataset for LLM Question Answering with External Tools",
+        "citations": 168,
+        "rank": "15 out of 289",
+        "percentile": "top 5%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving",
+        "citations": 164,
+        "rank": "16 out of 289",
+        "percentile": "top 5%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Minigrid & Miniworld: Modular & Customizable Reinforcement Learning Environments for Goal-Oriented Tasks",
+        "citations": 161,
+        "rank": "17 out of 289",
+        "percentile": "top 5%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation",
+        "citations": 160,
+        "rank": "18 out of 289",
+        "percentile": "top 6%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
+        "citations": 158,
+        "rank": "19 out of 289",
+        "percentile": "top 6%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias",
+        "citations": 157,
+        "rank": "20 out of 289",
+        "percentile": "top 6%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with Text",
+        "citations": 145,
+        "rank": "21 out of 289",
+        "percentile": "top 7%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks",
+        "citations": 143,
+        "rank": "22 out of 289",
+        "percentile": "top 7%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+        "citations": 143,
+        "rank": "23 out of 289",
+        "percentile": "top 7%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding",
+        "citations": 139,
+        "rank": "24 out of 289",
+        "percentile": "top 8%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models",
+        "citations": 135,
+        "rank": "25 out of 289",
+        "percentile": "top 8%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark",
+        "citations": 133,
+        "rank": "26 out of 289",
+        "percentile": "top 8%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Scalable 3D Captioning with Pretrained Models",
+        "citations": 122,
+        "rank": "27 out of 289",
+        "percentile": "top 9%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "AndroidInTheWild: A Large-Scale Dataset For Android Device Control",
+        "citations": 120,
+        "rank": "28 out of 289",
+        "percentile": "top 9%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Holistic Evaluation of Text-to-Image Models",
+        "citations": 104,
+        "rank": "29 out of 289",
+        "percentile": "top 10%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Benchmarking Foundation Models with Language-Model-as-an-Examiner",
+        "citations": 103,
+        "rank": "30 out of 289",
+        "percentile": "top 10%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "RealTime QA: What's the Answer Right Now?",
+        "citations": 96,
+        "rank": "31 out of 289",
+        "percentile": "top 10%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model",
+        "citations": 91,
+        "rank": "32 out of 289",
+        "percentile": "top 11%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image",
+        "citations": 91,
+        "rank": "33 out of 289",
+        "percentile": "top 11%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models",
+        "citations": 90,
+        "rank": "34 out of 289",
+        "percentile": "top 11%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Quilt-1M: One Million Image-Text Pairs for Histopathology",
+        "citations": 85,
+        "rank": "35 out of 289",
+        "percentile": "top 12%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "D4: Improving LLM Pretraining via Document De-Duplication and Diversification",
+        "citations": 84,
+        "rank": "36 out of 289",
+        "percentile": "top 12%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "MADLAD-400: A Multilingual And Document-Level Large Audited Dataset",
+        "citations": 84,
+        "rank": "37 out of 289",
+        "percentile": "top 12%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Temporal Graph Benchmark for Machine Learning on Temporal Graphs",
+        "citations": 81,
+        "rank": "38 out of 289",
+        "percentile": "top 13%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "CORL: Research-oriented Deep Offline Reinforcement Learning Library",
+        "citations": 78,
+        "rank": "39 out of 289",
+        "percentile": "top 13%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion",
+        "citations": 78,
+        "rank": "40 out of 289",
+        "percentile": "top 13%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "SMACv2: An Improved Benchmark for Cooperative Multi-Agent Reinforcement Learning",
+        "citations": 77,
+        "rank": "41 out of 289",
+        "percentile": "top 14%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research",
+        "citations": 75,
+        "rank": "42 out of 289",
+        "percentile": "top 14%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback",
+        "citations": 74,
+        "rank": "43 out of 289",
+        "percentile": "top 14%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset",
+        "citations": 74,
+        "rank": "44 out of 289",
+        "percentile": "top 15%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design",
+        "citations": 71,
+        "rank": "45 out of 289",
+        "percentile": "top 15%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Perception Test: A Diagnostic Benchmark for Multimodal Video Models",
+        "citations": 70,
+        "rank": "46 out of 289",
+        "percentile": "top 15%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Stable Bias: Evaluating Societal Representations in Diffusion Models",
+        "citations": 69,
+        "rank": "47 out of 289",
+        "percentile": "top 16%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting",
+        "citations": 67,
+        "rank": "48 out of 289",
+        "percentile": "top 16%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data Only",
+        "citations": 66,
+        "rank": "49 out of 289",
+        "percentile": "top 16%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "JourneyDB: A Benchmark for Generative Image Understanding",
+        "citations": 63,
+        "rank": "50 out of 289",
+        "percentile": "top 17%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "FELM: Benchmarking Factuality Evaluation of Large Language Models",
+        "citations": 61,
+        "rank": "51 out of 289",
+        "percentile": "top 17%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Benchmarking Large Language Models on CMExam - A comprehensive Chinese Medical Exam Dataset",
+        "citations": 61,
+        "rank": "52 out of 289",
+        "percentile": "top 17%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation",
+        "citations": 59,
+        "rank": "53 out of 289",
+        "percentile": "top 18%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Revisiting Out-of-distribution Robustness in NLP: Benchmarks, Analysis, and LLMs Evaluations",
+        "citations": 59,
+        "rank": "54 out of 289",
+        "percentile": "top 18%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Improving multimodal datasets with image captioning",
+        "citations": 58,
+        "rank": "55 out of 289",
+        "percentile": "top 19%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking",
+        "citations": 55,
+        "rank": "56 out of 289",
+        "percentile": "top 19%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks",
+        "citations": 55,
+        "rank": "57 out of 289",
+        "percentile": "top 19%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning",
+        "citations": 55,
+        "rank": "58 out of 289",
+        "percentile": "top 20%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web",
+        "citations": 54,
+        "rank": "59 out of 289",
+        "percentile": "top 20%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Into the LAION’s Den: Investigating Hate in Multimodal Datasets",
+        "citations": 53,
+        "rank": "60 out of 289",
+        "percentile": "top 20%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "rPPG-Toolbox: Deep Remote PPG Toolbox",
+        "citations": 49,
+        "rank": "61 out of 289",
+        "percentile": "top 21%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Safety Gymnasium: A Unified Safe Reinforcement Learning Benchmark",
+        "citations": 48,
+        "rank": "62 out of 289",
+        "percentile": "top 21%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "GenEval: An object-focused framework for evaluating text-to-image alignment",
+        "citations": 48,
+        "rank": "63 out of 289",
+        "percentile": "top 21%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection",
+        "citations": 45,
+        "rank": "64 out of 289",
+        "percentile": "top 22%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions",
+        "citations": 44,
+        "rank": "65 out of 289",
+        "percentile": "top 22%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images",
+        "citations": 44,
+        "rank": "66 out of 289",
+        "percentile": "top 22%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping",
+        "citations": 43,
+        "rank": "67 out of 289",
+        "percentile": "top 23%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection",
+        "citations": 42,
+        "rank": "68 out of 289",
+        "percentile": "top 23%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models",
+        "citations": 42,
+        "rank": "69 out of 289",
+        "percentile": "top 23%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "DICES Dataset: Diversity in Conversational AI Evaluation for Safety",
+        "citations": 40,
+        "rank": "70 out of 289",
+        "percentile": "top 24%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "GEO-Bench: Toward Foundation Models for Earth Monitoring",
+        "citations": 39,
+        "rank": "71 out of 289",
+        "percentile": "top 24%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "The Waymo Open Sim Agents Challenge",
+        "citations": 39,
+        "rank": "72 out of 289",
+        "percentile": "top 24%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling",
+        "citations": 37,
+        "rank": "73 out of 289",
+        "percentile": "top 25%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events",
+        "citations": 37,
+        "rank": "74 out of 289",
+        "percentile": "top 25%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation",
+        "citations": 36,
+        "rank": "75 out of 289",
+        "percentile": "top 25%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus",
+        "citations": 35,
+        "rank": "76 out of 289",
+        "percentile": "top 26%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Realistic Synthetic Financial Transactions for Anti-Money Laundering Models",
+        "citations": 35,
+        "rank": "77 out of 289",
+        "percentile": "top 26%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing",
+        "citations": 33,
+        "rank": "78 out of 289",
+        "percentile": "top 26%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications",
+        "citations": 32,
+        "rank": "79 out of 289",
+        "percentile": "top 27%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "OpenDataVal: a Unified Benchmark for Data Valuation",
+        "citations": 30,
+        "rank": "80 out of 289",
+        "percentile": "top 27%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "AbdomenAtlas-8K: Annotating 8,000 CT Volumes for Multi-Organ Segmentation in Three Weeks",
+        "citations": 30,
+        "rank": "81 out of 289",
+        "percentile": "top 28%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Alexa Arena: A User-Centric Interactive Platform for Embodied AI",
+        "citations": 29,
+        "rank": "82 out of 289",
+        "percentile": "top 28%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Tartarus: A Benchmarking Platform for Realistic And Practical Inverse Molecular Design",
+        "citations": 28,
+        "rank": "83 out of 289",
+        "percentile": "top 28%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "A Toolkit for Reliable Benchmarking and Research in Multi-Objective Reinforcement Learning",
+        "citations": 28,
+        "rank": "84 out of 289",
+        "percentile": "top 29%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials",
+        "citations": 28,
+        "rank": "85 out of 289",
+        "percentile": "top 29%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "A Dataset of Relighted 3D Interacting Hands",
+        "citations": 27,
+        "rank": "86 out of 289",
+        "percentile": "top 29%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Real3D-AD: A Dataset of Point Cloud Anomaly Detection",
+        "citations": 26,
+        "rank": "87 out of 289",
+        "percentile": "top 30%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Cola: A Benchmark for Compositional Text-to-image Retrieval",
+        "citations": 25,
+        "rank": "88 out of 289",
+        "percentile": "top 30%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations",
+        "citations": 25,
+        "rank": "89 out of 289",
+        "percentile": "top 30%",
+        "date": "2024-12-20"
+    }
+]
