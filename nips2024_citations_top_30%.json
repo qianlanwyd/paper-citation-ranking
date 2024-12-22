@@ -1,0 +1,4531 @@
+[
+    {
+        "title": "YOLOv10: Real-Time End-to-End Object Detection",
+        "citations": 603,
+        "rank": "1 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CogVLM: Visual Expert for Pretrained Language Models",
+        "citations": 481,
+        "rank": "2 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Retentive Network",
+        "citations": 271,
+        "rank": "3 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Fourier Neural Operator with Learned Deformations for PDEs on General Geometries",
+        "citations": 241,
+        "rank": "4 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+        "citations": 139,
+        "rank": "5 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+        "citations": 135,
+        "rank": "6 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Depth Anything V2",
+        "citations": 133,
+        "rank": "7 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Tree of Attacks: Jailbreaking Black-Box LLMs Automatically",
+        "citations": 132,
+        "rank": "8 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Large Language Model Unlearning",
+        "citations": 128,
+        "rank": "9 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Are We on the Right Way for Evaluating Large Vision-Language Models?",
+        "citations": 117,
+        "rank": "10 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "What matters when building vision-language models?",
+        "citations": 116,
+        "rank": "11 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "xLSTM: Extended Long Short-Term Memory",
+        "citations": 112,
+        "rank": "12 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RewardBench: Evaluating Reward Models for Language Modeling",
+        "citations": 112,
+        "rank": "13 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+        "citations": 104,
+        "rank": "14 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS",
+        "citations": 95,
+        "rank": "15 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "citations": 94,
+        "rank": "16 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD",
+        "citations": 90,
+        "rank": "17 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PointMamba: A Simple State Space Model for Point Cloud Analysis",
+        "citations": 88,
+        "rank": "18 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
+        "citations": 83,
+        "rank": "19 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models",
+        "citations": 79,
+        "rank": "20 out of 2088",
+        "percentile": "top 0%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Task Me Anything",
+        "citations": 72,
+        "rank": "21 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering",
+        "citations": 71,
+        "rank": "22 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions",
+        "citations": 70,
+        "rank": "23 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithms",
+        "citations": 67,
+        "rank": "24 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LLM Evaluators Recognize and Favor Their Own Generations",
+        "citations": 65,
+        "rank": "25 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Iterative Reasoning Preference Optimization",
+        "citations": 63,
+        "rank": "26 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Causal-learn: Causal Discovery in Python",
+        "citations": 59,
+        "rank": "27 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs",
+        "citations": 55,
+        "rank": "28 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Autoregressive Image Generation without Vector Quantization",
+        "citations": 54,
+        "rank": "29 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CAT3D: Create Anything in 3D with Multi-View Diffusion Models",
+        "citations": 52,
+        "rank": "30 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "citations": 52,
+        "rank": "31 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time",
+        "citations": 50,
+        "rank": "32 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SnapKV: LLM Knows What You are Looking for Before Generation",
+        "citations": 50,
+        "rank": "33 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Metrizing Weak Convergence with Maximum Mean Discrepancies",
+        "citations": 48,
+        "rank": "34 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "[Re] GNNInterpreter: A probabilistic generative model-level explanation for Graph Neural Networks",
+        "citations": 48,
+        "rank": "35 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks",
+        "citations": 48,
+        "rank": "36 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Can Large Language Model Agents Simulate Human Trust Behavior?",
+        "citations": 47,
+        "rank": "37 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset",
+        "citations": 47,
+        "rank": "38 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models",
+        "citations": 45,
+        "rank": "39 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset",
+        "citations": 45,
+        "rank": "40 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate",
+        "citations": 44,
+        "rank": "41 out of 2088",
+        "percentile": "top 1%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Chain-of-Thought Reasoning Without Prompting",
+        "citations": 42,
+        "rank": "42 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Many-Shot In-Context Learning",
+        "citations": 42,
+        "rank": "43 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Alignment for Honesty",
+        "citations": 41,
+        "rank": "44 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Unified Recipe for Deriving (Time-Uniform) PAC-Bayes Bounds",
+        "citations": 41,
+        "rank": "45 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FinBen: An Holistic Financial Benchmark for Large Language Models",
+        "citations": 40,
+        "rank": "46 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MAmmoTH2: Scaling Instructions from the Web",
+        "citations": 40,
+        "rank": "47 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "[Re] CUDA: Curriculum of Data Augmentation for Long‐tailed Recognition",
+        "citations": 39,
+        "rank": "48 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Benchmarking LLMs via Uncertainty Quantification",
+        "citations": 39,
+        "rank": "49 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Refusal in Language Models Is Mediated by a Single Direction",
+        "citations": 39,
+        "rank": "50 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Careful Examination of Large Language Model Performance on Grade School Arithmetic",
+        "citations": 37,
+        "rank": "51 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HelpSteer 2: Open-source dataset for training top-performing reward models",
+        "citations": 36,
+        "rank": "52 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Closeness of In-Context Learning and Weight Shifting for Softmax Regression",
+        "citations": 36,
+        "rank": "53 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Decoupled Kullback-Leibler Divergence Loss",
+        "citations": 36,
+        "rank": "54 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale",
+        "citations": 36,
+        "rank": "55 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "An Image is Worth 32 Tokens for Reconstruction and Generation",
+        "citations": 36,
+        "rank": "56 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "No \"Zero-Shot\" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance",
+        "citations": 35,
+        "rank": "57 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Humanoid Locomotion as Next Token Prediction",
+        "citations": 35,
+        "rank": "58 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Questioning the Survey Responses of Large Language Models",
+        "citations": 35,
+        "rank": "59 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Selective Explanations",
+        "citations": 35,
+        "rank": "60 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CultureLLM: Incorporating Cultural Differences into Large Language Models",
+        "citations": 35,
+        "rank": "61 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Pre-trained Gaussian Processes for Bayesian Optimization",
+        "citations": 34,
+        "rank": "62 out of 2088",
+        "percentile": "top 2%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A StrongREJECT for Empty Jailbreaks",
+        "citations": 34,
+        "rank": "63 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReFT: Representation Finetuning for Language Models",
+        "citations": 34,
+        "rank": "64 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+        "citations": 34,
+        "rank": "65 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Improved Distribution Matching Distillation for Fast Image Synthesis",
+        "citations": 33,
+        "rank": "66 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Large Language Models Play StarCraft II:Benchmarks and A Chain of Summarization Approach",
+        "citations": 31,
+        "rank": "67 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Efficiency of the First-Price Auction in the Autobidding World",
+        "citations": 30,
+        "rank": "68 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+        "citations": 30,
+        "rank": "69 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts",
+        "citations": 30,
+        "rank": "70 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling transformer neural networks for skillful and reliable medium-range weather forecasting",
+        "citations": 30,
+        "rank": "71 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PLIP: Language-Image Pre-training for Person Representation Learning",
+        "citations": 30,
+        "rank": "72 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation",
+        "citations": 29,
+        "rank": "73 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning",
+        "citations": 29,
+        "rank": "74 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DataComp-LM: In search of the next generation of training sets for language models",
+        "citations": 28,
+        "rank": "75 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TaskBench: Benchmarking Large Language Models for Task Automation",
+        "citations": 28,
+        "rank": "76 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GTBench: Uncovering the Strategic Reasoning Capabilities of LLMs via Game-Theoretic Evaluations",
+        "citations": 28,
+        "rank": "77 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+        "citations": 27,
+        "rank": "78 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SegVol: Universal and Interactive Volumetric Medical Image Segmentation",
+        "citations": 27,
+        "rank": "79 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis",
+        "citations": 27,
+        "rank": "80 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MADiff: Offline Multi-agent Learning with Diffusion Models",
+        "citations": 27,
+        "rank": "81 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability",
+        "citations": 27,
+        "rank": "82 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AlphaMath Almost Zero: Process Supervision without Process",
+        "citations": 27,
+        "rank": "83 out of 2088",
+        "percentile": "top 3%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs",
+        "citations": 27,
+        "rank": "84 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting",
+        "citations": 27,
+        "rank": "85 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution",
+        "citations": 27,
+        "rank": "86 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding",
+        "citations": 26,
+        "rank": "87 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OneBit: Towards Extremely Low-bit Large Language Models",
+        "citations": 26,
+        "rank": "88 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "You Only Cache Once: Decoder-Decoder Architectures for Language Models",
+        "citations": 26,
+        "rank": "89 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision",
+        "citations": 26,
+        "rank": "90 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Improving Alignment and Robustness with Circuit Breakers",
+        "citations": 25,
+        "rank": "91 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models",
+        "citations": 25,
+        "rank": "92 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Demystify Mamba in Vision: A Linear Attention Perspective",
+        "citations": 25,
+        "rank": "93 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Elo Uncovered: Robustness and Best Practices in Language Model Evaluation",
+        "citations": 25,
+        "rank": "94 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing",
+        "citations": 25,
+        "rank": "95 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models",
+        "citations": 24,
+        "rank": "96 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Approaching Human-Level Forecasting with Language Models",
+        "citations": 24,
+        "rank": "97 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Simple and Effective Masked Diffusion Language Models",
+        "citations": 24,
+        "rank": "98 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Closer Look at AUROC and AUPRC under Class Imbalance",
+        "citations": 24,
+        "rank": "99 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Make Your LLM Fully Utilize the Context",
+        "citations": 24,
+        "rank": "100 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing",
+        "citations": 24,
+        "rank": "101 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Cascade Speculative Drafting for Even Faster LLM Inference",
+        "citations": 24,
+        "rank": "102 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning",
+        "citations": 24,
+        "rank": "103 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution",
+        "citations": 23,
+        "rank": "104 out of 2088",
+        "percentile": "top 4%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WildGuard: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs",
+        "citations": 23,
+        "rank": "105 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents",
+        "citations": 23,
+        "rank": "106 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Model Collapse Demystified: The Case of Regression",
+        "citations": 23,
+        "rank": "107 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "How do Large Language Models Handle Multilingualism?",
+        "citations": 23,
+        "rank": "108 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention",
+        "citations": 23,
+        "rank": "109 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Query-Based Adversarial Prompt Generation",
+        "citations": 23,
+        "rank": "110 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms",
+        "citations": 23,
+        "rank": "111 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models",
+        "citations": 23,
+        "rank": "112 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Fine-Grained Complexity of Gradient Computation for Training Large Language Models",
+        "citations": 23,
+        "rank": "113 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions",
+        "citations": 22,
+        "rank": "114 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Understanding Emergent Abilities of Language Models from the Loss Perspective",
+        "citations": 22,
+        "rank": "115 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Algorithmic progress in language models",
+        "citations": 22,
+        "rank": "116 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Invisible Image Watermarks Are Provably Removable Using Generative AI",
+        "citations": 22,
+        "rank": "117 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Compact Language Models via Pruning and Knowledge Distillation",
+        "citations": 22,
+        "rank": "118 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space",
+        "citations": 22,
+        "rank": "119 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Reducing Transformer Key-Value Cache Size with Cross-Layer Attention",
+        "citations": 22,
+        "rank": "120 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Calibrated Self-Rewarding Vision Language Models",
+        "citations": 22,
+        "rank": "121 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MoVA: Adapting Mixture of Vision Experts to Multimodal Context",
+        "citations": 22,
+        "rank": "122 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection",
+        "citations": 21,
+        "rank": "123 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures",
+        "citations": 21,
+        "rank": "124 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Are Language Models Actually Useful for Time Series Forecasting?",
+        "citations": 21,
+        "rank": "125 out of 2088",
+        "percentile": "top 5%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
+        "citations": 21,
+        "rank": "126 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding",
+        "citations": 21,
+        "rank": "127 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Why Do We Need Weight Decay in Modern Deep Learning?",
+        "citations": 21,
+        "rank": "128 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models",
+        "citations": 21,
+        "rank": "129 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MiniCache: KV Cache Compression in Depth Dimension for Large Language Models",
+        "citations": 21,
+        "rank": "130 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Theoretical Foundations of Deep Selective State-Space Models",
+        "citations": 20,
+        "rank": "131 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging",
+        "citations": 20,
+        "rank": "132 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold",
+        "citations": 20,
+        "rank": "133 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Contracting with a Learning Agent",
+        "citations": 20,
+        "rank": "134 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving",
+        "citations": 20,
+        "rank": "135 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models",
+        "citations": 20,
+        "rank": "136 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos",
+        "citations": 20,
+        "rank": "137 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Rethinking LLM Memorization through the Lens of Adversarial Compression",
+        "citations": 20,
+        "rank": "138 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+        "citations": 20,
+        "rank": "139 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries",
+        "citations": 20,
+        "rank": "140 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer",
+        "citations": 19,
+        "rank": "141 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables",
+        "citations": 19,
+        "rank": "142 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding",
+        "citations": 19,
+        "rank": "143 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "3D Gaussian Splatting as Markov Chain Monte Carlo",
+        "citations": 19,
+        "rank": "144 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ClashEval: Quantifying the tug-of-war between an LLM’s internal prior and external evidence",
+        "citations": 19,
+        "rank": "145 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VMamba: Visual State Space Model",
+        "citations": 19,
+        "rank": "146 out of 2088",
+        "percentile": "top 6%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ChatQA: Surpassing GPT-4 on Conversational QA and RAG",
+        "citations": 19,
+        "rank": "147 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources",
+        "citations": 19,
+        "rank": "148 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+        "citations": 19,
+        "rank": "149 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents",
+        "citations": 19,
+        "rank": "150 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model",
+        "citations": 19,
+        "rank": "151 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Optimization-based Causal Estimation from Heterogeneous Environments",
+        "citations": 18,
+        "rank": "152 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Towards Calibrated Robust Fine-Tuning of Vision-Language Models",
+        "citations": 18,
+        "rank": "153 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases",
+        "citations": 18,
+        "rank": "154 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models",
+        "citations": 18,
+        "rank": "155 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Croissant: A Metadata Format for ML-Ready Datasets",
+        "citations": 18,
+        "rank": "156 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Why Transformers Need Adam: A Hessian Perspective",
+        "citations": 18,
+        "rank": "157 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models",
+        "citations": 18,
+        "rank": "158 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs",
+        "citations": 18,
+        "rank": "159 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Chain of Thoughtlessness? An Analysis of CoT in Planning",
+        "citations": 18,
+        "rank": "160 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models",
+        "citations": 18,
+        "rank": "161 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models",
+        "citations": 18,
+        "rank": "162 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates",
+        "citations": 18,
+        "rank": "163 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving",
+        "citations": 18,
+        "rank": "164 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Road Less Scheduled",
+        "citations": 17,
+        "rank": "165 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback",
+        "citations": 17,
+        "rank": "166 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Consent in Crisis: The Rapid Decline of the AI Data Commons",
+        "citations": 17,
+        "rank": "167 out of 2088",
+        "percentile": "top 7%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures",
+        "citations": 17,
+        "rank": "168 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models",
+        "citations": 17,
+        "rank": "169 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Noise Contrastive Alignment of Language Models with Explicit Rewards",
+        "citations": 17,
+        "rank": "170 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Cross-Modality Perturbation Synergy Attack for Person Re-identification",
+        "citations": 17,
+        "rank": "171 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs",
+        "citations": 17,
+        "rank": "172 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations",
+        "citations": 17,
+        "rank": "173 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors",
+        "citations": 17,
+        "rank": "174 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack",
+        "citations": 17,
+        "rank": "175 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BAKU: An Efficient Transformer for Multi-Task Policy Learning",
+        "citations": 17,
+        "rank": "176 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+        "citations": 16,
+        "rank": "177 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Language models scale reliably with over-training and on downstream tasks",
+        "citations": 16,
+        "rank": "178 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Efficient Adversarial Training in LLMs with Continuous Attacks",
+        "citations": 16,
+        "rank": "179 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Aligning LLM Agents by Learning Latent Preference from User Edits",
+        "citations": 16,
+        "rank": "180 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PuLID: Pure and Lightning ID Customization via Contrastive Alignment",
+        "citations": 16,
+        "rank": "181 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K",
+        "citations": 16,
+        "rank": "182 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Enhancing Large Vision Language Models with Self-Training on Image Comprehension",
+        "citations": 16,
+        "rank": "183 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Discrete Flow Matching",
+        "citations": 16,
+        "rank": "184 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens",
+        "citations": 16,
+        "rank": "185 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Why are Visually-Grounded Language Models Bad at Image Classification?",
+        "citations": 16,
+        "rank": "186 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "citations": 16,
+        "rank": "187 out of 2088",
+        "percentile": "top 8%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback",
+        "citations": 16,
+        "rank": "188 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation",
+        "citations": 16,
+        "rank": "189 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding",
+        "citations": 16,
+        "rank": "190 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies",
+        "citations": 16,
+        "rank": "191 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "JiuZhang3.0: Efficiently Improving Mathematical Reasoning by Training Small Data Synthesis Models",
+        "citations": 16,
+        "rank": "192 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes",
+        "citations": 16,
+        "rank": "193 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Simplified and Generalized Masked Diffusion for Discrete Data",
+        "citations": 16,
+        "rank": "194 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "REBEL: Reinforcement Learning via Regressing Relative Rewards",
+        "citations": 16,
+        "rank": "195 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation",
+        "citations": 15,
+        "rank": "196 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token",
+        "citations": 15,
+        "rank": "197 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "UltraEdit: Instruction-based Fine-Grained Image Editing at Scale",
+        "citations": 15,
+        "rank": "198 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark",
+        "citations": 15,
+        "rank": "199 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LLM Dataset Inference: Did you train on my dataset?",
+        "citations": 15,
+        "rank": "200 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "APIGen: Automated PIpeline for Generating Verifiable and Diverse Function-Calling Datasets",
+        "citations": 15,
+        "rank": "201 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning",
+        "citations": 15,
+        "rank": "202 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models",
+        "citations": 15,
+        "rank": "203 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BitDelta: Your Fine-Tune May Only Be Worth One Bit",
+        "citations": 15,
+        "rank": "204 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models",
+        "citations": 15,
+        "rank": "205 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Diffusion4D: Fast Spatial-temporal Consistent 4D generation via Video Diffusion Models",
+        "citations": 15,
+        "rank": "206 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences",
+        "citations": 15,
+        "rank": "207 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness",
+        "citations": 15,
+        "rank": "208 out of 2088",
+        "percentile": "top 9%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks",
+        "citations": 15,
+        "rank": "209 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PromptFix: You Prompt and We Fix the Photo",
+        "citations": 15,
+        "rank": "210 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+        "citations": 15,
+        "rank": "211 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses",
+        "citations": 15,
+        "rank": "212 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX",
+        "citations": 15,
+        "rank": "213 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Long-form factuality in large language models",
+        "citations": 14,
+        "rank": "214 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study",
+        "citations": 14,
+        "rank": "215 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Causal Bandits for Linear Structural Equation Models",
+        "citations": 14,
+        "rank": "216 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark",
+        "citations": 14,
+        "rank": "217 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization",
+        "citations": 14,
+        "rank": "218 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Safe LoRA: The Silver Lining of Reducing Safety Risks when Finetuning Large Language Models",
+        "citations": 14,
+        "rank": "219 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off",
+        "citations": 14,
+        "rank": "220 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models",
+        "citations": 14,
+        "rank": "221 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment",
+        "citations": 14,
+        "rank": "222 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Online Adaptation of Language Models with a Memory of Amortized Contexts",
+        "citations": 14,
+        "rank": "223 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling the Codebook Size of VQ-GAN to 100,000 with a Utilization Rate of 99%",
+        "citations": 14,
+        "rank": "224 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+        "citations": 14,
+        "rank": "225 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection",
+        "citations": 14,
+        "rank": "226 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Panacea: Pareto Alignment via Preference Adaptation for LLMs",
+        "citations": 14,
+        "rank": "227 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FIFO-Diffusion: Generating Infinite Videos from Text without Training",
+        "citations": 14,
+        "rank": "228 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "iVideoGPT: Interactive VideoGPTs are Scalable World Models",
+        "citations": 13,
+        "rank": "229 out of 2088",
+        "percentile": "top 10%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models",
+        "citations": 13,
+        "rank": "230 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TorchOpt: An Efficient Library for Differentiable Optimization",
+        "citations": 13,
+        "rank": "231 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation",
+        "citations": 13,
+        "rank": "232 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Can large language models explore in-context?",
+        "citations": 13,
+        "rank": "233 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Observational Scaling Laws and the Predictability of Langauge Model Performance",
+        "citations": 13,
+        "rank": "234 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "One-Step Effective Diffusion Network for Real-World Image Super-Resolution",
+        "citations": 13,
+        "rank": "235 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations",
+        "citations": 13,
+        "rank": "236 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees",
+        "citations": 13,
+        "rank": "237 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)",
+        "citations": 13,
+        "rank": "238 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AutoMix: Automatically Mixing Language Models",
+        "citations": 13,
+        "rank": "239 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts",
+        "citations": 13,
+        "rank": "240 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion",
+        "citations": 13,
+        "rank": "241 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages",
+        "citations": 13,
+        "rank": "242 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Adaptive Proximal Gradient Method for Convex Optimization",
+        "citations": 13,
+        "rank": "243 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator",
+        "citations": 13,
+        "rank": "244 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs",
+        "citations": 13,
+        "rank": "245 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving",
+        "citations": 13,
+        "rank": "246 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "EffiBench: Benchmarking the Efficiency of Automatically Generated Code",
+        "citations": 12,
+        "rank": "247 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels",
+        "citations": 12,
+        "rank": "248 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Unsupervised Anomaly Detection Algorithms on Real-world Data: How Many Do We Need?",
+        "citations": 12,
+        "rank": "249 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "gRNAde: Geometric Deep Learning for 3D RNA inverse design",
+        "citations": 12,
+        "rank": "250 out of 2088",
+        "percentile": "top 11%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models",
+        "citations": 12,
+        "rank": "251 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Poseidon: Efficient Foundation Models for PDEs",
+        "citations": 12,
+        "rank": "252 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models",
+        "citations": 12,
+        "rank": "253 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Diffusion for World Modeling: Visual Details Matter in Atari",
+        "citations": 12,
+        "rank": "254 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Large Language Models Must Be Taught to Know What They Don’t Know",
+        "citations": 12,
+        "rank": "255 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models",
+        "citations": 12,
+        "rank": "256 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections",
+        "citations": 12,
+        "rank": "257 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases",
+        "citations": 12,
+        "rank": "258 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GuardT2I: Defending Text-to-Image Models from Adversarial Prompts",
+        "citations": 12,
+        "rank": "259 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control",
+        "citations": 12,
+        "rank": "260 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Guiding a Diffusion Model with a Bad Version of Itself",
+        "citations": 12,
+        "rank": "261 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Challenges with unsupervised LLM knowledge discovery",
+        "citations": 12,
+        "rank": "262 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "EMR-Merging: Tuning-Free High-Performance Model Merging",
+        "citations": 12,
+        "rank": "263 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities",
+        "citations": 12,
+        "rank": "264 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Aligning to Thousands of Preferences via System Message Generalization",
+        "citations": 12,
+        "rank": "265 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing",
+        "citations": 12,
+        "rank": "266 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer",
+        "citations": 12,
+        "rank": "267 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models",
+        "citations": 12,
+        "rank": "268 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+        "citations": 12,
+        "rank": "269 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FLAME : Factuality-Aware Alignment for Large Language Models",
+        "citations": 12,
+        "rank": "270 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MotionBooth: Motion-Aware Customized Text-to-Video Generation",
+        "citations": 11,
+        "rank": "271 out of 2088",
+        "percentile": "top 12%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Vript: A Video Is Worth Thousands of Words",
+        "citations": 11,
+        "rank": "272 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing",
+        "citations": 11,
+        "rank": "273 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning",
+        "citations": 11,
+        "rank": "274 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Transformers need glasses! Information over-squashing in language tasks",
+        "citations": 11,
+        "rank": "275 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Reproducibility Study: Equal Improvability: A New Fairness Notion Considering the Long-Term Impact",
+        "citations": 11,
+        "rank": "276 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models",
+        "citations": 11,
+        "rank": "277 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Critical Evaluation of AI Feedback for Aligning Large Language Models",
+        "citations": 11,
+        "rank": "278 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models",
+        "citations": 11,
+        "rank": "279 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Multi-Object Hallucination in Vision Language Models",
+        "citations": 11,
+        "rank": "280 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models",
+        "citations": 11,
+        "rank": "281 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Zero-shot Image Editing with Reference Imitation",
+        "citations": 11,
+        "rank": "282 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "L4GM: Large 4D Gaussian Reconstruction Model",
+        "citations": 11,
+        "rank": "283 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "4Diffusion: Multi-view Video Diffusion Model for 4D Generation",
+        "citations": 11,
+        "rank": "284 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SpeechAlign: Aligning Speech Generation to Human Preferences",
+        "citations": 11,
+        "rank": "285 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization",
+        "citations": 11,
+        "rank": "286 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Benchmarking Complex Instruction-Following with Multiple Constraints Composition",
+        "citations": 11,
+        "rank": "287 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Needle In A Multimodal Haystack",
+        "citations": 11,
+        "rank": "288 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs",
+        "citations": 11,
+        "rank": "289 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Universal Neural Functionals",
+        "citations": 11,
+        "rank": "290 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine",
+        "citations": 11,
+        "rank": "291 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents",
+        "citations": 11,
+        "rank": "292 out of 2088",
+        "percentile": "top 13%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Streaming Long Video Understanding with Large Language Models",
+        "citations": 11,
+        "rank": "293 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models",
+        "citations": 11,
+        "rank": "294 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Towards Understanding How Transformers Learn In-context Through a Representation Learning Lens",
+        "citations": 11,
+        "rank": "295 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation",
+        "citations": 11,
+        "rank": "296 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection",
+        "citations": 11,
+        "rank": "297 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Amortizing intractable inference in diffusion models for vision, language, and control",
+        "citations": 11,
+        "rank": "298 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling",
+        "citations": 11,
+        "rank": "299 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding",
+        "citations": 11,
+        "rank": "300 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization",
+        "citations": 11,
+        "rank": "301 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "UltraMedical: Building Specialized Generalists in Biomedicine",
+        "citations": 11,
+        "rank": "302 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning",
+        "citations": 11,
+        "rank": "303 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs",
+        "citations": 11,
+        "rank": "304 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations",
+        "citations": 10,
+        "rank": "305 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data",
+        "citations": 10,
+        "rank": "306 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Segment Any Change",
+        "citations": 10,
+        "rank": "307 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CoIN: A Benchmark of Continual Instruction Tuning for Multimodel Large Language Models",
+        "citations": 10,
+        "rank": "308 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TuneTables: Context Optimization for Scalable Prior-Data Fitted Networks",
+        "citations": 10,
+        "rank": "309 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language",
+        "citations": 10,
+        "rank": "310 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling laws for learning with real and surrogate data",
+        "citations": 10,
+        "rank": "311 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Lisa: Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning Attack",
+        "citations": 10,
+        "rank": "312 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion",
+        "citations": 10,
+        "rank": "313 out of 2088",
+        "percentile": "top 14%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models",
+        "citations": 10,
+        "rank": "314 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching",
+        "citations": 10,
+        "rank": "315 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable?",
+        "citations": 10,
+        "rank": "316 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "4+3 Phases of Compute-Optimal Neural Scaling Laws",
+        "citations": 10,
+        "rank": "317 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Evaluating Copyright Takedown Methods for Language Models",
+        "citations": 10,
+        "rank": "318 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Art of Saying No: Contextual Noncompliance in Language Models",
+        "citations": 10,
+        "rank": "319 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception",
+        "citations": 10,
+        "rank": "320 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MMLONGBENCH-DOC: Benchmarking Long-context Document Understanding with Visualizations",
+        "citations": 10,
+        "rank": "321 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HEST-1k: A Dataset For Spatial Transcriptomics and Histology Image Analysis",
+        "citations": 10,
+        "rank": "322 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Self-playing Adversarial Language Game Enhances LLM Reasoning",
+        "citations": 10,
+        "rank": "323 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Neural network learns low-dimensional polynomials with SGD near the information-theoretic limit",
+        "citations": 10,
+        "rank": "324 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning",
+        "citations": 10,
+        "rank": "325 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding",
+        "citations": 9,
+        "rank": "326 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification",
+        "citations": 9,
+        "rank": "327 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion",
+        "citations": 9,
+        "rank": "328 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Towards Explainable Evaluation Metrics for Machine Translation",
+        "citations": 9,
+        "rank": "329 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "An Analysis of Robustness of Non-Lipschitz Networks",
+        "citations": 9,
+        "rank": "330 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Optimal Clustering with Bandit Feedback",
+        "citations": 9,
+        "rank": "331 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Understanding Transformer Reasoning Capabilities via Graph Algorithms",
+        "citations": 9,
+        "rank": "332 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction",
+        "citations": 9,
+        "rank": "333 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Breaking the False Sense of Security in Backdoor Defense through Re-Activation Attack",
+        "citations": 9,
+        "rank": "334 out of 2088",
+        "percentile": "top 15%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking",
+        "citations": 9,
+        "rank": "335 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Instruction Tuning With Loss Over Instructions",
+        "citations": 9,
+        "rank": "336 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation",
+        "citations": 9,
+        "rank": "337 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching",
+        "citations": 9,
+        "rank": "338 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SF-V: Single Forward Video Generation Model",
+        "citations": 9,
+        "rank": "339 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Inference via Interpolation: Contrastive Representations Provably Enable Planning and Inference",
+        "citations": 9,
+        "rank": "340 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CRAG - Comprehensive RAG Benchmark",
+        "citations": 9,
+        "rank": "341 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models",
+        "citations": 9,
+        "rank": "342 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Provably Robust Score-Based Diffusion Posterior Sampling for Plug-and-Play Image Reconstruction",
+        "citations": 9,
+        "rank": "343 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Unveiling Encoder-Free Vision-Language Models",
+        "citations": 9,
+        "rank": "344 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DF40: Toward Next-Generation Deepfake Detection",
+        "citations": 9,
+        "rank": "345 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "JaxMARL: Multi-Agent RL Environments and Algorithms in JAX",
+        "citations": 9,
+        "rank": "346 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Video Diffusion Models are Training-free Motion Interpreter and Controller",
+        "citations": 9,
+        "rank": "347 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "QKFormer: Hierarchical Spiking Transformer using Q-K Attention",
+        "citations": 9,
+        "rank": "348 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Ablation Capability for Large Vision-Language Models",
+        "citations": 9,
+        "rank": "349 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Preference Learning Algorithms Do Not Learn Preference Rankings",
+        "citations": 9,
+        "rank": "350 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning",
+        "citations": 9,
+        "rank": "351 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Self-Labeling the Job Shop Scheduling Problem",
+        "citations": 9,
+        "rank": "352 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Multi-Head Mixture-of-Experts",
+        "citations": 9,
+        "rank": "353 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling",
+        "citations": 9,
+        "rank": "354 out of 2088",
+        "percentile": "top 16%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TSGM: A Flexible Framework for Generative Modeling of Synthetic Time Series",
+        "citations": 9,
+        "rank": "355 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs",
+        "citations": 9,
+        "rank": "356 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Evaluation of Text-to-Video Generation Models: A Dynamics Perspective",
+        "citations": 9,
+        "rank": "357 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Protecting Your LLMs with Information Bottleneck",
+        "citations": 9,
+        "rank": "358 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AI Sandbagging: Language Models can Strategically Underperform on Evaluations",
+        "citations": 9,
+        "rank": "359 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Average gradient outer product as a mechanism for deep neural collapse",
+        "citations": 9,
+        "rank": "360 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReVideo: Remake a Video with Motion and Content Control",
+        "citations": 9,
+        "rank": "361 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GenAI Arena: An Open Evaluation Platform for Generative Models",
+        "citations": 8,
+        "rank": "362 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs",
+        "citations": 8,
+        "rank": "363 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TRACE: A Comprehensive Benchmark for Continual Learning in Large Language Models",
+        "citations": 8,
+        "rank": "364 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Exploring Low-Dimensional Subspace in Diffusion Models for Controllable Image Editing",
+        "citations": 8,
+        "rank": "365 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CV-VAE: A Compatible Video VAE for Latent Generative Video Models",
+        "citations": 8,
+        "rank": "366 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Prejudice and Volatility: A Statistical Framework for Measuring Social Discrimination in Large Language Models",
+        "citations": 8,
+        "rank": "367 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities",
+        "citations": 8,
+        "rank": "368 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Interpreting the Weight Space of Customized Diffusion Models",
+        "citations": 8,
+        "rank": "369 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs",
+        "citations": 8,
+        "rank": "370 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Theoretical Analysis of Weak-to-Strong Generalization",
+        "citations": 8,
+        "rank": "371 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Large language model validity via enhanced conformal prediction methods",
+        "citations": 8,
+        "rank": "372 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LRM-Zero: Training Large Reconstruction Models with Synthesized Data",
+        "citations": 8,
+        "rank": "373 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Monoculture in Matching Markets",
+        "citations": 8,
+        "rank": "374 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers",
+        "citations": 8,
+        "rank": "375 out of 2088",
+        "percentile": "top 17%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "What makes unlearning hard and what to do about it",
+        "citations": 8,
+        "rank": "376 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Zero-Shot Tokenizer Transfer",
+        "citations": 8,
+        "rank": "377 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health",
+        "citations": 8,
+        "rank": "378 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing",
+        "citations": 8,
+        "rank": "379 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Robust Preference Optimization through Reward Model Distillation",
+        "citations": 8,
+        "rank": "380 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Gradient Guidance for Diffusion Models: An Optimization Perspective",
+        "citations": 8,
+        "rank": "381 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics",
+        "citations": 8,
+        "rank": "382 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Distributed Sparse Regression via Penalization",
+        "citations": 8,
+        "rank": "383 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Evaluating the World Model Implicit in a Generative Model",
+        "citations": 8,
+        "rank": "384 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction",
+        "citations": 8,
+        "rank": "385 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Transcendence: Generative Models Can Outperform The Experts That Train Them",
+        "citations": 8,
+        "rank": "386 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective",
+        "citations": 8,
+        "rank": "387 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs",
+        "citations": 8,
+        "rank": "388 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare",
+        "citations": 8,
+        "rank": "389 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Learning Cooperative Trajectory Representations for Motion Forecasting",
+        "citations": 8,
+        "rank": "390 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models",
+        "citations": 8,
+        "rank": "391 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "EM Distillation for One-step Diffusion Models",
+        "citations": 8,
+        "rank": "392 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction",
+        "citations": 8,
+        "rank": "393 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Rethinking Patch Dependence for Masked Autoencoders",
+        "citations": 8,
+        "rank": "394 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ProG: A Graph Prompt Learning Benchmark",
+        "citations": 8,
+        "rank": "395 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks",
+        "citations": 8,
+        "rank": "396 out of 2088",
+        "percentile": "top 18%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification",
+        "citations": 8,
+        "rank": "397 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DiffusionPDE: Generative PDE-Solving under Partial Observation",
+        "citations": 8,
+        "rank": "398 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Stress-Testing Capability Elicitation With Password-Locked Models",
+        "citations": 8,
+        "rank": "399 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Bridge the Modality and Capability Gaps in Vision-Language Model Selection",
+        "citations": 7,
+        "rank": "400 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Grounding Multimodal Large Language Models in Actions",
+        "citations": 7,
+        "rank": "401 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding",
+        "citations": 7,
+        "rank": "402 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning",
+        "citations": 7,
+        "rank": "403 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series",
+        "citations": 7,
+        "rank": "404 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention",
+        "citations": 7,
+        "rank": "405 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Resolving Discrepancies in Compute-Optimal Scaling of Language Models",
+        "citations": 7,
+        "rank": "406 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DiTFastAttn: Attention Compression for Diffusion Transformer Models",
+        "citations": 7,
+        "rank": "407 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ContextCite: Attributing Model Generation to Context",
+        "citations": 7,
+        "rank": "408 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models",
+        "citations": 7,
+        "rank": "409 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization",
+        "citations": 7,
+        "rank": "410 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention",
+        "citations": 7,
+        "rank": "411 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Do Multimodal Foundation Models Understand Enterprise Workflows? A Benchmark for Business Process Management Tasks",
+        "citations": 7,
+        "rank": "412 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Continuous-time Stochastic Gradient Descent Method for Continuous Data",
+        "citations": 7,
+        "rank": "413 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BenchMARL: Benchmarking Multi-Agent Reinforcement Learning",
+        "citations": 7,
+        "rank": "414 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MVGamba: Unify 3D Content Generation as State Space Sequence Modeling",
+        "citations": 7,
+        "rank": "415 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Phase Transition between Positional and Semantic Learning in a Solvable Model of Dot-Product Attention",
+        "citations": 7,
+        "rank": "416 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Multistep Distillation of Diffusion Models via Moment Matching",
+        "citations": 7,
+        "rank": "417 out of 2088",
+        "percentile": "top 19%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning",
+        "citations": 7,
+        "rank": "418 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Recursive Introspection: Teaching Language Model Agents How to Self-Improve",
+        "citations": 7,
+        "rank": "419 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Accelerating Diffusion Models with Parallel Sampling: Inference at Sub-Linear Time Complexity",
+        "citations": 7,
+        "rank": "420 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AutoSurvey: Large Language Models Can Automatically Write Surveys",
+        "citations": 7,
+        "rank": "421 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "StreamFlow: Streamlined Multi-Frame Optical Flow Estimation for Video Sequences",
+        "citations": 7,
+        "rank": "422 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Language Models as Hierarchy Encoders",
+        "citations": 7,
+        "rank": "423 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MeshXL: Neural Coordinate Field for Generative 3D Foundation Models",
+        "citations": 7,
+        "rank": "424 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Exploiting LLM Quantization",
+        "citations": 7,
+        "rank": "425 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ARC: A Generalist Graph Anomaly Detector with In-Context Learning",
+        "citations": 7,
+        "rank": "426 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dense Connector for MLLMs",
+        "citations": 7,
+        "rank": "427 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation",
+        "citations": 7,
+        "rank": "428 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models",
+        "citations": 7,
+        "rank": "429 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Chain of Agents: Large Language Models Collaborating on Long-Context Tasks",
+        "citations": 7,
+        "rank": "430 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Aligning Diffusion Models by Optimizing Human Utility",
+        "citations": 7,
+        "rank": "431 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty",
+        "citations": 7,
+        "rank": "432 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Concept-Based Explainability Framework for Large Multimodal Models",
+        "citations": 7,
+        "rank": "433 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Quantifying the Gain in Weak-to-Strong Generalization",
+        "citations": 7,
+        "rank": "434 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "UniAudio 1.5: Large Language Model-Driven Audio Codec is A Few-Shot Audio Task Learner",
+        "citations": 7,
+        "rank": "435 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WildGaussians: 3D Gaussian Splatting In the Wild",
+        "citations": 7,
+        "rank": "436 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Towards a theory of how the structure of language is acquired by deep neural networks",
+        "citations": 7,
+        "rank": "437 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "On scalable oversight with weak LLMs judging strong LLMs",
+        "citations": 7,
+        "rank": "438 out of 2088",
+        "percentile": "top 20%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Theoretical Understanding of Self-Correction through In-context Alignment",
+        "citations": 7,
+        "rank": "439 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling Laws in Linear Regression: Compute, Parameters, and Data",
+        "citations": 7,
+        "rank": "440 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Extending Multi-modal Contrastive Representations",
+        "citations": 7,
+        "rank": "441 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights",
+        "citations": 7,
+        "rank": "442 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+        "citations": 7,
+        "rank": "443 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VideoTetris: Towards Compositional Text-to-Video Generation",
+        "citations": 7,
+        "rank": "444 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models",
+        "citations": 7,
+        "rank": "445 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Self-Supervised Alignment with Mutual Information: Learning to Follow Principles without Preference Labels",
+        "citations": 7,
+        "rank": "446 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition",
+        "citations": 7,
+        "rank": "447 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Full-duplex Speech Dialogue Scheme Based On Large Language Model",
+        "citations": 7,
+        "rank": "448 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Open RL Benchmark: Comprehensive Tracked Experiments for Reinforcement Learning",
+        "citations": 7,
+        "rank": "449 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "$\\beta$-DPO: Direct Preference Optimization with Dynamic $\\beta$",
+        "citations": 7,
+        "rank": "450 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Decoding-Time Language Model Alignment with Multiple Objectives",
+        "citations": 7,
+        "rank": "451 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Transfer Q-star : Principled Decoding for LLM Alignment",
+        "citations": 7,
+        "rank": "452 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation",
+        "citations": 7,
+        "rank": "453 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making",
+        "citations": 7,
+        "rank": "454 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation",
+        "citations": 7,
+        "rank": "455 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Discovering Preference Optimization Algorithms with and for Large Language Models",
+        "citations": 7,
+        "rank": "456 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Understanding the Differences in Foundation Models: Attention, State Space Models, and Recurrent Neural Networks",
+        "citations": 7,
+        "rank": "457 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Efficient multi-prompt evaluation of LLMs",
+        "citations": 7,
+        "rank": "458 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models",
+        "citations": 7,
+        "rank": "459 out of 2088",
+        "percentile": "top 21%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment",
+        "citations": 7,
+        "rank": "460 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Generation",
+        "citations": 7,
+        "rank": "461 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Self-Play Fine-tuning of Diffusion Models for Text-to-image Generation",
+        "citations": 7,
+        "rank": "462 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Entity Alignment with Noisy Annotations from Large Language Models",
+        "citations": 7,
+        "rank": "463 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "${EFO}_k$-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation",
+        "citations": 7,
+        "rank": "464 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping",
+        "citations": 7,
+        "rank": "465 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Loki: Low-rank Keys for Efficient Sparse Attention",
+        "citations": 7,
+        "rank": "466 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Discovery of the Hidden World with Large Language Models",
+        "citations": 7,
+        "rank": "467 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Data curation via joint example selection further accelerates multimodal learning",
+        "citations": 7,
+        "rank": "468 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Neural Gaffer: Relighting Any Object via Diffusion",
+        "citations": 7,
+        "rank": "469 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning",
+        "citations": 7,
+        "rank": "470 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Language Models Encode Collaborative Signals in Recommendation",
+        "citations": 6,
+        "rank": "471 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Spatiotemporal Predictive Pre-training for Robotic Motor Control",
+        "citations": 6,
+        "rank": "472 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Adaptable Logical Control for Large Language Models",
+        "citations": 6,
+        "rank": "473 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VastTrack: Vast Category Visual Object Tracking",
+        "citations": 6,
+        "rank": "474 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation",
+        "citations": 6,
+        "rank": "475 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Fisher Flow Matching for Generative Modeling over Discrete Data",
+        "citations": 6,
+        "rank": "476 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars",
+        "citations": 6,
+        "rank": "477 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Learning Diffusion Priors from Observations by Expectation Maximization",
+        "citations": 6,
+        "rank": "478 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scale Equivariant Graph Metanetworks",
+        "citations": 6,
+        "rank": "479 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations",
+        "citations": 6,
+        "rank": "480 out of 2088",
+        "percentile": "top 22%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Autonomous Driving with Spiking Neural Networks",
+        "citations": 6,
+        "rank": "481 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Exploration, Exploitation, and Engagement in Multi-Armed Bandits with Abandonment",
+        "citations": 6,
+        "rank": "482 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Critically Assessing the State of the Art in Neural Network Verification",
+        "citations": 6,
+        "rank": "483 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning",
+        "citations": 6,
+        "rank": "484 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GAIA: Rethinking Action Quality Assessment for AI-Generated Videos",
+        "citations": 6,
+        "rank": "485 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy",
+        "citations": 6,
+        "rank": "486 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Length Optimization in Conformal Prediction",
+        "citations": 6,
+        "rank": "487 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Base of RoPE Bounds Context Length",
+        "citations": 6,
+        "rank": "488 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Challenges of the Nonlinear Regime for Physics-Informed Neural Networks",
+        "citations": 6,
+        "rank": "489 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Linguistic Collapse: Neural Collapse in (Large) Language Models",
+        "citations": 6,
+        "rank": "490 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction",
+        "citations": 6,
+        "rank": "491 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+        "citations": 6,
+        "rank": "492 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RL-GPT: Integrating Reinforcement Learning and Code-as-policy",
+        "citations": 6,
+        "rank": "493 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Is Your HD Map Constructor Reliable under Sensor Corruptions?",
+        "citations": 6,
+        "rank": "494 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning",
+        "citations": 6,
+        "rank": "495 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Rule Based Rewards for Language Model Safety",
+        "citations": 6,
+        "rank": "496 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics",
+        "citations": 6,
+        "rank": "497 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HuRef: HUman-REadable Fingerprint for Large Language Models",
+        "citations": 6,
+        "rank": "498 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)",
+        "citations": 6,
+        "rank": "499 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations",
+        "citations": 6,
+        "rank": "500 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MicroAdam: Accurate Adaptive Optimization with Low Space Overhead and Provable Convergence",
+        "citations": 6,
+        "rank": "501 out of 2088",
+        "percentile": "top 23%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Direct Unlearning Optimization for Robust and Safe Text-to-Image Models",
+        "citations": 6,
+        "rank": "502 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "CaptainCook4D: A Dataset for Understanding Errors in Procedural Activities",
+        "citations": 6,
+        "rank": "503 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?",
+        "citations": 6,
+        "rank": "504 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression",
+        "citations": 6,
+        "rank": "505 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Understanding Hallucinations in Diffusion Models through Mode Interpolation",
+        "citations": 6,
+        "rank": "506 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI",
+        "citations": 6,
+        "rank": "507 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Return of Unconditional Generation: A Self-supervised Representation Generation Method",
+        "citations": 6,
+        "rank": "508 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning",
+        "citations": 6,
+        "rank": "509 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MatFormer: Nested Transformer for Elastic Inference",
+        "citations": 6,
+        "rank": "510 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Transformers are Minimax Optimal Nonparametric In-Context Learners",
+        "citations": 6,
+        "rank": "511 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Localized Zeroth-Order Prompt Optimization",
+        "citations": 6,
+        "rank": "512 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RGFN: Synthesizable Molecular Generation Using GFlowNets",
+        "citations": 6,
+        "rank": "513 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Universal Growth Rate for Learning with Smooth Surrogate Losses",
+        "citations": 6,
+        "rank": "514 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models",
+        "citations": 6,
+        "rank": "515 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "QGFN: Controllable Greediness with Action Values",
+        "citations": 6,
+        "rank": "516 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs",
+        "citations": 6,
+        "rank": "517 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dual-Personalizing Adapter for Federated Foundation Models",
+        "citations": 6,
+        "rank": "518 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge",
+        "citations": 6,
+        "rank": "519 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Spectral Editing of Activations for Large Language Model Alignment",
+        "citations": 6,
+        "rank": "520 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BEACON: Benchmark for Comprehensive RNA Tasks and Language Models",
+        "citations": 6,
+        "rank": "521 out of 2088",
+        "percentile": "top 24%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning",
+        "citations": 6,
+        "rank": "522 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Watermarking Makes Language Models Radioactive",
+        "citations": 6,
+        "rank": "523 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling",
+        "citations": 6,
+        "rank": "524 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GRANOLA: Adaptive Normalization for Graph Neural Networks",
+        "citations": 6,
+        "rank": "525 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Understanding Information Storage and Transfer in Multi-Modal Large Language Models",
+        "citations": 6,
+        "rank": "526 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Online Estimation via Offline Estimation: An Information-Theoretic Framework",
+        "citations": 6,
+        "rank": "527 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers",
+        "citations": 6,
+        "rank": "528 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models",
+        "citations": 6,
+        "rank": "529 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference",
+        "citations": 6,
+        "rank": "530 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Unveiling the Tapestry of Consistency in Large Vision-Language Models",
+        "citations": 6,
+        "rank": "531 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Mamba in the Llama: Distilling and Accelerating Hybrid Models",
+        "citations": 6,
+        "rank": "532 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models",
+        "citations": 6,
+        "rank": "533 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Stochastic Optimal Control Matching",
+        "citations": 6,
+        "rank": "534 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs",
+        "citations": 6,
+        "rank": "535 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Neural Concept Binder",
+        "citations": 6,
+        "rank": "536 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GLBench: A Comprehensive Benchmark for Graph with Large Language Models",
+        "citations": 5,
+        "rank": "537 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BitsFusion: 1.99 bits Weight Quantization of Diffusion Model",
+        "citations": 5,
+        "rank": "538 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Multilingual Diversity Improves Vision-Language Representations",
+        "citations": 5,
+        "rank": "539 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DiffuserLite: Towards Real-time Diffusion Planning",
+        "citations": 5,
+        "rank": "540 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation",
+        "citations": 5,
+        "rank": "541 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup",
+        "citations": 5,
+        "rank": "542 out of 2088",
+        "percentile": "top 25%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Provably Optimal Memory Capacity for Modern Hopfield Models: Transformer-Compatible Dense Associative Memories as Spherical Codes",
+        "citations": 5,
+        "rank": "543 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Categorical Flow Matching on Statistical Manifolds",
+        "citations": 5,
+        "rank": "544 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models",
+        "citations": 5,
+        "rank": "545 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning",
+        "citations": 5,
+        "rank": "546 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReMI: A Dataset for Reasoning with Multiple Images",
+        "citations": 5,
+        "rank": "547 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Computational Aspects of Bayesian Persuasion under Approximate Best Response",
+        "citations": 5,
+        "rank": "548 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Context and Geometry Aware Voxel Transformer for Semantic Scene Completion",
+        "citations": 5,
+        "rank": "549 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SciCode: A Research Coding Benchmark Curated by Scientists",
+        "citations": 5,
+        "rank": "550 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "End-to-end Learnable Clustering for Intent Learning in Recommendation",
+        "citations": 5,
+        "rank": "551 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views",
+        "citations": 5,
+        "rank": "552 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HYDRA: Model Factorization Framework for Black-Box LLM Personalization",
+        "citations": 5,
+        "rank": "553 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in LLMs",
+        "citations": 5,
+        "rank": "554 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Scaling Law for Time Series Forecasting",
+        "citations": 5,
+        "rank": "555 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PAC-Bayes-Chernoff bounds for unbounded losses",
+        "citations": 5,
+        "rank": "556 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "TorchSpatial: A Location Encoding Framework and Benchmark for Spatial Representation Learning",
+        "citations": 5,
+        "rank": "557 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making",
+        "citations": 5,
+        "rank": "558 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training",
+        "citations": 5,
+        "rank": "559 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search",
+        "citations": 5,
+        "rank": "560 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "How Far Can Transformers Reason? The Globality Barrier and Inductive Scratchpad",
+        "citations": 5,
+        "rank": "561 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Initializing Services in Interactive ML Systems for Diverse Users",
+        "citations": 5,
+        "rank": "562 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Full-Atom Peptide Design with Geometric Latent Diffusion",
+        "citations": 5,
+        "rank": "563 out of 2088",
+        "percentile": "top 26%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors",
+        "citations": 5,
+        "rank": "564 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "What Makes and Breaks Safety Fine-tuning? A Mechanistic Study",
+        "citations": 5,
+        "rank": "565 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI",
+        "citations": 5,
+        "rank": "566 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Proportional Fairness in Clustering: A Social Choice Perspective",
+        "citations": 5,
+        "rank": "567 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials",
+        "citations": 5,
+        "rank": "568 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization",
+        "citations": 5,
+        "rank": "569 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PTQ4DiT: Post-training Quantization for Diffusion Transformers",
+        "citations": 5,
+        "rank": "570 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "M$^3$GPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation",
+        "citations": 5,
+        "rank": "571 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors",
+        "citations": 5,
+        "rank": "572 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Memory-Efficient LLM Training with Online Subspace Descent",
+        "citations": 5,
+        "rank": "573 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words",
+        "citations": 5,
+        "rank": "574 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Fundamental Convergence Analysis of Sharpness-Aware Minimization",
+        "citations": 5,
+        "rank": "575 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification",
+        "citations": 5,
+        "rank": "576 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Grasp as You Say: Language-guided Dexterous Grasp Generation",
+        "citations": 5,
+        "rank": "577 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs",
+        "citations": 5,
+        "rank": "578 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Provably Safe Neural Network Controllers via Differential Dynamic Logic",
+        "citations": 5,
+        "rank": "579 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark",
+        "citations": 5,
+        "rank": "580 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Spectral Adapter: Fine-Tuning in Spectral Space",
+        "citations": 5,
+        "rank": "581 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers",
+        "citations": 5,
+        "rank": "582 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Energy-based Hopfield Boosting for Out-of-Distribution Detection",
+        "citations": 5,
+        "rank": "583 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents",
+        "citations": 5,
+        "rank": "584 out of 2088",
+        "percentile": "top 27%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Zeroth-Order Sampling Methods for Non-Log-Concave Distributions: Alleviating Metastability by Denoising Diffusion",
+        "citations": 5,
+        "rank": "585 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks",
+        "citations": 5,
+        "rank": "586 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Pure Message Passing Can Estimate Common Neighbor for Link Prediction",
+        "citations": 5,
+        "rank": "587 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention",
+        "citations": 5,
+        "rank": "588 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling",
+        "citations": 5,
+        "rank": "589 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Statistical Inference for Fairness Auditing",
+        "citations": 5,
+        "rank": "590 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Talking Heads: Understanding Inter-Layer Communication in Transformer Language Models",
+        "citations": 5,
+        "rank": "591 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Transformers Can Do Arithmetic with the Right Embeddings",
+        "citations": 5,
+        "rank": "592 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "How Does Message Passing Improve Collaborative Filtering?",
+        "citations": 5,
+        "rank": "593 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents",
+        "citations": 5,
+        "rank": "594 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs)",
+        "citations": 5,
+        "rank": "595 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LoFiT: Localized Fine-tuning on LLM Representations",
+        "citations": 5,
+        "rank": "596 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "RegExplainer: Generating Explanations for Graph Neural Networks in Regression Tasks",
+        "citations": 5,
+        "rank": "597 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Metric Flow Matching for Smooth Interpolations on the Data Manifold",
+        "citations": 5,
+        "rank": "598 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Bigger, Regularized, Optimistic: scaling for compute and sample efficient continuous control",
+        "citations": 5,
+        "rank": "599 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "End-To-End Causal Effect Estimation from Unstructured Natural Language Data",
+        "citations": 5,
+        "rank": "600 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher",
+        "citations": 5,
+        "rank": "601 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "An Expectation-Maximization Algorithm for Training Clean Diffusion Models from Corrupted Observations",
+        "citations": 5,
+        "rank": "602 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "IllumiNeRF: 3D Relighting Without Inverse Rendering",
+        "citations": 5,
+        "rank": "603 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "On the Role of Attention Masks and LayerNorm in Transformers",
+        "citations": 5,
+        "rank": "604 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Diffusion Models With Learned Adaptive Noise",
+        "citations": 5,
+        "rank": "605 out of 2088",
+        "percentile": "top 28%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Neglected Hessian component explains mysteries in sharpness regularization",
+        "citations": 5,
+        "rank": "606 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos",
+        "citations": 5,
+        "rank": "607 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models",
+        "citations": 5,
+        "rank": "608 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Variational Continual Test-Time Adaptation",
+        "citations": 5,
+        "rank": "609 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FreeSplat: Generalizable 3D Gaussian Splatting Towards Free View Synthesis of Indoor Scenes",
+        "citations": 5,
+        "rank": "610 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GAVEL: Generating Games via Evolution and Language Models",
+        "citations": 5,
+        "rank": "611 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Infinite Limits of Multi-head Transformer Dynamics",
+        "citations": 5,
+        "rank": "612 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers",
+        "citations": 5,
+        "rank": "613 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Recognize Any Regions",
+        "citations": 5,
+        "rank": "614 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "On Softmax Direct Preference Optimization for Recommendation",
+        "citations": 5,
+        "rank": "615 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set",
+        "citations": 5,
+        "rank": "616 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dataset Decomposition: Faster LLM Training with Variable Sequence Length Curriculum",
+        "citations": 5,
+        "rank": "617 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "The Impact of Initialization on LoRA Finetuning Dynamics",
+        "citations": 5,
+        "rank": "618 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Automatic Outlier Rectification via Optimal Transport",
+        "citations": 5,
+        "rank": "619 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Learning Formal Mathematics From Intrinsic Motivation",
+        "citations": 5,
+        "rank": "620 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies",
+        "citations": 5,
+        "rank": "621 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Analysing the Generalisation and Reliability of Steering Vectors",
+        "citations": 5,
+        "rank": "622 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "HAWK: Learning to Understand Open-World Video Anomalies",
+        "citations": 5,
+        "rank": "623 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Conformalized Credal Set Predictors",
+        "citations": 5,
+        "rank": "624 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Can We Leave Deepfake Data Behind in Training Deepfake Detector?",
+        "citations": 5,
+        "rank": "625 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models",
+        "citations": 5,
+        "rank": "626 out of 2088",
+        "percentile": "top 29%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Automated Multi-level Preference for MLLMs",
+        "citations": 5,
+        "rank": "627 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Dynamic 3D Gaussian Fields for Urban Areas",
+        "citations": 5,
+        "rank": "628 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Generative Semi-supervised Graph Anomaly Detection",
+        "citations": 5,
+        "rank": "629 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A General Protocol to Probe Large Vision Models for 3D Physical Understanding",
+        "citations": 4,
+        "rank": "630 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Benchmarking Counterfactual Image Generation",
+        "citations": 4,
+        "rank": "631 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "FastDrag: Manipulate Anything in One Step",
+        "citations": 4,
+        "rank": "632 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "A Synthetic Dataset for Personal Attribute Inference",
+        "citations": 4,
+        "rank": "633 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation",
+        "citations": 4,
+        "rank": "634 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Distributional Preference Alignment of LLMs via Optimal Transport",
+        "citations": 4,
+        "rank": "635 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "LLM Circuit Analyses Are Consistent Across Training and Scale",
+        "citations": 4,
+        "rank": "636 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "GS-Hider: Hiding Messages into 3D Gaussian Splatting",
+        "citations": 4,
+        "rank": "637 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising",
+        "citations": 4,
+        "rank": "638 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "WATT: Weight Average Test Time Adaptation of CLIP",
+        "citations": 4,
+        "rank": "639 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+        "citations": 4,
+        "rank": "640 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos",
+        "citations": 4,
+        "rank": "641 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "VFIMamba: Video Frame Interpolation with State Space Models",
+        "citations": 4,
+        "rank": "642 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Regularized Q-Learning",
+        "citations": 4,
+        "rank": "643 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Cal-DPO: Calibrated Direct Preference Optimization for Language Model Alignment",
+        "citations": 4,
+        "rank": "644 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Hypothesis Testing the Circuit Hypothesis in LLMs",
+        "citations": 4,
+        "rank": "645 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models",
+        "citations": 4,
+        "rank": "646 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    },
+    {
+        "title": "Transformers on Markov data: Constant depth suffices",
+        "citations": 4,
+        "rank": "647 out of 2088",
+        "percentile": "top 30%",
+        "date": "2024-12-22"
+    }
+]
