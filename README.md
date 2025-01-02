@@ -1,6 +1,6 @@
 # Conference Citation Ranking
 
-This repository provides a tool for ranking the citations of individual papers presented at various AI top-tier conferences such as NeurIPS (NIPS), ICML, ICLR and others. The aim of this project is to provide insights into the citation performance of papers within a specific conference, helping researchers and institutions assess the impact of individual works.
+This repository provides a tool for ranking the citations of individual papers presented at various AI top-tier conferences such as NeurIPS (NIPS), ICML, ICLR, and others. The aim of this project is to provide insights into the citation performance of papers within a specific conference, helping researchers and institutions assess the impact of individual works.
 
 ## Features
 - **Citation Ranking**: Displays citation counts for papers and their ranks within the conference.
@@ -32,6 +32,9 @@ The data is presented in JSON format, with each entry representing a paper's cit
   - Example: "top 30%" means the paper is in the top 30% most cited papers.
 - **`date`**: The date when the citation data was last updated.
   - Example: "2024-12-19"
+
+## Recent Update
+Previously, papers with 0 citations were excluded from the ranking. We have updated the ranking methodology to include these papers, ensuring a more comprehensive analysis of all papers presented at a conference. Rankings and percentiles now account for all papers, regardless of their citation count.
 
 ## How to Use
 1. Clone the repository:

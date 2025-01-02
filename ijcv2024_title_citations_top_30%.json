@@ -154,21 +154,21 @@
         "date": "2025-01-02"
     },
     {
-        "title": "Exploring Vision-Language Models for Imbalanced Learning",
-        "citations": 27,
-        "rank": "23 out of 300",
-        "percentile": "top 8%",
-        "date": "2025-01-02"
-    },
-    {
         "title": "Hyperbolic Deep Learning in Computer Vision: A Survey",
         "citations": 27,
-        "rank": "24 out of 300",
+        "rank": "23 out of 300",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Accurate Fine-Grained Object Recognition with Structure-Driven Relation Graph Networks",
+        "citations": 27,
+        "rank": "24 out of 300",
+        "percentile": "top 8%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Exploring Vision-Language Models for Imbalanced Learning",
         "citations": 27,
         "rank": "25 out of 300",
         "percentile": "top 8%",
