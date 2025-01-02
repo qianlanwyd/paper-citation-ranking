@@ -1,0 +1,219 @@
+[
+    {
+        "title": "Margin Calibration for Long-Tailed Visual Recognition",
+        "citations": 30,
+        "rank": "1 out of 103",
+        "percentile": "top 0%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Feature Distribution Matching for Federated Domain Generalization",
+        "citations": 28,
+        "rank": "2 out of 103",
+        "percentile": "top 1%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking",
+        "citations": 27,
+        "rank": "3 out of 103",
+        "percentile": "top 2%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "EENAS: An Efficient Evolution for Neural Architecture Search",
+        "citations": 26,
+        "rank": "4 out of 103",
+        "percentile": "top 3%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Sliced Wasserstein Variational Inference",
+        "citations": 23,
+        "rank": "5 out of 103",
+        "percentile": "top 4%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Adversarial Laser Spot:Robust and Covert Physical-World Attack to DNNs",
+        "citations": 20,
+        "rank": "6 out of 103",
+        "percentile": "top 5%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "On the Convergence of Decentralized Adaptive Gradient Methods",
+        "citations": 20,
+        "rank": "7 out of 103",
+        "percentile": "top 6%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "On the expressivity of Normalizing Flows",
+        "citations": 19,
+        "rank": "8 out of 103",
+        "percentile": "top 7%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Locally Differentially Private Reinforcement Learning for Linear Mixture Markov Decision Processes",
+        "citations": 18,
+        "rank": "9 out of 103",
+        "percentile": "top 8%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Towards Data-Free Domain Generalization",
+        "citations": 16,
+        "rank": "10 out of 103",
+        "percentile": "top 9%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "DALE: Differential Accumulated Local Effects for efficient and accurate global explanations",
+        "citations": 15,
+        "rank": "11 out of 103",
+        "percentile": "top 10%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Transfer and Share: Semi-Supervised Learning from Long-Tailed Data",
+        "citations": 14,
+        "rank": "12 out of 103",
+        "percentile": "top 11%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Open-Set Learning under Covariate Shift",
+        "citations": 13,
+        "rank": "13 out of 103",
+        "percentile": "top 12%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "3DVerifier: Efficient Robustness Verification for 3D Point Cloud Models",
+        "citations": 13,
+        "rank": "14 out of 103",
+        "percentile": "top 13%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "BayesAdapter: Being Bayesian, Inexpensively and Reliably, via Bayesian Fine-tuning",
+        "citations": 13,
+        "rank": "15 out of 103",
+        "percentile": "top 14%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Hitting the Target: Stopping Active Learning at the Cost-Based Optimum",
+        "citations": 12,
+        "rank": "16 out of 103",
+        "percentile": "top 15%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Towards Enabling Learnware to Handle Heterogeneous Feature Spaces",
+        "citations": 12,
+        "rank": "17 out of 103",
+        "percentile": "top 16%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Parametric Non-Parallel Support Vector Machines for Pattern Classification",
+        "citations": 12,
+        "rank": "18 out of 103",
+        "percentile": "top 17%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Learning State Importance for Preference-based Reinforcement Learning",
+        "citations": 11,
+        "rank": "19 out of 103",
+        "percentile": "top 18%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Aligning Model Outputs for Class Imbalanced Non-IID Federated Learning",
+        "citations": 9,
+        "rank": "20 out of 103",
+        "percentile": "top 19%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Hashing2Vec: Fast Embedding Generation for SARS-CoV-2 Spike Sequence Classification",
+        "citations": 8,
+        "rank": "21 out of 103",
+        "percentile": "top 20%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Domain Alignment Meets Fully Test-Time Adaptation",
+        "citations": 8,
+        "rank": "22 out of 103",
+        "percentile": "top 21%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Riemannian block SPD coupling manifold and its application to optimal transport",
+        "citations": 7,
+        "rank": "23 out of 103",
+        "percentile": "top 22%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Trusted Loss Correction for Noisy Multi-Label Learning",
+        "citations": 7,
+        "rank": "24 out of 103",
+        "percentile": "top 23%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "An Enhanced Human Activity Recognition Algorithm with Positional Attention",
+        "citations": 7,
+        "rank": "25 out of 103",
+        "percentile": "top 24%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "FLVoogd: Robust And Privacy Preserving Federated Learning",
+        "citations": 7,
+        "rank": "26 out of 103",
+        "percentile": "top 25%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Deep Reinforcement Learning for High-Frequency Market Making",
+        "citations": 7,
+        "rank": "27 out of 103",
+        "percentile": "top 26%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Out of Distribution Detection via Neural Network Anchoring",
+        "citations": 7,
+        "rank": "28 out of 103",
+        "percentile": "top 27%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Partial Label Learning with Emerging New Labels",
+        "citations": 6,
+        "rank": "29 out of 103",
+        "percentile": "top 28%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Meta-Learning the Invariant Representation for Domain Generalization",
+        "citations": 6,
+        "rank": "30 out of 103",
+        "percentile": "top 29%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Cross-Scale Context Extracted Hashing for Fine-Grained Image Binary Encoding",
+        "citations": 6,
+        "rank": "31 out of 103",
+        "percentile": "top 30%",
+        "date": "2025-01-02"
+    }
+]
