@@ -2,644 +2,644 @@
     {
         "title": "Generalized Out-of-Distribution Detection: A Survey",
         "citations": 935,
-        "rank": "1 out of 300",
+        "rank": "1 out of 92",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "CLIP-Adapter: Better Vision-Language Models with Feature Adapters",
         "citations": 927,
-        "rank": "2 out of 300",
+        "rank": "2 out of 92",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Context Autoencoder for Self-supervised Representation Learning",
         "citations": 385,
-        "rank": "3 out of 300",
+        "rank": "3 out of 92",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "Exploiting Diffusion Prior for Real-World Image Super-Resolution",
         "citations": 219,
-        "rank": "4 out of 300",
+        "rank": "4 out of 92",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning with Noisy Correspondence",
         "citations": 127,
-        "rank": "5 out of 300",
+        "rank": "5 out of 92",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "InterGen: Diffusion-Based Multi-human Motion Generation Under Complex Interactions",
         "citations": 80,
-        "rank": "6 out of 300",
+        "rank": "6 out of 92",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "CoCoNet: Coupled Contrastive Learning Network with Multi-level Feature Ensemble for Multi-modality Image Fusion",
         "citations": 80,
-        "rank": "7 out of 300",
+        "rank": "7 out of 92",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Position, Padding and Predictions: A Deeper Look at Position Information in CNNs",
         "citations": 71,
-        "rank": "8 out of 300",
+        "rank": "8 out of 92",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "MixStyle Neural Networks for Domain Generalization and Adaptation",
         "citations": 67,
-        "rank": "9 out of 300",
+        "rank": "9 out of 92",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "CDistNet: Perceiving Multi-domain Character Distance for Robust Text Recognition",
         "citations": 64,
-        "rank": "10 out of 300",
+        "rank": "10 out of 92",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "CLIP-guided Prototype Modulating for Few-shot Action Recognition",
         "citations": 54,
-        "rank": "11 out of 300",
+        "rank": "11 out of 92",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "A Survey on Global LiDAR Localization: Challenges, Advances and Open Problems",
         "citations": 48,
-        "rank": "12 out of 300",
+        "rank": "12 out of 92",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "M-RRFS: A Memory-Based Robust Region Feature Synthesizer for Zero-Shot Object Detection",
         "citations": 47,
-        "rank": "13 out of 300",
+        "rank": "13 out of 92",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement",
         "citations": 41,
-        "rank": "14 out of 300",
+        "rank": "14 out of 92",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Correction: HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement",
         "citations": 41,
-        "rank": "15 out of 300",
+        "rank": "15 out of 92",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Cross-Architecture Knowledge Distillation",
         "citations": 38,
-        "rank": "16 out of 300",
+        "rank": "16 out of 92",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Diff-Font: Diffusion Model for Robust One-Shot Font Generation",
         "citations": 33,
-        "rank": "17 out of 300",
+        "rank": "17 out of 92",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?",
         "citations": 33,
-        "rank": "18 out of 300",
+        "rank": "18 out of 92",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "An Outlook into the Future of Egocentric Vision",
         "citations": 32,
-        "rank": "19 out of 300",
+        "rank": "19 out of 92",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm",
         "citations": 31,
-        "rank": "20 out of 300",
+        "rank": "20 out of 92",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "A Comprehensive Study of the Robustness for LiDAR-Based 3D Object Detectors Against Adversarial Attacks",
         "citations": 29,
-        "rank": "21 out of 300",
+        "rank": "21 out of 92",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "A Deep Learning Framework for Infrared and Visible Image Fusion Without Strict Registration",
         "citations": 28,
-        "rank": "22 out of 300",
+        "rank": "22 out of 92",
         "percentile": "top 7%",
+        "date": "2025-01-02"
+    },
+    {
+        "title": "Exploring Vision-Language Models for Imbalanced Learning",
+        "citations": 27,
+        "rank": "23 out of 92",
+        "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Hyperbolic Deep Learning in Computer Vision: A Survey",
         "citations": 27,
-        "rank": "23 out of 300",
+        "rank": "24 out of 92",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Accurate Fine-Grained Object Recognition with Structure-Driven Relation Graph Networks",
         "citations": 27,
-        "rank": "24 out of 300",
-        "percentile": "top 8%",
-        "date": "2025-01-02"
-    },
-    {
-        "title": "Exploring Vision-Language Models for Imbalanced Learning",
-        "citations": 27,
-        "rank": "25 out of 300",
+        "rank": "25 out of 92",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Rethinking Vision Transformer and Masked Autoencoder in Multimodal Face Anti-Spoofing",
         "citations": 26,
-        "rank": "26 out of 300",
+        "rank": "26 out of 92",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Are Vision Transformers Robust to Spurious Correlations?",
         "citations": 26,
-        "rank": "27 out of 300",
+        "rank": "27 out of 92",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Defending Multiple \\(\\ell _p\\)-Norm Bounded Adversarial Perturbations via Gated Batch Normalization",
         "citations": 25,
-        "rank": "28 out of 300",
+        "rank": "28 out of 92",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Learning-Based Image and Video Inpainting: A Survey",
         "citations": 24,
-        "rank": "29 out of 300",
+        "rank": "29 out of 92",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "End-to-End Video Text Spotting with Transformer",
         "citations": 24,
-        "rank": "30 out of 300",
+        "rank": "30 out of 92",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Sfnet: Faster and Accurate Semantic Segmentation Via Semantic Flow",
         "citations": 24,
-        "rank": "31 out of 300",
+        "rank": "31 out of 92",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "SegViT v2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers",
         "citations": 23,
-        "rank": "32 out of 300",
+        "rank": "32 out of 92",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization",
         "citations": 23,
-        "rank": "33 out of 300",
+        "rank": "33 out of 92",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Correction: PIDray: A Large-Scale X-ray Benchmark for Real-World Prohibited Item Detection",
         "citations": 22,
-        "rank": "34 out of 300",
+        "rank": "34 out of 92",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Grounded Affordance from Exocentric View",
         "citations": 22,
-        "rank": "35 out of 300",
+        "rank": "35 out of 92",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Cross-Modal Fusion and Progressive Decoding Network for RGB-D Salient Object Detection",
         "citations": 21,
-        "rank": "36 out of 300",
+        "rank": "36 out of 92",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "PL\\({}_{1}\\)P: Point-Line Minimal Problems under Partial Visibility in Three Views",
         "citations": 21,
-        "rank": "37 out of 300",
+        "rank": "37 out of 92",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "Universal Representations: A Unified Look at Multiple Task and Domain Learning",
         "citations": 21,
-        "rank": "38 out of 300",
+        "rank": "38 out of 92",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "Context-Aware Robust Fine-Tuning",
         "citations": 21,
-        "rank": "39 out of 300",
+        "rank": "39 out of 92",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Blind Image Deblurring with Unknown Kernel Size and Substantial Noise",
         "citations": 21,
-        "rank": "40 out of 300",
+        "rank": "40 out of 92",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Source-Free Domain Adaptation via Target Prediction Distribution Searching",
         "citations": 21,
-        "rank": "41 out of 300",
+        "rank": "41 out of 92",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "UrbanEvolver: Function-Aware Urban Layout Regeneration",
         "citations": 20,
-        "rank": "42 out of 300",
+        "rank": "42 out of 92",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions",
         "citations": 19,
-        "rank": "43 out of 300",
+        "rank": "43 out of 92",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Learning Technique for Human Parsing: A Survey and Outlook",
         "citations": 19,
-        "rank": "44 out of 300",
+        "rank": "44 out of 92",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "Benchmarking the Robustness of LiDAR Semantic Segmentation Models",
         "citations": 18,
-        "rank": "45 out of 300",
+        "rank": "45 out of 92",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Transferring Vision-Language Models for Visual Recognition: A Classifier Perspective",
         "citations": 18,
-        "rank": "46 out of 300",
+        "rank": "46 out of 92",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust Object Re-identification with Coupled Noisy Labels",
         "citations": 17,
-        "rank": "47 out of 300",
+        "rank": "47 out of 92",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature Mimicking",
         "citations": 17,
-        "rank": "48 out of 300",
+        "rank": "48 out of 92",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion",
         "citations": 17,
-        "rank": "49 out of 300",
+        "rank": "49 out of 92",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes",
         "citations": 17,
-        "rank": "50 out of 300",
+        "rank": "50 out of 92",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "RMS-FlowNet++: Efficient and Robust Multi-scale Scene Flow Estimation for Large-Scale Point Clouds",
         "citations": 16,
-        "rank": "51 out of 300",
+        "rank": "51 out of 92",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Language-Guided Visual Recognition via Dynamic Convolutions",
         "citations": 16,
-        "rank": "52 out of 300",
+        "rank": "52 out of 92",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation",
         "citations": 16,
-        "rank": "53 out of 300",
+        "rank": "53 out of 92",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Oriented R-CNN and Beyond",
         "citations": 15,
-        "rank": "54 out of 300",
+        "rank": "54 out of 92",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Instant3D: Instant Text-to-3D Generation",
         "citations": 14,
-        "rank": "55 out of 300",
+        "rank": "55 out of 92",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion",
         "citations": 14,
-        "rank": "56 out of 300",
+        "rank": "56 out of 92",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Richardson–Lucy Deconvolution for Low-Light Image Deblurring",
         "citations": 14,
-        "rank": "57 out of 300",
+        "rank": "57 out of 92",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer",
         "citations": 13,
-        "rank": "58 out of 300",
+        "rank": "58 out of 92",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Training Object Detectors from Scratch: An Empirical Study in the Era of Vision Transformer",
         "citations": 13,
-        "rank": "59 out of 300",
+        "rank": "59 out of 92",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "On Finite Difference Jacobian Computation in Deformable Image  Registration",
         "citations": 13,
-        "rank": "60 out of 300",
+        "rank": "60 out of 92",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Crots: Cross-Domain Teacher–Student Learning for Source-Free Domain Adaptive Semantic Segmentation",
         "citations": 13,
-        "rank": "61 out of 300",
+        "rank": "61 out of 92",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Coatrsnet: Fully Exploiting Convolution and Attention for Stereo Matching by Region Separation",
         "citations": 13,
-        "rank": "62 out of 300",
+        "rank": "62 out of 92",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-identification",
         "citations": 13,
-        "rank": "63 out of 300",
+        "rank": "63 out of 92",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Interpretable Task-inspired Adaptive Filter Pruning for Neural Networks Under Multiple Constraints",
         "citations": 13,
-        "rank": "64 out of 300",
+        "rank": "64 out of 92",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "In the Eye of Transformer: Global–Local Correlation for Egocentric Gaze Estimation and Beyond",
         "citations": 13,
-        "rank": "65 out of 300",
+        "rank": "65 out of 92",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Automated Detection of Cat Facial Landmarks",
         "citations": 12,
-        "rank": "66 out of 300",
+        "rank": "66 out of 92",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Advancing Weakly-Supervised Audio-Visual Video Parsing via Segment-Wise Pseudo Labeling",
         "citations": 12,
-        "rank": "67 out of 300",
+        "rank": "67 out of 92",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Diverse Binary Segmentation via a Simple yet General Gated Network",
         "citations": 11,
-        "rank": "68 out of 300",
+        "rank": "68 out of 92",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation",
         "citations": 11,
-        "rank": "69 out of 300",
+        "rank": "69 out of 92",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Image and Object Geo-Localization",
         "citations": 11,
-        "rank": "70 out of 300",
+        "rank": "70 out of 92",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Correction: Automatic Generation of 3D Scene Animation Based on Dynamic Knowledge Graphs and Contextual Encoding",
         "citations": 11,
-        "rank": "71 out of 300",
+        "rank": "71 out of 92",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "SOTVerse: A User-Defined Task Space of Single Object Tracking",
         "citations": 11,
-        "rank": "72 out of 300",
+        "rank": "72 out of 92",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking",
         "citations": 10,
-        "rank": "73 out of 300",
+        "rank": "73 out of 92",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Hierarchical Visual Transformation for Domain Generalizable Visual Matching and Recognition",
         "citations": 10,
-        "rank": "74 out of 300",
+        "rank": "74 out of 92",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning",
         "citations": 10,
-        "rank": "75 out of 300",
+        "rank": "75 out of 92",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels",
         "citations": 10,
-        "rank": "76 out of 300",
+        "rank": "76 out of 92",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "View-Invariant Skeleton Action Representation Learning via Motion Retargeting",
         "citations": 9,
-        "rank": "77 out of 300",
+        "rank": "77 out of 92",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Frame Rate Agnostic Multi-object Tracking",
         "citations": 9,
-        "rank": "78 out of 300",
+        "rank": "78 out of 92",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "BioDrone: A Bionic Drone-Based Single Object Tracking Benchmark for Robust Vision",
         "citations": 9,
-        "rank": "79 out of 300",
+        "rank": "79 out of 92",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "The Curious Layperson: Fine-Grained Image Recognition Without Expert Labels",
         "citations": 9,
-        "rank": "80 out of 300",
+        "rank": "80 out of 92",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification",
         "citations": 8,
-        "rank": "81 out of 300",
+        "rank": "81 out of 92",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Regional Adversarial Training for Better Robust Generalization",
         "citations": 8,
-        "rank": "82 out of 300",
+        "rank": "82 out of 92",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning",
         "citations": 8,
-        "rank": "83 out of 300",
+        "rank": "83 out of 92",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Open Set Recognition in Real World",
         "citations": 8,
-        "rank": "84 out of 300",
+        "rank": "84 out of 92",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "One-Shot Neural Face Reenactment via Finding Directions in GAN’s Latent Space",
         "citations": 8,
-        "rank": "85 out of 300",
+        "rank": "85 out of 92",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Softmax-Free Linear Transformers",
         "citations": 8,
-        "rank": "86 out of 300",
+        "rank": "86 out of 92",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust Unpaired Image Dehazing via Density and Depth Decomposition",
         "citations": 8,
-        "rank": "87 out of 300",
+        "rank": "87 out of 92",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert",
         "citations": 8,
-        "rank": "88 out of 300",
+        "rank": "88 out of 92",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "A Region-Based Randers Geodesic Approach for Image Segmentation",
         "citations": 8,
-        "rank": "89 out of 300",
+        "rank": "89 out of 92",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Intra- & Extra-Source Exemplar-Based Style Synthesis for Improved Domain Generalization",
         "citations": 8,
-        "rank": "90 out of 300",
+        "rank": "90 out of 92",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains",
         "citations": 8,
-        "rank": "91 out of 300",
+        "rank": "91 out of 92",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "Domain Generalization via Ensemble Stacking for Face Presentation Attack Detection",
         "citations": 8,
-        "rank": "92 out of 300",
+        "rank": "92 out of 92",
         "percentile": "top 30%",
         "date": "2025-01-02"
     }
