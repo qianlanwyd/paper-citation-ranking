@@ -2632,21 +2632,21 @@
         "date": "2024-12-20"
     },
     {
-        "title": "Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection",
+        "title": "Token Prediction as Implicit Classification to Identify LLM-Generated Text",
         "citations": 17,
         "rank": "377 out of 587",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
-        "title": "Token Prediction as Implicit Classification to Identify LLM-Generated Text",
+        "title": "mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations",
         "citations": 17,
         "rank": "378 out of 587",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
-        "title": "mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations",
+        "title": "Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection",
         "citations": 17,
         "rank": "379 out of 587",
         "percentile": "top 19%",
@@ -3143,154 +3143,154 @@
         "date": "2024-12-20"
     },
     {
-        "title": "Exploiting Emotion-Semantic Correlations for Empathetic Response Generation",
+        "title": "A Simple Baseline for Knowledge-Based Visual Question Answering",
         "citations": 14,
         "rank": "450 out of 587",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration",
-        "citations": 14,
-        "rank": "451 out of 587",
-        "percentile": "top 24%",
-        "date": "2024-12-20"
-    },
-    {
-        "title": "A Simple Baseline for Knowledge-Based Visual Question Answering",
-        "citations": 14,
-        "rank": "452 out of 587",
-        "percentile": "top 23%",
-        "date": "2024-12-20"
-    },
-    {
         "title": "Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning",
         "citations": 14,
-        "rank": "453 out of 587",
+        "rank": "451 out of 587",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation",
         "citations": 14,
-        "rank": "454 out of 587",
+        "rank": "452 out of 587",
+        "percentile": "top 23%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Exploiting Emotion-Semantic Correlations for Empathetic Response Generation",
+        "citations": 14,
+        "rank": "453 out of 587",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Controllable Chest X-Ray Report Generation from Longitudinal Representations",
         "citations": 14,
-        "rank": "455 out of 587",
+        "rank": "454 out of 587",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "A Hierarchical Encoding-Decoding Scheme for Abstractive Multi-document Summarization",
         "citations": 14,
-        "rank": "456 out of 587",
+        "rank": "455 out of 587",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Toward Joint Language Modeling for Speech Units and Text",
         "citations": 14,
-        "rank": "457 out of 587",
+        "rank": "456 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning",
         "citations": 14,
-        "rank": "458 out of 587",
+        "rank": "457 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
         "citations": 14,
-        "rank": "459 out of 587",
+        "rank": "458 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Getting MoRE out of Mixture of Language Model Reasoning Experts",
         "citations": 14,
-        "rank": "460 out of 587",
+        "rank": "459 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Neuro-Symbolic Sentiment Analysis with Dynamic Word Sense Disambiguation",
         "citations": 14,
-        "rank": "461 out of 587",
+        "rank": "460 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models",
         "citations": 14,
-        "rank": "462 out of 587",
+        "rank": "461 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue",
         "citations": 14,
-        "rank": "463 out of 587",
+        "rank": "462 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Cross-modality Data Augmentation for End-to-End Sign Language Translation",
         "citations": 14,
-        "rank": "464 out of 587",
+        "rank": "463 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Adaptation with Self-Evaluation to Improve Selective Prediction in LLMs",
         "citations": 14,
-        "rank": "465 out of 587",
+        "rank": "464 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition",
         "citations": 14,
-        "rank": "466 out of 587",
+        "rank": "465 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Are Language Models Worse than Humans at Following Prompts? It’s Complicated",
         "citations": 14,
-        "rank": "467 out of 587",
+        "rank": "466 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Probing the ``Creativity’’ of Large Language Models:  Can models produce divergent semantic association?",
         "citations": 14,
-        "rank": "468 out of 587",
+        "rank": "467 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Why LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation",
         "citations": 14,
-        "rank": "469 out of 587",
+        "rank": "468 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning",
         "citations": 14,
-        "rank": "470 out of 587",
+        "rank": "469 out of 587",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions",
+        "citations": 14,
+        "rank": "470 out of 587",
+        "percentile": "top 24%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration",
         "citations": 14,
         "rank": "471 out of 587",
         "percentile": "top 24%",
@@ -3325,175 +3325,175 @@
         "date": "2024-12-20"
     },
     {
-        "title": "Explicit Planning Helps Language Models in Logical Reasoning",
-        "citations": 13,
-        "rank": "476 out of 587",
-        "percentile": "top 26%",
-        "date": "2024-12-20"
-    },
-    {
         "title": "Analyzing Cognitive Plausibility of Subword Tokenization",
         "citations": 13,
-        "rank": "477 out of 587",
+        "rank": "476 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Simplicity Level Estimate (SLE): A Learned Reference-Less Metric for Sentence Simplification",
         "citations": 13,
-        "rank": "478 out of 587",
+        "rank": "477 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "NormDial: A Comparable Bilingual Synthetic Dialog Dataset for Modeling Social Norm Adherence and Violation",
         "citations": 13,
-        "rank": "479 out of 587",
+        "rank": "478 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Generative Calibration for In-context Learning",
         "citations": 13,
-        "rank": "480 out of 587",
+        "rank": "479 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Search Augmented Instruction Learning",
         "citations": 13,
-        "rank": "481 out of 587",
+        "rank": "480 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "An Empirical Study of Instruction-tuning Large Language Models in Chinese",
         "citations": 13,
-        "rank": "482 out of 587",
+        "rank": "481 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards large language model-based personal agents in the enterprise: Current trends and open problems",
         "citations": 13,
-        "rank": "483 out of 587",
+        "rank": "482 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Quantifying the Dialect Gap and its Correlates Across Languages",
         "citations": 13,
-        "rank": "484 out of 587",
+        "rank": "483 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction",
         "citations": 13,
-        "rank": "485 out of 587",
+        "rank": "484 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Accelerating Multiple Intent Detection and Slot Filling via Targeted Knowledge Distillation",
         "citations": 13,
-        "rank": "486 out of 587",
+        "rank": "485 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems",
         "citations": 13,
-        "rank": "487 out of 587",
+        "rank": "486 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "A Zero-Shot Language Agent for Computer Control with Structured Reflection",
         "citations": 13,
-        "rank": "488 out of 587",
+        "rank": "487 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Domain Adaptation for Sentiment Analysis Using Robust Internal Representations",
         "citations": 13,
-        "rank": "489 out of 587",
+        "rank": "488 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Let’s Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models",
         "citations": 13,
-        "rank": "490 out of 587",
+        "rank": "489 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning",
         "citations": 13,
-        "rank": "491 out of 587",
+        "rank": "490 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?",
         "citations": 13,
-        "rank": "492 out of 587",
+        "rank": "491 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "VISIT: Visualizing and Interpreting the Semantic Information Flow of Transformers",
         "citations": 13,
-        "rank": "493 out of 587",
+        "rank": "492 out of 587",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction",
         "citations": 13,
-        "rank": "494 out of 587",
+        "rank": "493 out of 587",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models",
         "citations": 13,
-        "rank": "495 out of 587",
+        "rank": "494 out of 587",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Conceptual structure coheres in human cognition but not in large language models",
         "citations": 13,
-        "rank": "496 out of 587",
+        "rank": "495 out of 587",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Self-Influence Guided Data Reweighting for Language Model Pre-training",
         "citations": 13,
-        "rank": "497 out of 587",
+        "rank": "496 out of 587",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text",
         "citations": 13,
-        "rank": "498 out of 587",
+        "rank": "497 out of 587",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network",
         "citations": 13,
-        "rank": "499 out of 587",
+        "rank": "498 out of 587",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Mirror: A Universal Framework for Various Information Extraction Tasks",
+        "citations": 13,
+        "rank": "499 out of 587",
+        "percentile": "top 26%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Explicit Planning Helps Language Models in Logical Reasoning",
         "citations": 13,
         "rank": "500 out of 587",
         "percentile": "top 26%",

@@ -2,1862 +2,1862 @@
     {
         "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
         "citations": 50875,
-        "rank": "1 out of 266",
+        "rank": "1 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection",
         "citations": 5712,
-        "rank": "2 out of 266",
+        "rank": "2 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
         "citations": 5417,
-        "rank": "3 out of 266",
+        "rank": "3 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Deberta: Decoding-Enhanced Bert With Disentangled Attention",
         "citations": 2754,
-        "rank": "4 out of 266",
+        "rank": "4 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Measuring Massive Multitask Language Understanding",
         "citations": 2671,
-        "rank": "5 out of 266",
+        "rank": "5 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
         "citations": 2458,
-        "rank": "6 out of 266",
+        "rank": "6 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Rethinking Attention with Performers",
         "citations": 1689,
-        "rank": "7 out of 266",
+        "rank": "7 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech",
         "citations": 1540,
-        "rank": "8 out of 266",
+        "rank": "8 out of 860",
         "percentile": "top 0%",
         "date": "2025-01-02"
     },
     {
         "title": "Sharpness-aware Minimization for Efficiently Improving Generalization",
         "citations": 1436,
-        "rank": "9 out of 266",
+        "rank": "9 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
         "citations": 1380,
-        "rank": "10 out of 266",
+        "rank": "10 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "In Search of Lost Domain Generalization",
         "citations": 1253,
-        "rank": "11 out of 266",
+        "rank": "11 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
         "citations": 1138,
-        "rank": "12 out of 266",
+        "rank": "12 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval",
         "citations": 1131,
-        "rank": "13 out of 266",
+        "rank": "13 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "Prototypical Contrastive Learning of Unsupervised Representations",
         "citations": 1131,
-        "rank": "14 out of 266",
+        "rank": "14 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
         "citations": 1014,
-        "rank": "15 out of 266",
+        "rank": "15 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "GraphCodeBERT: Pre-training Code Representations with Data Flow",
         "citations": 1010,
-        "rank": "16 out of 266",
+        "rank": "16 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "FedBN: Federated Learning on Non-IID Features via Local Batch Normalization",
         "citations": 919,
-        "rank": "17 out of 266",
+        "rank": "17 out of 860",
         "percentile": "top 1%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Mesh-Based Simulation with Graph Networks",
         "citations": 917,
-        "rank": "18 out of 266",
+        "rank": "18 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Mastering Atari with Discrete World Models",
         "citations": 896,
-        "rank": "19 out of 266",
+        "rank": "19 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Domain Generalization with MixStyle",
         "citations": 866,
-        "rank": "20 out of 266",
+        "rank": "20 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Federated Learning Based on Dynamic Regularization",
         "citations": 866,
-        "rank": "21 out of 266",
+        "rank": "21 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Contrastive Learning with Hard Negative Samples",
         "citations": 854,
-        "rank": "22 out of 266",
+        "rank": "22 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications",
         "citations": 817,
-        "rank": "23 out of 266",
+        "rank": "23 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Adaptive Universal Generalized PageRank Graph Neural Network",
         "citations": 810,
-        "rank": "24 out of 266",
+        "rank": "24 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "WaveGrad: Estimating Gradients for Waveform Generation",
         "citations": 808,
-        "rank": "25 out of 266",
+        "rank": "25 out of 860",
         "percentile": "top 2%",
         "date": "2025-01-02"
     },
     {
         "title": "Long-tail learning via logit adjustment",
         "citations": 787,
-        "rank": "26 out of 266",
+        "rank": "26 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "Long Range Arena : A Benchmark for Efficient Transformers",
         "citations": 673,
-        "rank": "27 out of 266",
+        "rank": "27 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning",
         "citations": 651,
-        "rank": "28 out of 266",
+        "rank": "28 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients",
         "citations": 582,
-        "rank": "29 out of 266",
+        "rank": "29 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "WaNet - Imperceptible Warping-based Backdoor Attack",
         "citations": 582,
-        "rank": "30 out of 266",
+        "rank": "30 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "Hopfield Networks is All You Need",
         "citations": 554,
-        "rank": "31 out of 266",
+        "rank": "31 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "Unbiased Teacher for Semi-Supervised Object Detection",
         "citations": 533,
-        "rank": "32 out of 266",
+        "rank": "32 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "Autoregressive Entity Retrieval",
         "citations": 523,
-        "rank": "33 out of 266",
+        "rank": "33 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
         "citations": 513,
-        "rank": "34 out of 266",
+        "rank": "34 out of 860",
         "percentile": "top 3%",
         "date": "2025-01-02"
     },
     {
         "title": "QPLEX: Duplex Dueling Multi-Agent Q-Learning",
         "citations": 513,
-        "rank": "35 out of 266",
+        "rank": "35 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning",
         "citations": 496,
-        "rank": "36 out of 266",
+        "rank": "36 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Dataset Condensation with Gradient Matching",
         "citations": 489,
-        "rank": "37 out of 266",
+        "rank": "37 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning from Protein Structure with Geometric Vector Perceptrons",
         "citations": 478,
-        "rank": "38 out of 266",
+        "rank": "38 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks",
         "citations": 478,
-        "rank": "39 out of 266",
+        "rank": "39 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels",
         "citations": 465,
-        "rank": "40 out of 266",
+        "rank": "40 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Revisiting Few-sample BERT Fine-tuning",
         "citations": 454,
-        "rank": "41 out of 266",
+        "rank": "41 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Aligning AI With Shared Human Values",
         "citations": 445,
-        "rank": "42 out of 266",
+        "rank": "42 out of 860",
         "percentile": "top 4%",
         "date": "2025-01-02"
     },
     {
         "title": "Long-tailed Recognition by Routing Diverse Distribution-Aware Experts",
         "citations": 429,
-        "rank": "43 out of 266",
+        "rank": "43 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines",
         "citations": 419,
-        "rank": "44 out of 266",
+        "rank": "44 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction",
         "citations": 409,
-        "rank": "45 out of 266",
+        "rank": "45 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Free Lunch for Few-shot Learning:  Distribution Calibration",
         "citations": 405,
-        "rank": "46 out of 266",
+        "rank": "46 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Noise or Signal: The Role of Image Backgrounds in Object Recognition",
         "citations": 402,
-        "rank": "47 out of 266",
+        "rank": "47 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks",
         "citations": 364,
-        "rank": "48 out of 266",
+        "rank": "48 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Recurrent Independent Mechanisms",
         "citations": 361,
-        "rank": "49 out of 266",
+        "rank": "49 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients",
         "citations": 356,
-        "rank": "50 out of 266",
+        "rank": "50 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "Simple Spectral Graph Convolution",
         "citations": 353,
-        "rank": "51 out of 266",
+        "rank": "51 out of 860",
         "percentile": "top 5%",
         "date": "2025-01-02"
     },
     {
         "title": "PseudoSeg: Designing Pseudo Labels for Semantic Segmentation",
         "citations": 352,
-        "rank": "52 out of 266",
+        "rank": "52 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "Random Feature Attention",
         "citations": 351,
-        "rank": "53 out of 266",
+        "rank": "53 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "Personalized Federated Learning with First Order Model Optimization",
         "citations": 348,
-        "rank": "54 out of 266",
+        "rank": "54 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images",
         "citations": 348,
-        "rank": "55 out of 266",
+        "rank": "55 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "Combining Label Propagation and Simple Models out-performs Graph Neural Networks",
         "citations": 346,
-        "rank": "56 out of 266",
+        "rank": "56 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
         "citations": 342,
-        "rank": "57 out of 266",
+        "rank": "57 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
         "citations": 341,
-        "rank": "58 out of 266",
+        "rank": "58 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "What Should Not Be Contrastive in Contrastive Learning",
         "citations": 338,
-        "rank": "59 out of 266",
+        "rank": "59 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "The Risks of Invariant Risk Minimization",
         "citations": 331,
-        "rank": "60 out of 266",
+        "rank": "60 out of 860",
         "percentile": "top 6%",
         "date": "2025-01-02"
     },
     {
         "title": "Zero-Cost Proxies for Lightweight NAS",
         "citations": 330,
-        "rank": "61 out of 266",
+        "rank": "61 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding",
         "citations": 327,
-        "rank": "62 out of 266",
+        "rank": "62 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "BERTology Meets Biology: Interpreting Attention in Protein Language Models",
         "citations": 326,
-        "rank": "63 out of 266",
+        "rank": "63 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Uncertainty Sets for Image Classifiers using Conformal Prediction",
         "citations": 326,
-        "rank": "64 out of 266",
+        "rank": "64 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning",
         "citations": 325,
-        "rank": "65 out of 266",
+        "rank": "65 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Discrete Graph Structure Learning for Forecasting Multiple Time Series",
         "citations": 318,
-        "rank": "66 out of 266",
+        "rank": "66 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Transformer protein language models are unsupervised structure learners",
         "citations": 316,
-        "rank": "67 out of 266",
+        "rank": "67 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Geometry-aware Instance-reweighted Adversarial Training",
         "citations": 313,
-        "rank": "68 out of 266",
+        "rank": "68 out of 860",
         "percentile": "top 7%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust early-learning: Hindering the memorization of noisy labels",
         "citations": 313,
-        "rank": "69 out of 266",
+        "rank": "69 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Large Scale Image Completion via Co-Modulated Generative Adversarial Networks",
         "citations": 310,
-        "rank": "70 out of 266",
+        "rank": "70 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Structured Prediction as Translation between Augmented Natural Languages",
         "citations": 309,
-        "rank": "71 out of 266",
+        "rank": "71 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Bag of Tricks for Adversarial Training",
         "citations": 305,
-        "rank": "72 out of 266",
+        "rank": "72 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision",
         "citations": 296,
-        "rank": "73 out of 266",
+        "rank": "73 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Nearest Neighbor Machine Translation",
         "citations": 295,
-        "rank": "74 out of 266",
+        "rank": "74 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Gradient Projection Memory for Continual Learning",
         "citations": 293,
-        "rank": "75 out of 266",
+        "rank": "75 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective",
         "citations": 293,
-        "rank": "76 out of 266",
+        "rank": "76 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth",
         "citations": 289,
-        "rank": "77 out of 266",
+        "rank": "77 out of 860",
         "percentile": "top 8%",
         "date": "2025-01-02"
     },
     {
         "title": "Support-set bottlenecks for video-text representation learning",
         "citations": 289,
-        "rank": "78 out of 266",
+        "rank": "78 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Exploring Balanced Feature Spaces for Representation Learning",
         "citations": 288,
-        "rank": "79 out of 266",
+        "rank": "79 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis",
         "citations": 288,
-        "rank": "80 out of 266",
+        "rank": "80 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning",
         "citations": 287,
-        "rank": "81 out of 266",
+        "rank": "81 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Few-Shot Learning via Learning the Representation, Provably",
         "citations": 282,
-        "rank": "82 out of 266",
+        "rank": "82 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Rethinking Positional Encoding in Language Pre-training",
         "citations": 279,
-        "rank": "83 out of 266",
+        "rank": "83 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Differentially Private Learning Needs Better Features (or Much More Data)",
         "citations": 277,
-        "rank": "84 out of 266",
+        "rank": "84 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Randomized Ensembled Double Q-Learning: Learning Fast Without a Model",
         "citations": 277,
-        "rank": "85 out of 266",
+        "rank": "85 out of 860",
         "percentile": "top 9%",
         "date": "2025-01-02"
     },
     {
         "title": "Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks",
         "citations": 272,
-        "rank": "86 out of 266",
+        "rank": "86 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Neural Thompson Sampling",
         "citations": 271,
-        "rank": "87 out of 266",
+        "rank": "87 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Explainable Deep One-Class Classification",
         "citations": 270,
-        "rank": "88 out of 266",
+        "rank": "88 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "How Does Mixup Help With Robustness and Generalization?",
         "citations": 270,
-        "rank": "89 out of 266",
+        "rank": "89 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "The Intrinsic Dimension of Images and Its Impact on Learning",
         "citations": 270,
-        "rank": "90 out of 266",
+        "rank": "90 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Training with Quantization Noise for Extreme Model Compression",
         "citations": 268,
-        "rank": "91 out of 266",
+        "rank": "91 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking",
         "citations": 264,
-        "rank": "92 out of 266",
+        "rank": "92 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability",
         "citations": 255,
-        "rank": "93 out of 266",
+        "rank": "93 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Better Fine-Tuning by Reducing Representational Collapse",
         "citations": 251,
-        "rank": "94 out of 266",
+        "rank": "94 out of 860",
         "percentile": "top 10%",
         "date": "2025-01-02"
     },
     {
         "title": "Pruning Neural Networks at Initialization: Why Are We Missing the Mark?",
         "citations": 250,
-        "rank": "95 out of 266",
+        "rank": "95 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning N:M  Fine-grained Structured Sparse Neural Networks From Scratch",
         "citations": 249,
-        "rank": "96 out of 266",
+        "rank": "96 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data",
         "citations": 249,
-        "rank": "97 out of 266",
+        "rank": "97 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Dataset Meta-Learning from Kernel Ridge-Regression",
         "citations": 247,
-        "rank": "98 out of 266",
+        "rank": "98 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning and Evaluating Representations for Deep One-Class Classification",
         "citations": 247,
-        "rank": "99 out of 266",
+        "rank": "99 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Distilling Knowledge from Reader to Retriever for Question Answering",
         "citations": 236,
-        "rank": "100 out of 266",
+        "rank": "100 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust and Generalizable Visual Representation Learning via Random Convolutions",
         "citations": 235,
-        "rank": "101 out of 266",
+        "rank": "101 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching",
         "citations": 234,
-        "rank": "102 out of 266",
+        "rank": "102 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Perceptual Adversarial Robustness: Defense Against Unseen Threat Models",
         "citations": 231,
-        "rank": "103 out of 266",
+        "rank": "103 out of 860",
         "percentile": "top 11%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning with Instance-Dependent Label Noise: A Sample Sieve Approach",
         "citations": 229,
-        "rank": "104 out of 266",
+        "rank": "104 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks",
         "citations": 228,
-        "rank": "105 out of 266",
+        "rank": "105 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors",
         "citations": 226,
-        "rank": "106 out of 266",
+        "rank": "106 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "RODE: Learning Roles to Decompose Multi-Agent Tasks",
         "citations": 226,
-        "rank": "107 out of 266",
+        "rank": "107 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "SEED: Self-supervised Distillation For Visual Representation",
         "citations": 226,
-        "rank": "108 out of 266",
+        "rank": "108 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "End-to-end Adversarial Text-to-Speech",
         "citations": 223,
-        "rank": "109 out of 266",
+        "rank": "109 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "Influence Functions in Deep Learning Are Fragile",
         "citations": 220,
-        "rank": "110 out of 266",
+        "rank": "110 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "On the Origin of Implicit Regularization in Stochastic Gradient Descent",
         "citations": 219,
-        "rank": "111 out of 266",
+        "rank": "111 out of 860",
         "percentile": "top 12%",
         "date": "2025-01-02"
     },
     {
         "title": "Accurate Learning of Graph Representations with Graph Multiset Pooling",
         "citations": 217,
-        "rank": "112 out of 266",
+        "rank": "112 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Self-supervised Learning from a Multi-view Perspective",
         "citations": 216,
-        "rank": "113 out of 266",
+        "rank": "113 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization",
         "citations": 215,
-        "rank": "114 out of 266",
+        "rank": "114 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "LambdaNetworks: Modeling long-range Interactions without Attention",
         "citations": 213,
-        "rank": "115 out of 266",
+        "rank": "115 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs",
         "citations": 213,
-        "rank": "116 out of 266",
+        "rank": "116 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Rethinking Architecture Selection in Differentiable NAS",
         "citations": 212,
-        "rank": "117 out of 266",
+        "rank": "117 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust Overfitting may be mitigated by properly learned smoothening",
         "citations": 210,
-        "rank": "118 out of 266",
+        "rank": "118 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning",
         "citations": 207,
-        "rank": "119 out of 266",
+        "rank": "119 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Multi-Time Attention Networks for Irregularly Sampled Time Series",
         "citations": 207,
-        "rank": "120 out of 266",
+        "rank": "120 out of 860",
         "percentile": "top 13%",
         "date": "2025-01-02"
     },
     {
         "title": "Fast and Complete: Enabling Complete Neural Network Verification with Rapid and Massively Parallel Incomplete Verifiers",
         "citations": 205,
-        "rank": "121 out of 266",
+        "rank": "121 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows",
         "citations": 205,
-        "rank": "122 out of 266",
+        "rank": "122 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "NBDT: Neural-Backed Decision Tree",
         "citations": 205,
-        "rank": "123 out of 266",
+        "rank": "123 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective",
         "citations": 204,
-        "rank": "124 out of 266",
+        "rank": "124 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "You Only Need Adversarial Supervision for Semantic Image Synthesis",
         "citations": 203,
-        "rank": "125 out of 266",
+        "rank": "125 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "DC3: A learning method for optimization with hard constraints",
         "citations": 201,
-        "rank": "126 out of 266",
+        "rank": "126 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "Degree-Quant: Quantization-Aware Training for Graph Neural Networks",
         "citations": 200,
-        "rank": "127 out of 266",
+        "rank": "127 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "BOIL: Towards Representation Change for Few-shot Learning",
         "citations": 198,
-        "rank": "128 out of 266",
+        "rank": "128 out of 860",
         "percentile": "top 14%",
         "date": "2025-01-02"
     },
     {
         "title": "Incorporating Symmetry into Deep Dynamics Models for Improved Generalization",
         "citations": 197,
-        "rank": "129 out of 266",
+        "rank": "129 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Layer-adaptive Sparsity for the Magnitude-based Pruning",
         "citations": 197,
-        "rank": "130 out of 266",
+        "rank": "130 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "DARTS-: Robustly Stepping out of Performance Collapse Without Indicators",
         "citations": 196,
-        "rank": "131 out of 266",
+        "rank": "131 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity",
         "citations": 195,
-        "rank": "132 out of 266",
+        "rank": "132 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs",
         "citations": 195,
-        "rank": "133 out of 266",
+        "rank": "133 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "FedMix: Approximation of Mixup under Mean Augmented Federated Learning",
         "citations": 194,
-        "rank": "134 out of 266",
+        "rank": "134 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Evaluation of Neural Architectures Trained With Square Loss vs Cross-Entropy in Classification Tasks",
         "citations": 192,
-        "rank": "135 out of 266",
+        "rank": "135 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Unlearnable Examples: Making Personal Data Unexploitable",
         "citations": 192,
-        "rank": "136 out of 266",
+        "rank": "136 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models",
         "citations": 191,
-        "rank": "137 out of 266",
+        "rank": "137 out of 860",
         "percentile": "top 15%",
         "date": "2025-01-02"
     },
     {
         "title": "A Good Image Generator Is What You Need for High-Resolution Video Synthesis",
         "citations": 190,
-        "rank": "138 out of 266",
+        "rank": "138 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning",
         "citations": 190,
-        "rank": "139 out of 266",
+        "rank": "139 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust Reinforcement Learning on State Observations with Learned Optimal Adversary",
         "citations": 190,
-        "rank": "140 out of 266",
+        "rank": "140 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "Understanding the failure modes of out-of-distribution generalization",
         "citations": 190,
-        "rank": "141 out of 266",
+        "rank": "141 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "AdaSpeech: Adaptive Text to Speech for Custom Voice",
         "citations": 189,
-        "rank": "142 out of 266",
+        "rank": "142 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "What are the Statistical Limits of Offline RL with Linear Function Approximation?",
         "citations": 189,
-        "rank": "143 out of 266",
+        "rank": "143 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics",
         "citations": 188,
-        "rank": "144 out of 266",
+        "rank": "144 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "Open Question Answering over Tables and Text",
         "citations": 188,
-        "rank": "145 out of 266",
+        "rank": "145 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "BREEDS: Benchmarks for Subpopulation Shift",
         "citations": 186,
-        "rank": "146 out of 266",
+        "rank": "146 out of 860",
         "percentile": "top 16%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning explanations that are hard to vary",
         "citations": 183,
-        "rank": "147 out of 266",
+        "rank": "147 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning to Reach Goals via Iterated Supervised Learning",
         "citations": 182,
-        "rank": "148 out of 266",
+        "rank": "148 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Optimism in Reinforcement Learning with Generalized Linear Function Approximation",
         "citations": 182,
-        "rank": "149 out of 266",
+        "rank": "149 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning with Feature-Dependent Label Noise: A Progressive Approach",
         "citations": 181,
-        "rank": "150 out of 266",
+        "rank": "150 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting",
         "citations": 180,
-        "rank": "151 out of 266",
+        "rank": "151 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis",
         "citations": 178,
-        "rank": "152 out of 266",
+        "rank": "152 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN",
         "citations": 178,
-        "rank": "153 out of 266",
+        "rank": "153 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "LEAF: A Learnable Frontend for Audio Classification",
         "citations": 177,
-        "rank": "154 out of 266",
+        "rank": "154 out of 860",
         "percentile": "top 17%",
         "date": "2025-01-02"
     },
     {
         "title": "AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights",
         "citations": 175,
-        "rank": "155 out of 266",
+        "rank": "155 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation",
         "citations": 175,
-        "rank": "156 out of 266",
+        "rank": "156 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Graph Information Bottleneck for Subgraph Recognition",
         "citations": 175,
-        "rank": "157 out of 266",
+        "rank": "157 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Rethinking Soft Labels for Knowledge Distillation: A Bias–Variance Tradeoff Perspective",
         "citations": 174,
-        "rank": "158 out of 266",
+        "rank": "158 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Self-Supervised Policy Adaptation during Deployment",
         "citations": 172,
-        "rank": "159 out of 266",
+        "rank": "159 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Is Attention Better Than Matrix Decomposition?",
         "citations": 170,
-        "rank": "160 out of 266",
+        "rank": "160 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Neural Pruning via Growing Regularization",
         "citations": 170,
-        "rank": "161 out of 266",
+        "rank": "161 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Expressive Power of Invariant and Equivariant Graph Neural Networks",
         "citations": 167,
-        "rank": "162 out of 266",
+        "rank": "162 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Impartial Multi-task Learning",
         "citations": 165,
-        "rank": "163 out of 266",
+        "rank": "163 out of 860",
         "percentile": "top 18%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Neural Network Fingerprinting by Conferrable Adversarial Examples",
         "citations": 164,
-        "rank": "164 out of 266",
+        "rank": "164 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Large Associative Memory Problem in Neurobiology and Machine Learning",
         "citations": 164,
-        "rank": "165 out of 266",
+        "rank": "165 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Uncertainty Estimation in Autoregressive Structured Prediction",
         "citations": 164,
-        "rank": "166 out of 266",
+        "rank": "166 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Shapley explainability on the data manifold",
         "citations": 161,
-        "rank": "167 out of 266",
+        "rank": "167 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization",
         "citations": 159,
-        "rank": "168 out of 266",
+        "rank": "168 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning with AMIGo: Adversarially Motivated Intrinsic Goals",
         "citations": 159,
-        "rank": "169 out of 266",
+        "rank": "169 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "MARS: Markov Molecular Sampling for Multi-objective Drug Discovery",
         "citations": 158,
-        "rank": "170 out of 266",
+        "rank": "170 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "The Importance of Pessimism in Fixed-Dataset Policy Optimization",
         "citations": 158,
-        "rank": "171 out of 266",
+        "rank": "171 out of 860",
         "percentile": "top 19%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks",
         "citations": 157,
-        "rank": "172 out of 266",
+        "rank": "172 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Fair Mixup: Fairness via Interpolation",
         "citations": 157,
-        "rank": "173 out of 266",
+        "rank": "173 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima",
         "citations": 156,
-        "rank": "174 out of 266",
+        "rank": "174 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Hyperbolic Neural Networks++",
         "citations": 156,
-        "rank": "175 out of 266",
+        "rank": "175 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Model-Based Offline Planning",
         "citations": 156,
-        "rank": "176 out of 266",
+        "rank": "176 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Multiplicative Filter Networks",
         "citations": 156,
-        "rank": "177 out of 266",
+        "rank": "177 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Minimum Width for Universal Approximation",
         "citations": 155,
-        "rank": "178 out of 266",
+        "rank": "178 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "Parrot: Data-Driven Behavioral Priors for Reinforcement Learning",
         "citations": 155,
-        "rank": "179 out of 266",
+        "rank": "179 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "FairBatch: Batch Selection for Model Fairness",
         "citations": 154,
-        "rank": "180 out of 266",
+        "rank": "180 out of 860",
         "percentile": "top 20%",
         "date": "2025-01-02"
     },
     {
         "title": "A Universal Representation Transformer Layer for Few-Shot Image Classification",
         "citations": 153,
-        "rank": "181 out of 266",
+        "rank": "181 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "LowKey: Leveraging Adversarial Attacks to Protect Social Media Users from Facial Recognition",
         "citations": 149,
-        "rank": "182 out of 266",
+        "rank": "182 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Tilted Empirical Risk Minimization",
         "citations": 149,
-        "rank": "183 out of 266",
+        "rank": "183 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "DrNAS: Dirichlet Neural Architecture Search",
         "citations": 148,
-        "rank": "184 out of 266",
+        "rank": "184 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "On Position Embeddings in BERT",
         "citations": 148,
-        "rank": "185 out of 266",
+        "rank": "185 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Primal Wasserstein Imitation Learning",
         "citations": 148,
-        "rank": "186 out of 266",
+        "rank": "186 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Conservative Safety Critics for Exploration",
         "citations": 147,
-        "rank": "187 out of 266",
+        "rank": "187 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "R-GAP: Recursive Gradient Attack on Privacy",
         "citations": 147,
-        "rank": "188 out of 266",
+        "rank": "188 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Resolving the Implicit Bias of Gradient Descent for Matrix Factorization: Greedy Low-Rank Learning",
         "citations": 147,
-        "rank": "189 out of 266",
+        "rank": "189 out of 860",
         "percentile": "top 21%",
         "date": "2025-01-02"
     },
     {
         "title": "Language-Agnostic Representation Learning of Source Code from Structure and Context",
         "citations": 146,
-        "rank": "190 out of 266",
+        "rank": "190 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Counterfactual Generative Networks",
         "citations": 145,
-        "rank": "191 out of 266",
+        "rank": "191 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Safe Multi-agent Control with Decentralized Neural Barrier Certificates",
         "citations": 144,
-        "rank": "192 out of 266",
+        "rank": "192 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Rethinking Embedding Coupling in Pre-trained Language Models",
         "citations": 144,
-        "rank": "193 out of 266",
+        "rank": "193 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?",
         "citations": 143,
-        "rank": "194 out of 266",
+        "rank": "194 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Nonlinear Disentanglement in Natural Data with Temporal Sparse Coding",
         "citations": 143,
-        "rank": "195 out of 266",
+        "rank": "195 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "Complex Query Answering with Neural Link Predictors",
         "citations": 142,
-        "rank": "196 out of 266",
+        "rank": "196 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "MultiModalQA: complex question answering over text, tables and images",
         "citations": 142,
-        "rank": "197 out of 266",
+        "rank": "197 out of 860",
         "percentile": "top 22%",
         "date": "2025-01-02"
     },
     {
         "title": "$i$-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning",
         "citations": 141,
-        "rank": "198 out of 266",
+        "rank": "198 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark",
         "citations": 141,
-        "rank": "199 out of 266",
+        "rank": "199 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs",
         "citations": 141,
-        "rank": "200 out of 266",
+        "rank": "200 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning",
         "citations": 140,
-        "rank": "201 out of 266",
+        "rank": "201 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning the Pareto Front with Hypernetworks",
         "citations": 140,
-        "rank": "202 out of 266",
+        "rank": "202 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Optimal Regularization can Mitigate Double Descent",
         "citations": 140,
-        "rank": "203 out of 266",
+        "rank": "203 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences",
         "citations": 140,
-        "rank": "204 out of 266",
+        "rank": "204 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Characterizing signal propagation to close the performance gap in unnormalized ResNets",
         "citations": 139,
-        "rank": "205 out of 266",
+        "rank": "205 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Improving Adversarial Robustness via Channel-wise Activation Suppressing",
         "citations": 139,
-        "rank": "206 out of 266",
+        "rank": "206 out of 860",
         "percentile": "top 23%",
         "date": "2025-01-02"
     },
     {
         "title": "Dance Revolution: Long-Term Dance Generation with Music via Curriculum Learning",
         "citations": 138,
-        "rank": "207 out of 266",
+        "rank": "207 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections",
         "citations": 138,
-        "rank": "208 out of 266",
+        "rank": "208 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "When Do Curricula Work?",
         "citations": 138,
-        "rank": "209 out of 266",
+        "rank": "209 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "DeLighT: Deep and Light-weight Transformer",
         "citations": 137,
-        "rank": "210 out of 266",
+        "rank": "210 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Neural Event Functions for Ordinary Differential Equations",
         "citations": 137,
-        "rank": "211 out of 266",
+        "rank": "211 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "Self-training For Few-shot Transfer Across Extreme Task Differences",
         "citations": 137,
-        "rank": "212 out of 266",
+        "rank": "212 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "Negative Data Augmentation",
         "citations": 136,
-        "rank": "213 out of 266",
+        "rank": "213 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "DOP: Off-Policy Multi-Agent Decomposed Policy Gradients",
         "citations": 135,
-        "rank": "214 out of 266",
+        "rank": "214 out of 860",
         "percentile": "top 24%",
         "date": "2025-01-02"
     },
     {
         "title": "Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs",
         "citations": 134,
-        "rank": "215 out of 266",
+        "rank": "215 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Neural Generative Dynamics for Molecular Conformation Generation",
         "citations": 134,
-        "rank": "216 out of 266",
+        "rank": "216 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective",
         "citations": 133,
-        "rank": "217 out of 266",
+        "rank": "217 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Generalized Energy Based Models",
         "citations": 132,
-        "rank": "218 out of 266",
+        "rank": "218 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning Energy-Based Models by Diffusion Recovery Likelihood",
         "citations": 132,
-        "rank": "219 out of 266",
+        "rank": "219 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models",
         "citations": 130,
-        "rank": "220 out of 266",
+        "rank": "220 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Linear Mode Connectivity in Multitask and Continual Learning",
         "citations": 129,
-        "rank": "221 out of 266",
+        "rank": "221 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Lipschitz Recurrent Neural Networks",
         "citations": 129,
-        "rank": "222 out of 266",
+        "rank": "222 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Shape-Texture Debiased Neural Network Training",
         "citations": 129,
-        "rank": "223 out of 266",
+        "rank": "223 out of 860",
         "percentile": "top 25%",
         "date": "2025-01-02"
     },
     {
         "title": "Adversarial score matching and improved sampling for image generation",
         "citations": 128,
-        "rank": "224 out of 266",
+        "rank": "224 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration",
         "citations": 128,
-        "rank": "225 out of 266",
+        "rank": "225 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "A Distributional Approach to Controlled Text Generation",
         "citations": 126,
-        "rank": "226 out of 266",
+        "rank": "226 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs",
         "citations": 126,
-        "rank": "227 out of 266",
+        "rank": "227 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?",
         "citations": 125,
-        "rank": "228 out of 266",
+        "rank": "228 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Interpretable Neural Architecture Search via Bayesian Optimisation with Weisfeiler-Lehman Kernels",
         "citations": 125,
-        "rank": "229 out of 266",
+        "rank": "229 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation",
         "citations": 124,
-        "rank": "230 out of 266",
+        "rank": "230 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Contrastive  Learning  with Adversarial Perturbations for Conditional Text Generation",
         "citations": 123,
-        "rank": "231 out of 266",
+        "rank": "231 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Directed Acyclic Graph Neural Networks",
         "citations": 123,
-        "rank": "232 out of 266",
+        "rank": "232 out of 860",
         "percentile": "top 26%",
         "date": "2025-01-02"
     },
     {
         "title": "Linear Last-iterate Convergence in Constrained Saddle-point Optimization",
         "citations": 123,
-        "rank": "233 out of 266",
+        "rank": "233 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms",
         "citations": 122,
-        "rank": "234 out of 266",
+        "rank": "234 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Towards Robustness Against Natural Language Word Substitutions",
         "citations": 122,
-        "rank": "235 out of 266",
+        "rank": "235 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "MELR: Meta-Learning via Modeling Episode-Level Relationships for Few-Shot Learning",
         "citations": 121,
-        "rank": "236 out of 266",
+        "rank": "236 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Orthogonalizing Convolutional Layers with the Cayley Transform",
         "citations": 121,
-        "rank": "237 out of 266",
+        "rank": "237 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Robust Curriculum Learning: from clean label detection to noisy label self-correction",
         "citations": 121,
-        "rank": "238 out of 266",
+        "rank": "238 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Bypassing the Ambient Dimension: Private SGD with Gradient Subspace Identification",
         "citations": 119,
-        "rank": "239 out of 266",
+        "rank": "239 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Dataset Inference: Ownership Resolution in Machine Learning",
         "citations": 119,
-        "rank": "240 out of 266",
+        "rank": "240 out of 860",
         "percentile": "top 27%",
         "date": "2025-01-02"
     },
     {
         "title": "Do not Let Privacy Overbill Utility:  Gradient Embedding Perturbation for Private Learning",
         "citations": 118,
-        "rank": "241 out of 266",
+        "rank": "241 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics",
         "citations": 118,
-        "rank": "242 out of 266",
+        "rank": "242 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Active Contrastive Learning of Audio-Visual Video Representations",
         "citations": 117,
-        "rank": "243 out of 266",
+        "rank": "243 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Attentional Constellation Nets for Few-Shot Learning",
         "citations": 117,
-        "rank": "244 out of 266",
+        "rank": "244 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Systematic generalisation with group invariant predictions",
         "citations": 117,
-        "rank": "245 out of 266",
+        "rank": "245 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning",
         "citations": 115,
-        "rank": "246 out of 266",
+        "rank": "246 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Signatory: differentiable computations of the signature and logsignature transforms, on both CPU and GPU",
         "citations": 115,
-        "rank": "247 out of 266",
+        "rank": "247 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Understanding and Improving Lexical Choice in Non-Autoregressive Translation",
         "citations": 115,
-        "rank": "248 out of 266",
+        "rank": "248 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "MoPro: Webly Supervised Learning with Momentum Prototypes",
         "citations": 114,
-        "rank": "249 out of 266",
+        "rank": "249 out of 860",
         "percentile": "top 28%",
         "date": "2025-01-02"
     },
     {
         "title": "Temporally-Extended ε-Greedy Exploration",
         "citations": 112,
-        "rank": "250 out of 266",
+        "rank": "250 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders",
         "citations": 111,
-        "rank": "251 out of 266",
+        "rank": "251 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning to Set Waypoints for Audio-Visual Navigation",
         "citations": 111,
-        "rank": "252 out of 266",
+        "rank": "252 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Neural Spatio-Temporal Point Processes",
         "citations": 111,
-        "rank": "253 out of 266",
+        "rank": "253 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Isotropy in the Contextual Embedding Space: Clusters and Manifolds",
         "citations": 109,
-        "rank": "254 out of 266",
+        "rank": "254 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS",
         "citations": 108,
-        "rank": "255 out of 266",
+        "rank": "255 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Uncertainty in Gradient Boosting via Ensembles",
         "citations": 108,
-        "rank": "256 out of 266",
+        "rank": "256 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Online Adversarial Purification based on Self-supervised Learning",
         "citations": 107,
-        "rank": "257 out of 266",
+        "rank": "257 out of 860",
         "percentile": "top 29%",
         "date": "2025-01-02"
     },
     {
         "title": "Progressive Skeletonization: Trimming more fat from a network at initialization",
         "citations": 107,
-        "rank": "258 out of 266",
+        "rank": "258 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks",
         "citations": 106,
-        "rank": "259 out of 266",
+        "rank": "259 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "Communication in Multi-Agent Reinforcement Learning: Intention Sharing",
         "citations": 106,
-        "rank": "260 out of 266",
+        "rank": "260 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "The role of Disentanglement in Generalisation",
         "citations": 106,
-        "rank": "261 out of 266",
+        "rank": "261 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "gradSim: Differentiable simulation for system identification and visuomotor control",
         "citations": 105,
-        "rank": "262 out of 266",
+        "rank": "262 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models",
         "citations": 104,
-        "rank": "263 out of 266",
+        "rank": "263 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "Wasserstein-2 Generative Networks",
         "citations": 104,
-        "rank": "264 out of 266",
+        "rank": "264 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "IEPT: Instance-Level and Episode-Level Pretext Tasks for Few-Shot Learning",
         "citations": 103,
-        "rank": "265 out of 266",
+        "rank": "265 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     },
     {
         "title": "Learning from others' mistakes: Avoiding dataset biases without modeling them",
         "citations": 103,
-        "rank": "266 out of 266",
+        "rank": "266 out of 860",
         "percentile": "top 30%",
         "date": "2025-01-02"
     }

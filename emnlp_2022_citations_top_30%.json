@@ -2,2912 +2,2912 @@
     {
         "title": "Red Teaming Language Models with Language Models",
         "citations": 535,
-        "rank": "1 out of 416",
+        "rank": "1 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks",
         "citations": 497,
-        "rank": "2 out of 416",
+        "rank": "2 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Large language models are few-shot clinical information extractors",
         "citations": 356,
-        "rank": "3 out of 416",
+        "rank": "3 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Large Dual Encoders Are Generalizable Retrievers",
         "citations": 353,
-        "rank": "4 out of 416",
+        "rank": "4 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "MedCLIP: Contrastive Learning from Unpaired Medical Images and Text",
         "citations": 352,
-        "rank": "5 out of 416",
+        "rank": "5 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning",
         "citations": 302,
-        "rank": "6 out of 416",
+        "rank": "6 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Can language models learn from explanations in context?",
         "citations": 266,
-        "rank": "7 out of 416",
+        "rank": "7 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space",
         "citations": 247,
-        "rank": "8 out of 416",
+        "rank": "8 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "WANLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation",
         "citations": 210,
-        "rank": "9 out of 416",
+        "rank": "9 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards a Unified Multi-Dimensional Evaluator for Text Generation",
         "citations": 203,
-        "rank": "10 out of 416",
+        "rank": "10 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models",
         "citations": 197,
-        "rank": "11 out of 416",
+        "rank": "11 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs",
         "citations": 192,
-        "rank": "12 out of 416",
+        "rank": "12 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "The \"Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation",
         "citations": 189,
-        "rank": "13 out of 416",
+        "rank": "13 out of 1342",
         "percentile": "top 0%",
         "date": "2024-12-20"
     },
     {
         "title": "PromptBERT: Improving BERT Sentence Embeddings with Prompts",
         "citations": 184,
-        "rank": "14 out of 416",
+        "rank": "14 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Translation between Molecules and Natural Language",
         "citations": 174,
-        "rank": "15 out of 416",
+        "rank": "15 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Language Models as Agent Models",
         "citations": 171,
-        "rank": "16 out of 416",
+        "rank": "16 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Language Models of Code are Few-Shot Commonsense Learners",
         "citations": 169,
-        "rank": "17 out of 416",
+        "rank": "17 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Re3: Generating Longer Stories With Recursive Reprompting and Revision",
         "citations": 164,
-        "rank": "18 out of 416",
+        "rank": "18 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt-learning for Fine-grained Entity Typing",
         "citations": 160,
-        "rank": "19 out of 416",
+        "rank": "19 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "ZeroGen: Efficient Zero-shot Learning via Dataset Generation",
         "citations": 158,
-        "rank": "20 out of 416",
+        "rank": "20 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Active Example Selection for In-Context Learning",
         "citations": 154,
-        "rank": "21 out of 416",
+        "rank": "21 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Are Large Pre-Trained Language Models Leaking Your Personal Information?",
         "citations": 152,
-        "rank": "22 out of 416",
+        "rank": "22 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "CTRLsum: Towards Generic Controllable Text Summarization",
         "citations": 151,
-        "rank": "23 out of 416",
+        "rank": "23 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder",
         "citations": 142,
-        "rank": "24 out of 416",
+        "rank": "24 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition",
         "citations": 141,
-        "rank": "25 out of 416",
+        "rank": "25 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks",
         "citations": 140,
-        "rank": "26 out of 416",
+        "rank": "26 out of 1342",
         "percentile": "top 1%",
         "date": "2024-12-20"
     },
     {
         "title": "Large-Scale Differentially Private BERT",
         "citations": 139,
-        "rank": "27 out of 416",
+        "rank": "27 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "\"I'm sorry to hear that\": Finding New Biases in Language Models with a Holistic Descriptor Dataset",
         "citations": 133,
-        "rank": "28 out of 416",
+        "rank": "28 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving Passage Retrieval with Zero-Shot Question Generation",
         "citations": 130,
-        "rank": "29 out of 416",
+        "rank": "29 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again",
         "citations": 127,
-        "rank": "30 out of 416",
+        "rank": "30 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization",
         "citations": 125,
-        "rank": "31 out of 416",
+        "rank": "31 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "Training Language Models with Memory Augmentation",
         "citations": 125,
-        "rank": "32 out of 416",
+        "rank": "32 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "SCROLLS: Standardized CompaRison Over Long Language Sequences",
         "citations": 125,
-        "rank": "33 out of 416",
+        "rank": "33 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "In-Context Learning for Few-Shot Dialogue State Tracking",
         "citations": 123,
-        "rank": "34 out of 416",
+        "rank": "34 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "ASQA: Factoid Questions Meet Long-Form Answers",
         "citations": 123,
-        "rank": "35 out of 416",
+        "rank": "35 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion",
         "citations": 120,
-        "rank": "36 out of 416",
+        "rank": "36 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models",
         "citations": 116,
-        "rank": "37 out of 416",
+        "rank": "37 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections",
         "citations": 115,
-        "rank": "38 out of 416",
+        "rank": "38 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "MemPrompt: Memory-assisted Prompt Editing with User Feedback",
         "citations": 112,
-        "rank": "39 out of 416",
+        "rank": "39 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "LILA: A Unified Benchmark for Mathematical Reasoning",
         "citations": 109,
-        "rank": "40 out of 416",
+        "rank": "40 out of 1342",
         "percentile": "top 2%",
         "date": "2024-12-20"
     },
     {
         "title": "MAGMA – Multimodal Augmentation of Generative Models through Adapter-based Finetuning",
         "citations": 107,
-        "rank": "41 out of 416",
+        "rank": "41 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Calibrating Factual Knowledge in Pretrained Language Models",
         "citations": 106,
-        "rank": "42 out of 416",
+        "rank": "42 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "What Language Model to Train if You Have One Million GPU Hours?",
         "citations": 105,
-        "rank": "43 out of 416",
+        "rank": "43 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Efficient Large Scale Language Modeling with Mixtures of Experts",
         "citations": 105,
-        "rank": "44 out of 416",
+        "rank": "44 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Iteratively Prompt Pre-trained Language Models for Chain of Thought",
         "citations": 104,
-        "rank": "45 out of 416",
+        "rank": "45 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
         "citations": 104,
-        "rank": "46 out of 416",
+        "rank": "46 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning",
         "citations": 104,
-        "rank": "47 out of 416",
+        "rank": "47 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "When FLUE Meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain",
         "citations": 101,
-        "rank": "48 out of 416",
+        "rank": "48 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "ProsocialDialog: A Prosocial Backbone for Conversational Agents",
         "citations": 100,
-        "rank": "49 out of 416",
+        "rank": "49 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "A Survey of Active Learning for Natural Language Processing",
         "citations": 100,
-        "rank": "50 out of 416",
+        "rank": "50 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Text-Only Training for Image Captioning using Noise-Injected CLIP",
         "citations": 98,
-        "rank": "51 out of 416",
+        "rank": "51 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training",
         "citations": 97,
-        "rank": "52 out of 416",
+        "rank": "52 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Natural Language to Code Translation with Execution",
         "citations": 97,
-        "rank": "53 out of 416",
+        "rank": "53 out of 1342",
         "percentile": "top 3%",
         "date": "2024-12-20"
     },
     {
         "title": "Transformer Language Models without Positional Encodings Still Learn Positional Information",
         "citations": 95,
-        "rank": "54 out of 416",
+        "rank": "54 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Successive Prompting for Decomposing Complex Questions",
         "citations": 93,
-        "rank": "55 out of 416",
+        "rank": "55 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Fine-tuned Language Models are Continual Learners",
         "citations": 93,
-        "rank": "56 out of 416",
+        "rank": "56 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL",
         "citations": 92,
-        "rank": "57 out of 416",
+        "rank": "57 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations",
         "citations": 90,
-        "rank": "58 out of 416",
+        "rank": "58 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Video Question Answering: Datasets, Algorithms and Challenges",
         "citations": 90,
-        "rank": "59 out of 416",
+        "rank": "59 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "ATTEMPT: Parameter-Efficient Multi-task Tuning via Attentional Mixtures of Soft Prompts",
         "citations": 90,
-        "rank": "60 out of 416",
+        "rank": "60 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Perturbation Augmentation for Fairer NLP",
         "citations": 89,
-        "rank": "61 out of 416",
+        "rank": "61 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models",
         "citations": 87,
-        "rank": "62 out of 416",
+        "rank": "62 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Revisiting Parameter-Efficient Tuning: Are We Really There Yet?",
         "citations": 86,
-        "rank": "63 out of 416",
+        "rank": "63 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
         "citations": 86,
-        "rank": "64 out of 416",
+        "rank": "64 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "COLD: A Benchmark for Chinese Offensive Language Detection",
         "citations": 85,
-        "rank": "65 out of 416",
+        "rank": "65 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "How well can Text-to-Image Generative Models understand Ethical Natural Language Interventions?",
         "citations": 84,
-        "rank": "66 out of 416",
+        "rank": "66 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering",
         "citations": 82,
-        "rank": "67 out of 416",
+        "rank": "67 out of 1342",
         "percentile": "top 4%",
         "date": "2024-12-20"
     },
     {
         "title": "Revisiting DocRED - Addressing the False Negative Problem in Relation Extraction",
         "citations": 82,
-        "rank": "68 out of 416",
+        "rank": "68 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation",
         "citations": 78,
-        "rank": "69 out of 416",
+        "rank": "69 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression",
         "citations": 77,
-        "rank": "70 out of 416",
+        "rank": "70 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages",
         "citations": 76,
-        "rank": "71 out of 416",
+        "rank": "71 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Revisiting Transformer-based Models for Long Document Classification",
         "citations": 76,
-        "rank": "72 out of 416",
+        "rank": "72 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters",
         "citations": 75,
-        "rank": "73 out of 416",
+        "rank": "73 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning",
         "citations": 74,
-        "rank": "74 out of 416",
+        "rank": "74 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "BBTv2: Towards a Gradient-Free Future with Large Language Models",
         "citations": 74,
-        "rank": "75 out of 416",
+        "rank": "75 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Finding Skill Neurons in Pre-trained Transformer-based Language Models",
         "citations": 74,
-        "rank": "76 out of 416",
+        "rank": "76 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Logical Fallacy Detection",
         "citations": 73,
-        "rank": "77 out of 416",
+        "rank": "77 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Generative Knowledge Graph Construction: A Review",
         "citations": 73,
-        "rank": "78 out of 416",
+        "rank": "78 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Interpreting Language Models with Contrastive Explanations",
         "citations": 73,
-        "rank": "79 out of 416",
+        "rank": "79 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings",
         "citations": 73,
-        "rank": "80 out of 416",
+        "rank": "80 out of 1342",
         "percentile": "top 5%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt Consistency for Zero-Shot Task Generalization",
         "citations": 72,
-        "rank": "81 out of 416",
+        "rank": "81 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis",
         "citations": 72,
-        "rank": "82 out of 416",
+        "rank": "82 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "TIARA: Multi-grained Retrieval for Robust Question Answering over Large Knowledge Base",
         "citations": 72,
-        "rank": "83 out of 416",
+        "rank": "83 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Tracing Knowledge in Language Models Back to the Training Data",
         "citations": 71,
-        "rank": "84 out of 416",
+        "rank": "84 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding",
         "citations": 71,
-        "rank": "85 out of 416",
+        "rank": "85 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models",
         "citations": 69,
-        "rank": "86 out of 416",
+        "rank": "86 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "RankGen: Improving Text Generation with Large Ranking Models",
         "citations": 69,
-        "rank": "87 out of 416",
+        "rank": "87 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving the Factual Correctness of Radiology Report Generation with Semantic Rewards",
         "citations": 68,
-        "rank": "88 out of 416",
+        "rank": "88 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Entity-centered Cross-document Relation Extraction",
         "citations": 67,
-        "rank": "89 out of 416",
+        "rank": "89 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Textless Speech Emotion Conversion using Discrete & Decomposed Representations",
         "citations": 67,
-        "rank": "90 out of 416",
+        "rank": "90 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Help me write a Poem - Instruction Tuning as a Vehicle for Collaborative Poetry Writing",
         "citations": 65,
-        "rank": "91 out of 416",
+        "rank": "91 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Few-shot Learning with Multilingual Generative Language Models",
         "citations": 65,
-        "rank": "92 out of 416",
+        "rank": "92 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "When Language Model Meets Private Library",
         "citations": 64,
-        "rank": "93 out of 416",
+        "rank": "93 out of 1342",
         "percentile": "top 6%",
         "date": "2024-12-20"
     },
     {
         "title": "Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence",
         "citations": 64,
-        "rank": "94 out of 416",
+        "rank": "94 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Reasoning Like Program Executors",
         "citations": 63,
-        "rank": "95 out of 416",
+        "rank": "95 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning",
         "citations": 63,
-        "rank": "96 out of 416",
+        "rank": "96 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation",
         "citations": 63,
-        "rank": "97 out of 416",
+        "rank": "97 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompting for Multimodal Hateful Meme Classification",
         "citations": 62,
-        "rank": "98 out of 416",
+        "rank": "98 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement",
         "citations": 62,
-        "rank": "99 out of 416",
+        "rank": "99 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Generating Natural Language Proofs with Verifier-Guided Search",
         "citations": 61,
-        "rank": "100 out of 416",
+        "rank": "100 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "FLUTE: Figurative Language Understanding through Textual Explanations",
         "citations": 61,
-        "rank": "101 out of 416",
+        "rank": "101 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "A Systematic Investigation of Commonsense Knowledge in Large Language Models",
         "citations": 61,
-        "rank": "102 out of 416",
+        "rank": "102 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?",
         "citations": 60,
-        "rank": "103 out of 416",
+        "rank": "103 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation",
         "citations": 59,
-        "rank": "104 out of 416",
+        "rank": "104 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
         "citations": 59,
-        "rank": "105 out of 416",
+        "rank": "105 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt-and-Rerank: A Method for Zero-Shot and Few-Shot Arbitrary Textual Style Transfer with Small Language Models",
         "citations": 59,
-        "rank": "106 out of 416",
+        "rank": "106 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models",
         "citations": 58,
-        "rank": "107 out of 416",
+        "rank": "107 out of 1342",
         "percentile": "top 7%",
         "date": "2024-12-20"
     },
     {
         "title": "Autoregressive Structured Prediction with Language Models",
         "citations": 58,
-        "rank": "108 out of 416",
+        "rank": "108 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "\"Will You Find These Shortcuts?\" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification",
         "citations": 58,
-        "rank": "109 out of 416",
+        "rank": "109 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering",
         "citations": 58,
-        "rank": "110 out of 416",
+        "rank": "110 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Retrieval Augmented Visual Question Answering with Outside Knowledge",
         "citations": 58,
-        "rank": "111 out of 416",
+        "rank": "111 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Language Contamination Helps Explains the Cross-lingual Capabilities of English Pretrained Models",
         "citations": 56,
-        "rank": "112 out of 416",
+        "rank": "112 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Generating Literal and Implied Subquestions to Fact-check Complex Claims",
         "citations": 56,
-        "rank": "113 out of 416",
+        "rank": "113 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "How Large Language Models are Transforming Machine-Paraphrase Plagiarism",
         "citations": 56,
-        "rank": "114 out of 416",
+        "rank": "114 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback",
         "citations": 55,
-        "rank": "115 out of 416",
+        "rank": "115 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset",
         "citations": 54,
-        "rank": "116 out of 416",
+        "rank": "116 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Zero-Shot Text Classification with Self-Training",
         "citations": 54,
-        "rank": "117 out of 416",
+        "rank": "117 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "SQuALITY: Building a Long-Document Summarization Dataset the Hard Way",
         "citations": 54,
-        "rank": "118 out of 416",
+        "rank": "118 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Truncation Sampling as Language Model Desmoothing",
         "citations": 53,
-        "rank": "119 out of 416",
+        "rank": "119 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "ClinicalT5: A Generative Language Model for Clinical Text",
         "citations": 53,
-        "rank": "120 out of 416",
+        "rank": "120 out of 1342",
         "percentile": "top 8%",
         "date": "2024-12-20"
     },
     {
         "title": "Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing",
         "citations": 53,
-        "rank": "121 out of 416",
+        "rank": "121 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Keep Me Updated! Memory Management in Long-term Conversations",
         "citations": 52,
-        "rank": "122 out of 416",
+        "rank": "122 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training",
         "citations": 52,
-        "rank": "123 out of 416",
+        "rank": "123 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "GeoMLAMA: Geo-Diverse Commonsense Probing on Multilingual Pre-Trained Language Models",
         "citations": 52,
-        "rank": "124 out of 416",
+        "rank": "124 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving Sharpness-Aware Minimization with Fisher Mask for Better Generalization on Language Models",
         "citations": 51,
-        "rank": "125 out of 416",
+        "rank": "125 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "AdaPrompt: Adaptive Model Training for Prompt-based NLP",
         "citations": 51,
-        "rank": "126 out of 416",
+        "rank": "126 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality",
         "citations": 51,
-        "rank": "127 out of 416",
+        "rank": "127 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning",
         "citations": 51,
-        "rank": "128 out of 416",
+        "rank": "128 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI",
         "citations": 50,
-        "rank": "129 out of 416",
+        "rank": "129 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction",
         "citations": 50,
-        "rank": "130 out of 416",
+        "rank": "130 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling",
         "citations": 50,
-        "rank": "131 out of 416",
+        "rank": "131 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Nearest Neighbor Zero-Shot Inference",
         "citations": 49,
-        "rank": "132 out of 416",
+        "rank": "132 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification",
         "citations": 49,
-        "rank": "133 out of 416",
+        "rank": "133 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "Empowering Language Models with Knowledge Graph Reasoning for Question Answering",
         "citations": 49,
-        "rank": "134 out of 416",
+        "rank": "134 out of 1342",
         "percentile": "top 9%",
         "date": "2024-12-20"
     },
     {
         "title": "KOLD: Korean Offensive Language Dataset",
         "citations": 49,
-        "rank": "135 out of 416",
+        "rank": "135 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "RL with KL penalties is better viewed as Bayesian inference",
         "citations": 48,
-        "rank": "136 out of 416",
+        "rank": "136 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation",
         "citations": 48,
-        "rank": "137 out of 416",
+        "rank": "137 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "Just Fine-tune Twice: Selective Differential Privacy for Large Language Models",
         "citations": 48,
-        "rank": "138 out of 416",
+        "rank": "138 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving Aspect Sentiment Quad Prediction via Template-Order Data Augmentation",
         "citations": 48,
-        "rank": "139 out of 416",
+        "rank": "139 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "The Devil in Linear Transformer",
         "citations": 47,
-        "rank": "140 out of 416",
+        "rank": "140 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "GPS: Genetic Prompt Search for Efficient Few-Shot Learning",
         "citations": 47,
-        "rank": "141 out of 416",
+        "rank": "141 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models",
         "citations": 47,
-        "rank": "142 out of 416",
+        "rank": "142 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "Summarization as Indirect Supervision for Relation Extraction",
         "citations": 46,
-        "rank": "143 out of 416",
+        "rank": "143 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "Stop Measuring Calibration When Humans Disagree",
         "citations": 46,
-        "rank": "144 out of 416",
+        "rank": "144 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "The Geometry of Multilingual Language Model Representations",
         "citations": 46,
-        "rank": "145 out of 416",
+        "rank": "145 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning",
         "citations": 46,
-        "rank": "146 out of 416",
+        "rank": "146 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "Gradient-based Constrained Sampling from Language Models",
         "citations": 46,
-        "rank": "147 out of 416",
+        "rank": "147 out of 1342",
         "percentile": "top 10%",
         "date": "2024-12-20"
     },
     {
         "title": "ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization",
         "citations": 46,
-        "rank": "148 out of 416",
+        "rank": "148 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Measuring the Mixing of Contextual Information in the Transformer",
         "citations": 46,
-        "rank": "149 out of 416",
+        "rank": "149 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "HEGEL: Hypergraph Transformer for Long Document Summarization",
         "citations": 46,
-        "rank": "150 out of 416",
+        "rank": "150 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "SciFact-Open: Towards open-domain scientific claim verification",
         "citations": 45,
-        "rank": "151 out of 416",
+        "rank": "151 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference",
         "citations": 45,
-        "rank": "152 out of 416",
+        "rank": "152 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding",
         "citations": 44,
-        "rank": "153 out of 416",
+        "rank": "153 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Natural Language Deduction through Search over Statement Compositions",
         "citations": 44,
-        "rank": "154 out of 416",
+        "rank": "154 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Named Entity and Relation Extraction with Multi-Modal Retrieval",
         "citations": 44,
-        "rank": "155 out of 416",
+        "rank": "155 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Generative Aspect-Based Sentiment Analysis with Contrastive Learning and Expressive Structure",
         "citations": 44,
-        "rank": "156 out of 416",
+        "rank": "156 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Generative Language Models for Paragraph-Level Question Generation",
         "citations": 44,
-        "rank": "157 out of 416",
+        "rank": "157 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Open-Domain Sign Language Translation Learned from Online Video",
         "citations": 44,
-        "rank": "158 out of 416",
+        "rank": "158 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance",
         "citations": 44,
-        "rank": "159 out of 416",
+        "rank": "159 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Opening the Black Box of Neural Machine Translation: Source and Target Interpretations of the Transformer",
         "citations": 44,
-        "rank": "160 out of 416",
+        "rank": "160 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction",
         "citations": 43,
-        "rank": "161 out of 416",
+        "rank": "161 out of 1342",
         "percentile": "top 11%",
         "date": "2024-12-20"
     },
     {
         "title": "Reason first, then respond: Modular Generation for Knowledge-infused Dialogue",
         "citations": 42,
-        "rank": "162 out of 416",
+        "rank": "162 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations",
         "citations": 42,
-        "rank": "163 out of 416",
+        "rank": "163 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "A Span-level Bidirectional Network for Aspect Sentiment Triplet Extraction",
         "citations": 42,
-        "rank": "164 out of 416",
+        "rank": "164 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Differentially Private Language Models for Secure Data Sharing",
         "citations": 42,
-        "rank": "165 out of 416",
+        "rank": "165 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence",
         "citations": 42,
-        "rank": "166 out of 416",
+        "rank": "166 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Knowledge-Rich Self-Supervision for Biomedical Entity Linking",
         "citations": 41,
-        "rank": "167 out of 416",
+        "rank": "167 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start",
         "citations": 41,
-        "rank": "168 out of 416",
+        "rank": "168 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning",
         "citations": 41,
-        "rank": "169 out of 416",
+        "rank": "169 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser",
         "citations": 41,
-        "rank": "170 out of 416",
+        "rank": "170 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks",
         "citations": 41,
-        "rank": "171 out of 416",
+        "rank": "171 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "RACE: Retrieval-augmented Commit Message Generation",
         "citations": 41,
-        "rank": "172 out of 416",
+        "rank": "172 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature",
         "citations": 41,
-        "rank": "173 out of 416",
+        "rank": "173 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "Bernice: A Multilingual Pre-trained Encoder for Twitter",
         "citations": 40,
-        "rank": "174 out of 416",
+        "rank": "174 out of 1342",
         "percentile": "top 12%",
         "date": "2024-12-20"
     },
     {
         "title": "On the Evaluation Metrics for Paraphrase Generation",
         "citations": 40,
-        "rank": "175 out of 416",
+        "rank": "175 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "COPEN: Probing Conceptual Knowledge in Pre-trained Language Models",
         "citations": 40,
-        "rank": "176 out of 416",
+        "rank": "176 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement",
         "citations": 40,
-        "rank": "177 out of 416",
+        "rank": "177 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Balancing out Bias: Achieving Fairness Through Balanced Training",
         "citations": 40,
-        "rank": "178 out of 416",
+        "rank": "178 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Handling and Presenting Harmful Text in NLP Research",
         "citations": 39,
-        "rank": "179 out of 416",
+        "rank": "179 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Readability Controllable Biomedical Document Summarization",
         "citations": 39,
-        "rank": "180 out of 416",
+        "rank": "180 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Is a Question Decomposition Unit All We Need?",
         "citations": 39,
-        "rank": "181 out of 416",
+        "rank": "181 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt-Based Meta-Learning For Few-shot Text Classification",
         "citations": 39,
-        "rank": "182 out of 416",
+        "rank": "182 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Open-ended Knowledge Tracing for Computer Science Education",
         "citations": 39,
-        "rank": "183 out of 416",
+        "rank": "183 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "A Survey of Computational Framing Analysis Approaches",
         "citations": 39,
-        "rank": "184 out of 416",
+        "rank": "184 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters",
         "citations": 38,
-        "rank": "185 out of 416",
+        "rank": "185 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Mutual Information Alleviates Hallucinations in Abstractive Summarization",
         "citations": 38,
-        "rank": "186 out of 416",
+        "rank": "186 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Co-guiding Net: Achieving Mutual Guidances between Multiple Intent Detection and Slot Filling via Heterogeneous Semantics-Label Graphs",
         "citations": 38,
-        "rank": "187 out of 416",
+        "rank": "187 out of 1342",
         "percentile": "top 13%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Climate Awareness in NLP Research",
         "citations": 38,
-        "rank": "188 out of 416",
+        "rank": "188 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP",
         "citations": 38,
-        "rank": "189 out of 416",
+        "rank": "189 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering",
         "citations": 37,
-        "rank": "190 out of 416",
+        "rank": "190 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining",
         "citations": 37,
-        "rank": "191 out of 416",
+        "rank": "191 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Abstract Visual Reasoning with Tangram Shapes",
         "citations": 37,
-        "rank": "192 out of 416",
+        "rank": "192 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Dialogic: Controllable Dialogue Simulation with In-Context Learning",
         "citations": 36,
-        "rank": "193 out of 416",
+        "rank": "193 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Retrieval-Augmented Generative Question Answering for Event Argument Extraction",
         "citations": 36,
-        "rank": "194 out of 416",
+        "rank": "194 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Missing Counter-Evidence Renders NLP Fact-Checking Unrealistic for Misinformation",
         "citations": 36,
-        "rank": "195 out of 416",
+        "rank": "195 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings",
         "citations": 36,
-        "rank": "196 out of 416",
+        "rank": "196 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Fixing Model Bugs with Natural Language Patches",
         "citations": 36,
-        "rank": "197 out of 416",
+        "rank": "197 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Linguistic Rules-Based Corpus Generation for Native Chinese Grammatical Error Correction",
         "citations": 35,
-        "rank": "198 out of 416",
+        "rank": "198 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Toward Unifying Text Segmentation and Long Document Summarization",
         "citations": 35,
-        "rank": "199 out of 416",
+        "rank": "199 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Boundary-Driven Table-Filling for Aspect Sentiment Triplet Extraction",
         "citations": 35,
-        "rank": "200 out of 416",
+        "rank": "200 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Sentence-level Media Bias Analysis Informed by Discourse Structures",
         "citations": 35,
-        "rank": "201 out of 416",
+        "rank": "201 out of 1342",
         "percentile": "top 14%",
         "date": "2024-12-20"
     },
     {
         "title": "Context Limitations Make Neural Language Models More Human-Like",
         "citations": 35,
-        "rank": "202 out of 416",
+        "rank": "202 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion",
         "citations": 35,
-        "rank": "203 out of 416",
+        "rank": "203 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document",
         "citations": 34,
-        "rank": "204 out of 416",
+        "rank": "204 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models",
         "citations": 34,
-        "rank": "205 out of 416",
+        "rank": "205 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "Learning to Model Editing Processes",
         "citations": 34,
-        "rank": "206 out of 416",
+        "rank": "206 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "A Multilingual Generative Transformer for Semantic Sentence Embedding",
         "citations": 34,
-        "rank": "207 out of 416",
+        "rank": "207 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "HiSMatch: Historical Structure Matching based Temporal Knowledge Graph Reasoning",
         "citations": 34,
-        "rank": "208 out of 416",
+        "rank": "208 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "Information-Transport-based Policy for Simultaneous Translation",
         "citations": 34,
-        "rank": "209 out of 416",
+        "rank": "209 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "Face-Sensitive Image-to-Emotional-Text Cross-modal Translation for Multimodal Aspect-based Sentiment Analysis",
         "citations": 34,
-        "rank": "210 out of 416",
+        "rank": "210 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "Context Matters for Image Descriptions for Accessibility: Challenges for Referenceless Evaluation Metrics",
         "citations": 34,
-        "rank": "211 out of 416",
+        "rank": "211 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "EUR-Lex-Sum: A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain",
         "citations": 34,
-        "rank": "212 out of 416",
+        "rank": "212 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts",
         "citations": 34,
-        "rank": "213 out of 416",
+        "rank": "213 out of 1342",
         "percentile": "top 15%",
-        "date": "2024-12-20"
-    },
-    {
-        "title": "Exploiting Global and Local Hierarchies for Hierarchical Text Classification",
-        "citations": 33,
-        "rank": "214 out of 416",
-        "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Unified Prompt Tuning for Few-shot Text Classification",
         "citations": 33,
-        "rank": "215 out of 416",
+        "rank": "214 out of 1342",
         "percentile": "top 15%",
         "date": "2024-12-20"
     },
     {
         "title": "Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning",
         "citations": 33,
-        "rank": "216 out of 416",
+        "rank": "215 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Does Corpus Quality Really Matter for Low-Resource Languages?",
         "citations": 33,
-        "rank": "217 out of 416",
+        "rank": "216 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Continual Training of Language Models for Few-Shot Learning",
         "citations": 33,
-        "rank": "218 out of 416",
+        "rank": "217 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation",
         "citations": 33,
-        "rank": "219 out of 416",
+        "rank": "218 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "MedicalSum: A Guided Clinical Abstractive Summarization Model for Generating Medical Reports from Patient-Doctor Conversations",
         "citations": 33,
-        "rank": "220 out of 416",
+        "rank": "219 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning",
         "citations": 33,
-        "rank": "221 out of 416",
+        "rank": "220 out of 1342",
+        "percentile": "top 16%",
+        "date": "2024-12-20"
+    },
+    {
+        "title": "Exploiting Global and Local Hierarchies for Hierarchical Text Classification",
+        "citations": 33,
+        "rank": "221 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Automatic Generation of Socratic Subquestions for Teaching Math Word Problems",
         "citations": 33,
-        "rank": "222 out of 416",
+        "rank": "222 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "PASTA: Table-Operations Aware Fact Verification via Sentence-Table Cloze Pre-training",
         "citations": 33,
-        "rank": "223 out of 416",
+        "rank": "223 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "TeleMelody: Lyric-to-Melody Generation with a Template-Based Two-Stage Method",
         "citations": 33,
-        "rank": "224 out of 416",
+        "rank": "224 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "OpenCQA: Open-ended Question Answering with Charts",
         "citations": 33,
-        "rank": "225 out of 416",
+        "rank": "225 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Mixture of Attention Heads: Selecting Attention Heads Per Token",
         "citations": 33,
-        "rank": "226 out of 416",
+        "rank": "226 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings",
         "citations": 32,
-        "rank": "227 out of 416",
+        "rank": "227 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "SNaC: Coherence Error Detection for Narrative Summarization",
         "citations": 32,
-        "rank": "228 out of 416",
+        "rank": "228 out of 1342",
         "percentile": "top 16%",
         "date": "2024-12-20"
     },
     {
         "title": "Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer",
         "citations": 32,
-        "rank": "229 out of 416",
+        "rank": "229 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation",
         "citations": 32,
-        "rank": "230 out of 416",
+        "rank": "230 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
         "citations": 32,
-        "rank": "231 out of 416",
+        "rank": "231 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing",
         "citations": 31,
-        "rank": "232 out of 416",
+        "rank": "232 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "SlovakBERT: Slovak Masked Language Model",
         "citations": 31,
-        "rank": "233 out of 416",
+        "rank": "233 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "SafeText: A Benchmark for Exploring Physical Safety in Language Models",
         "citations": 31,
-        "rank": "234 out of 416",
+        "rank": "234 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "IndicNLG Benchmark: Multilingual Datasets for Diverse NLG Tasks in Indic Languages",
         "citations": 31,
-        "rank": "235 out of 416",
+        "rank": "235 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "PHEE: A Dataset for Pharmacovigilance Event Extraction from Text",
         "citations": 31,
-        "rank": "236 out of 416",
+        "rank": "236 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "Salience Allocation as Guidance for Abstractive Summarization",
         "citations": 31,
-        "rank": "237 out of 416",
+        "rank": "237 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "Human-Machine Collaboration Approaches to Build a Dialogue Dataset for Hate Speech Countering",
         "citations": 31,
-        "rank": "238 out of 416",
+        "rank": "238 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "MABEL: Attenuating Gender Bias using Textual Entailment Data",
         "citations": 31,
-        "rank": "239 out of 416",
+        "rank": "239 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens",
         "citations": 31,
-        "rank": "240 out of 416",
+        "rank": "240 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "XPrompt: Exploring the Extreme of Prompt Tuning",
         "citations": 31,
-        "rank": "241 out of 416",
+        "rank": "241 out of 1342",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
         "title": "Learning from the Dictionary: Heterogeneous Knowledge Guided Fine-tuning for Chinese Spell Checking",
         "citations": 30,
-        "rank": "242 out of 416",
+        "rank": "242 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Outlier Dimensions that Disrupt Transformers are Driven by Frequency",
         "citations": 30,
-        "rank": "243 out of 416",
+        "rank": "243 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection",
         "citations": 30,
-        "rank": "244 out of 416",
+        "rank": "244 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Saving Dense Retriever from Shortcut Dependency in Conversational Search",
         "citations": 30,
-        "rank": "245 out of 416",
+        "rank": "245 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "SpanProto: A Two-stage Span-based Prototypical Network for Few-shot Named Entity Recognition",
         "citations": 30,
-        "rank": "246 out of 416",
+        "rank": "246 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs",
         "citations": 30,
-        "rank": "247 out of 416",
+        "rank": "247 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Diving Deep into Modes of Fact Hallucinations in Dialogue Systems",
         "citations": 29,
-        "rank": "248 out of 416",
+        "rank": "248 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization",
         "citations": 29,
-        "rank": "249 out of 416",
+        "rank": "249 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Knowledge Graph Generation From Text",
         "citations": 29,
-        "rank": "250 out of 416",
+        "rank": "250 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Are Neural Topic Models Broken?",
         "citations": 29,
-        "rank": "251 out of 416",
+        "rank": "251 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Probing for Constituency Structure in Neural Language Models",
         "citations": 29,
-        "rank": "252 out of 416",
+        "rank": "252 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "SMaLL-100: Introducing Shallow Multilingual Machine Translation Model for Low-Resource Languages",
         "citations": 29,
-        "rank": "253 out of 416",
+        "rank": "253 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "MT-GenEval: A Counterfactual and Contextual Dataset for Evaluating Gender Accuracy in Machine Translation",
         "citations": 29,
-        "rank": "254 out of 416",
+        "rank": "254 out of 1342",
         "percentile": "top 18%",
         "date": "2024-12-20"
     },
     {
         "title": "Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation",
         "citations": 29,
-        "rank": "255 out of 416",
+        "rank": "255 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Leveraging Locality in Abstractive Text Summarization",
         "citations": 29,
-        "rank": "256 out of 416",
+        "rank": "256 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Transfer Learning with Synthetic Corpora for Spatial Role Labeling and Reasoning",
         "citations": 29,
-        "rank": "257 out of 416",
+        "rank": "257 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Graph Hawkes Transformer for Extrapolated Reasoning on Temporal Knowledge Graphs",
         "citations": 29,
-        "rank": "258 out of 416",
+        "rank": "258 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Hyper-X: A Unified Hypernetwork for Multi-Task Multilingual Transfer",
         "citations": 29,
-        "rank": "259 out of 416",
+        "rank": "259 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "🌾 DEMETR: Diagnosing Evaluation Metrics for Translation",
         "citations": 29,
-        "rank": "260 out of 416",
+        "rank": "260 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models",
         "citations": 28,
-        "rank": "261 out of 416",
+        "rank": "261 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "CrossRE: A Cross-Domain Dataset for Relation Extraction",
         "citations": 28,
-        "rank": "262 out of 416",
+        "rank": "262 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Learning to Revise References for Faithful Summarization",
         "citations": 28,
-        "rank": "263 out of 416",
+        "rank": "263 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction",
         "citations": 28,
-        "rank": "264 out of 416",
+        "rank": "264 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Life is a Circus and We are the Clowns: Automatically Finding Analogies between Situations and Processes",
         "citations": 28,
-        "rank": "265 out of 416",
+        "rank": "265 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Character-level White-Box Adversarial Attacks against Transformers via Attachable Subwords Substitution",
         "citations": 28,
-        "rank": "266 out of 416",
+        "rank": "266 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Multitask Instruction-based Prompting for Fallacy Recognition",
         "citations": 28,
-        "rank": "267 out of 416",
+        "rank": "267 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "Distilled Dual-Encoder Model for Vision-Language Understanding",
         "citations": 28,
-        "rank": "268 out of 416",
+        "rank": "268 out of 1342",
         "percentile": "top 19%",
         "date": "2024-12-20"
     },
     {
         "title": "English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings",
         "citations": 28,
-        "rank": "269 out of 416",
+        "rank": "269 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Sampling-Based Approximations to Minimum Bayes Risk Decoding for Neural Machine Translation",
         "citations": 28,
-        "rank": "270 out of 416",
+        "rank": "270 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning",
         "citations": 27,
-        "rank": "271 out of 416",
+        "rank": "271 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing",
         "citations": 27,
-        "rank": "272 out of 416",
+        "rank": "272 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers",
         "citations": 27,
-        "rank": "273 out of 416",
+        "rank": "273 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Efficient (Soft) Q-Learning for Text Generation with Limited Good Data",
         "citations": 27,
-        "rank": "274 out of 416",
+        "rank": "274 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Directions for NLP Practices Applied to Online Hate Speech Detection",
         "citations": 27,
-        "rank": "275 out of 416",
+        "rank": "275 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Chunk-based Nearest Neighbor Machine Translation",
         "citations": 27,
-        "rank": "276 out of 416",
+        "rank": "276 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation",
         "citations": 27,
-        "rank": "277 out of 416",
+        "rank": "277 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Enhancing Joint Multiple Intent Detection and Slot Filling with Global Intent-Slot Co-occurrence",
         "citations": 27,
-        "rank": "278 out of 416",
+        "rank": "278 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Polyglot Prompt: Multilingual Multitask Prompt Training",
         "citations": 27,
-        "rank": "279 out of 416",
+        "rank": "279 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "Symptom Identification for Interpretable Detection of Multiple Mental Disorders on Social Media",
         "citations": 27,
-        "rank": "280 out of 416",
+        "rank": "280 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "The better your Syntax, the better your Semantics? Probing Pretrained Language Models for the English Comparative Correlative",
         "citations": 27,
-        "rank": "281 out of 416",
+        "rank": "281 out of 1342",
         "percentile": "top 20%",
         "date": "2024-12-20"
     },
     {
         "title": "SpaBERT: A Pretrained Language Model from Geographic Data for Geo-Entity Representation",
         "citations": 26,
-        "rank": "282 out of 416",
+        "rank": "282 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "BERT Meets CTC: New Formulation of End-to-End Speech Recognition with Pre-trained Masked Language Model",
         "citations": 26,
-        "rank": "283 out of 416",
+        "rank": "283 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Robust Visual Question Answering: Making the Most of Biased Samples via Contrastive Learning",
         "citations": 26,
-        "rank": "284 out of 416",
+        "rank": "284 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "How Far are We from Robust Long Abstractive Summarization?",
         "citations": 26,
-        "rank": "285 out of 416",
+        "rank": "285 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "Unobserved Local Structures Make Compositional Generalization Hard",
         "citations": 26,
-        "rank": "286 out of 416",
+        "rank": "286 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search",
         "citations": 26,
-        "rank": "287 out of 416",
+        "rank": "287 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "DisCup: Discriminator Cooperative Unlikelihood Prompt-tuning for Controllable Text Generation",
         "citations": 26,
-        "rank": "288 out of 416",
+        "rank": "288 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "BioReader: a Retrieval-Enhanced Text-to-Text Transformer for Biomedical Literature",
         "citations": 26,
-        "rank": "289 out of 416",
+        "rank": "289 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "Better Few-Shot Relation Extraction with Label Prompt Dropout",
         "citations": 26,
-        "rank": "290 out of 416",
+        "rank": "290 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples",
         "citations": 26,
-        "rank": "291 out of 416",
+        "rank": "291 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "Re-Examining Calibration: The Case of Question Answering",
         "citations": 25,
-        "rank": "292 out of 416",
+        "rank": "292 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "How \"Multi\" is Multi-Document Summarization?",
         "citations": 25,
-        "rank": "293 out of 416",
+        "rank": "293 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization",
         "citations": 25,
-        "rank": "294 out of 416",
+        "rank": "294 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "A Distributional Lens for Multi-Aspect Controllable Text Generation",
         "citations": 25,
-        "rank": "295 out of 416",
+        "rank": "295 out of 1342",
         "percentile": "top 21%",
         "date": "2024-12-20"
     },
     {
         "title": "Deconfounding Legal Judgment Prediction for European Court of Human Rights Cases Towards Better Alignment with Experts",
         "citations": 25,
-        "rank": "296 out of 416",
+        "rank": "296 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "COM-MRC: A COntext-Masked Machine Reading Comprehension Framework for Aspect Sentiment Triplet Extraction",
         "citations": 25,
-        "rank": "297 out of 416",
+        "rank": "297 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Analyzing the Mono- and Cross-Lingual Pretraining Dynamics of Multilingual Language Models",
         "citations": 25,
-        "rank": "298 out of 416",
+        "rank": "298 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Concadia: Towards Image-Based Text Generation with a Purpose",
         "citations": 25,
-        "rank": "299 out of 416",
+        "rank": "299 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "The Authenticity Gap in Human Evaluation",
         "citations": 25,
-        "rank": "300 out of 416",
+        "rank": "300 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation",
         "citations": 25,
-        "rank": "301 out of 416",
+        "rank": "301 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts",
         "citations": 24,
-        "rank": "302 out of 416",
+        "rank": "302 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Identifying Social Bias in Dialog Systems: Framework, Dataset, and Benchmark",
         "citations": 24,
-        "rank": "303 out of 416",
+        "rank": "303 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA",
         "citations": 24,
-        "rank": "304 out of 416",
+        "rank": "304 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Should We Ban English NLP for a Year?",
         "citations": 24,
-        "rank": "305 out of 416",
+        "rank": "305 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Scientific and Creative Analogies in Pretrained Language Models",
         "citations": 24,
-        "rank": "306 out of 416",
+        "rank": "306 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Multilingual Machine Translation with Hyper-Adapters",
         "citations": 24,
-        "rank": "307 out of 416",
+        "rank": "307 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data",
         "citations": 24,
-        "rank": "308 out of 416",
+        "rank": "308 out of 1342",
         "percentile": "top 22%",
         "date": "2024-12-20"
     },
     {
         "title": "Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection",
         "citations": 24,
-        "rank": "309 out of 416",
+        "rank": "309 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval",
         "citations": 24,
-        "rank": "310 out of 416",
+        "rank": "310 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "You Only Need One Model for Open-domain Question Answering",
         "citations": 24,
-        "rank": "311 out of 416",
+        "rank": "311 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving Chinese Spelling Check by Character Pronunciation Prediction: The Effects of Adaptivity and Granularity",
         "citations": 24,
-        "rank": "312 out of 416",
+        "rank": "312 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Interactivity and Interpretability: A Rationale-based Legal Judgment Prediction Framework",
         "citations": 24,
-        "rank": "313 out of 416",
+        "rank": "313 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Debiasing Pretrained Text Encoders by Paying Attention to Paying Attention",
         "citations": 24,
-        "rank": "314 out of 416",
+        "rank": "314 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Reflect, Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality",
         "citations": 24,
-        "rank": "315 out of 416",
+        "rank": "315 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt",
         "citations": 24,
-        "rank": "316 out of 416",
+        "rank": "316 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Injecting Domain Knowledge in Language Models for Task-oriented Dialogue Systems",
         "citations": 24,
-        "rank": "317 out of 416",
+        "rank": "317 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "CROP: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation",
         "citations": 23,
-        "rank": "318 out of 416",
+        "rank": "318 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "ComFact: A Benchmark for Linking Contextual Commonsense Knowledge",
         "citations": 23,
-        "rank": "319 out of 416",
+        "rank": "319 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Hyperdecoders: Instance-specific decoders for multi-task NLP",
         "citations": 23,
-        "rank": "320 out of 416",
+        "rank": "320 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation",
         "citations": 23,
-        "rank": "321 out of 416",
+        "rank": "321 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations in a Label-Abundant Setup",
         "citations": 23,
-        "rank": "322 out of 416",
+        "rank": "322 out of 1342",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models",
         "citations": 23,
-        "rank": "323 out of 416",
+        "rank": "323 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "LightEA: A Scalable, Robust, and Interpretable Entity Alignment Framework via Three-view Label Propagation",
         "citations": 23,
-        "rank": "324 out of 416",
+        "rank": "324 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning",
         "citations": 23,
-        "rank": "325 out of 416",
+        "rank": "325 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "AfroLID: A Neural Language Identification Tool for African Languages",
         "citations": 23,
-        "rank": "326 out of 416",
+        "rank": "326 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Revisiting Pre-trained Language Models and their Evaluation for Arabic Natural Language Processing",
         "citations": 23,
-        "rank": "327 out of 416",
+        "rank": "327 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "CPL: Counterfactual Prompt Learning for Vision and Language Models",
         "citations": 23,
-        "rank": "328 out of 416",
+        "rank": "328 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition",
         "citations": 23,
-        "rank": "329 out of 416",
+        "rank": "329 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis",
         "citations": 23,
-        "rank": "330 out of 416",
+        "rank": "330 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "DuReader-Retrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine",
         "citations": 23,
-        "rank": "331 out of 416",
+        "rank": "331 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Towards Robust k-Nearest-Neighbor Machine Translation",
         "citations": 23,
-        "rank": "332 out of 416",
+        "rank": "332 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "NewsClaims: A New Benchmark for Claim Detection from News with Attribute Knowledge",
         "citations": 23,
-        "rank": "333 out of 416",
+        "rank": "333 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations",
         "citations": 23,
-        "rank": "334 out of 416",
+        "rank": "334 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database",
         "citations": 23,
-        "rank": "335 out of 416",
+        "rank": "335 out of 1342",
         "percentile": "top 24%",
         "date": "2024-12-20"
     },
     {
         "title": "Detect-Localize-Repair: A Unified Framework for Learning to Debug with CodeT5",
         "citations": 22,
-        "rank": "336 out of 416",
+        "rank": "336 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Exploring Predictive Uncertainty and Calibration in NLP: A Study on the Impact of Method & Data Scarcity",
         "citations": 22,
-        "rank": "337 out of 416",
+        "rank": "337 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation",
         "citations": 22,
-        "rank": "338 out of 416",
+        "rank": "338 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "You can't pick your neighbors, or can you? When and How to Rely on Retrieval in the kNN-LM",
         "citations": 22,
-        "rank": "339 out of 416",
+        "rank": "339 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Generative Prompt Tuning for Relation Classification",
         "citations": 22,
-        "rank": "340 out of 416",
+        "rank": "340 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation",
         "citations": 22,
-        "rank": "341 out of 416",
+        "rank": "341 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "SALTED: A Framework for SAlient Long-tail Translation Error Detection",
         "citations": 22,
-        "rank": "342 out of 416",
+        "rank": "342 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "IndicXNLI: Evaluating Multilingual Inference for Indian Languages",
         "citations": 22,
-        "rank": "343 out of 416",
+        "rank": "343 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "PromptEHR: Conditional Electronic Healthcare Records Generation with Prompt Learning",
         "citations": 22,
-        "rank": "344 out of 416",
+        "rank": "344 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Group is better than individual: Exploiting Label Topologies and Label Relations for Joint Multiple Intent Detection and Slot Filling",
         "citations": 22,
-        "rank": "345 out of 416",
+        "rank": "345 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Analyzing and Evaluating Faithfulness in Dialogue Summarization",
         "citations": 22,
-        "rank": "346 out of 416",
+        "rank": "346 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "CEFR-Based Sentence Difficulty Annotation and Assessment",
         "citations": 22,
-        "rank": "347 out of 416",
+        "rank": "347 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Exploring Mode Connectivity for Pre-trained Language Models",
         "citations": 22,
-        "rank": "348 out of 416",
+        "rank": "348 out of 1342",
         "percentile": "top 25%",
         "date": "2024-12-20"
     },
     {
         "title": "Character-centric Story Visualization via Visual Planning and Token Alignment",
         "citations": 22,
-        "rank": "349 out of 416",
+        "rank": "349 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue",
         "citations": 22,
-        "rank": "350 out of 416",
+        "rank": "350 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework",
         "citations": 22,
-        "rank": "351 out of 416",
+        "rank": "351 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Acceptability Judgements via Examining the Topology of Attention Maps",
         "citations": 21,
-        "rank": "352 out of 416",
+        "rank": "352 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Evaluating Token-Level and Passage-Level Dense Retrieval Models for Math Information Retrieval",
         "citations": 21,
-        "rank": "353 out of 416",
+        "rank": "353 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem",
         "citations": 21,
-        "rank": "354 out of 416",
+        "rank": "354 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing",
         "citations": 21,
-        "rank": "355 out of 416",
+        "rank": "355 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "A Unified Dialogue User Simulator for Few-shot Data Augmentation",
         "citations": 21,
-        "rank": "356 out of 416",
+        "rank": "356 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Challenges and Opportunities in Information Manipulation Detection: An Examination of Wartime Russian Media",
         "citations": 21,
-        "rank": "357 out of 416",
+        "rank": "357 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Controlling Bias Exposure for Fair Interpretable Predictions",
         "citations": 21,
-        "rank": "358 out of 416",
+        "rank": "358 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "CDGP: Automatic Cloze Distractor Generation based on Pre-trained Language Model",
         "citations": 21,
-        "rank": "359 out of 416",
+        "rank": "359 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "ToKen: Task Decomposition and Knowledge Infusion for Few-Shot Hate Speech Detection",
         "citations": 21,
-        "rank": "360 out of 416",
+        "rank": "360 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Rethinking Positional Encoding in Tree Transformer for Code Representation",
         "citations": 21,
-        "rank": "361 out of 416",
+        "rank": "361 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "Retrieval Augmentation for Commonsense Reasoning: A Unified Approach",
         "citations": 21,
-        "rank": "362 out of 416",
+        "rank": "362 out of 1342",
         "percentile": "top 26%",
         "date": "2024-12-20"
     },
     {
         "title": "RuCoLA: Russian Corpus of Linguistic Acceptability",
         "citations": 21,
-        "rank": "363 out of 416",
+        "rank": "363 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Learning Robust Representations for Continual Relation Extraction via Adversarial Class Augmentation",
         "citations": 21,
-        "rank": "364 out of 416",
+        "rank": "364 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation",
         "citations": 21,
-        "rank": "365 out of 416",
+        "rank": "365 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Discovering Language-neutral Sub-networks in Multilingual Language Models",
         "citations": 21,
-        "rank": "366 out of 416",
+        "rank": "366 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Detecting Label Errors by Using Pre-Trained Language Models",
         "citations": 21,
-        "rank": "367 out of 416",
+        "rank": "367 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Analogical Math Word Problems Solving with Enhanced Problem-Solution Association",
         "citations": 21,
-        "rank": "368 out of 416",
+        "rank": "368 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Improving Low-Resource Languages in Pre-Trained Multilingual Language Models",
         "citations": 21,
-        "rank": "369 out of 416",
+        "rank": "369 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "FCGEC: Fine-Grained Corpus for Chinese Grammatical Error Correction",
         "citations": 20,
-        "rank": "370 out of 416",
+        "rank": "370 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "PoeLM: A Meter- and Rhyme-Controllable Language Model for Unsupervised Poetry Generation",
         "citations": 20,
-        "rank": "371 out of 416",
+        "rank": "371 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Active Learning for Abstractive Text Summarization",
         "citations": 20,
-        "rank": "372 out of 416",
+        "rank": "372 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning",
         "citations": 20,
-        "rank": "373 out of 416",
+        "rank": "373 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Fair NLP Models with Differentially Private Text Encoders",
         "citations": 20,
-        "rank": "374 out of 416",
+        "rank": "374 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks",
         "citations": 20,
-        "rank": "375 out of 416",
+        "rank": "375 out of 1342",
         "percentile": "top 27%",
         "date": "2024-12-20"
     },
     {
         "title": "Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition",
         "citations": 20,
-        "rank": "376 out of 416",
+        "rank": "376 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "M2D2: A Massively Multi-Domain Language Modeling Dataset",
         "citations": 20,
-        "rank": "377 out of 416",
+        "rank": "377 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination",
         "citations": 20,
-        "rank": "378 out of 416",
+        "rank": "378 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities",
         "citations": 20,
-        "rank": "379 out of 416",
+        "rank": "379 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Structural generalization is hard for sequence-to-sequence models",
         "citations": 20,
-        "rank": "380 out of 416",
+        "rank": "380 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Abstractive Summarization Guided by Latent Hierarchical Document Structure",
         "citations": 20,
-        "rank": "381 out of 416",
+        "rank": "381 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Unifying Data Perspectivism and Personalization: An Application to Social Norms",
         "citations": 20,
-        "rank": "382 out of 416",
+        "rank": "382 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "ConsistTL: Modeling Consistency in Transfer Learning for Low-Resource Neural Machine Translation",
         "citations": 20,
-        "rank": "383 out of 416",
+        "rank": "383 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal",
         "citations": 20,
-        "rank": "384 out of 416",
+        "rank": "384 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "SHARE: a System for Hierarchical Assistive Recipe Editing",
         "citations": 20,
-        "rank": "385 out of 416",
+        "rank": "385 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "GENIE: Toward Reproducible and Standardized Human Evaluation for Text Generation",
         "citations": 20,
-        "rank": "386 out of 416",
+        "rank": "386 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective",
         "citations": 20,
-        "rank": "387 out of 416",
+        "rank": "387 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks",
         "citations": 19,
-        "rank": "388 out of 416",
+        "rank": "388 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "A Few More Examples May Be Worth Billions of Parameters",
         "citations": 19,
-        "rank": "389 out of 416",
+        "rank": "389 out of 1342",
         "percentile": "top 28%",
         "date": "2024-12-20"
     },
     {
         "title": "Data Selection Curriculum for Neural Machine Translation",
         "citations": 19,
-        "rank": "390 out of 416",
+        "rank": "390 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Extractive Summarization of Legal Decisions using Multi-task Learning and Maximal Marginal Relevance",
         "citations": 19,
-        "rank": "391 out of 416",
+        "rank": "391 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Accelerating Learned Sparse Indexes Via Term Impact Decomposition",
         "citations": 19,
-        "rank": "392 out of 416",
+        "rank": "392 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models",
         "citations": 19,
-        "rank": "393 out of 416",
+        "rank": "393 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Distillation-Resistant Watermarking for Model Protection in NLP",
         "citations": 19,
-        "rank": "394 out of 416",
+        "rank": "394 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Exploring The Landscape of Distributional Robustness for Question Answering Models",
         "citations": 19,
-        "rank": "395 out of 416",
+        "rank": "395 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Less is More: Summary of Long Instructions is Better for Program Synthesis",
         "citations": 19,
-        "rank": "396 out of 416",
+        "rank": "396 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning",
         "citations": 19,
-        "rank": "397 out of 416",
+        "rank": "397 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding",
         "citations": 19,
-        "rank": "398 out of 416",
+        "rank": "398 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Exploring Representation-level Augmentation for Code Search",
         "citations": 19,
-        "rank": "399 out of 416",
+        "rank": "399 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "T-Modules: Translation Modules for Zero-Shot Cross-Modal Machine Translation",
         "citations": 19,
-        "rank": "400 out of 416",
+        "rank": "400 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "GraphQ IR: Unifying the Semantic Parsing of Graph Query Languages with One Intermediate Representation",
         "citations": 19,
-        "rank": "401 out of 416",
+        "rank": "401 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction",
         "citations": 19,
-        "rank": "402 out of 416",
+        "rank": "402 out of 1342",
         "percentile": "top 29%",
         "date": "2024-12-20"
     },
     {
         "title": "ArtELingo: A Million Emotion Annotations of WikiArt with Emphasis on Diversity over Language and Culture",
         "citations": 19,
-        "rank": "403 out of 416",
+        "rank": "403 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Adapting a Language Model While Preserving its General Knowledge",
         "citations": 19,
-        "rank": "404 out of 416",
+        "rank": "404 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Facilitating Contrastive Learning of Discourse Relational Senses by Exploiting the Hierarchy of Sense Relations",
         "citations": 19,
-        "rank": "405 out of 416",
+        "rank": "405 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score",
         "citations": 19,
-        "rank": "406 out of 416",
+        "rank": "406 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Transforming Sequence Tagging Into A Seq2Seq Task",
         "citations": 19,
-        "rank": "407 out of 416",
+        "rank": "407 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "BioLORD: Learning Ontological Representations from Definitions for Biomedical Concepts and their Textual Descriptions",
         "citations": 18,
-        "rank": "408 out of 416",
+        "rank": "408 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Visual Named Entity Linking: A New Dataset and A Baseline",
         "citations": 18,
-        "rank": "409 out of 416",
+        "rank": "409 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge",
         "citations": 18,
-        "rank": "410 out of 416",
+        "rank": "410 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Model and Data Transfer for Cross-Lingual Sequence Labelling in Zero-Resource Settings",
         "citations": 18,
-        "rank": "411 out of 416",
+        "rank": "411 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "APEACH: Attacking Pejorative Expressions with Analysis on Crowd-Generated Hate Speech Evaluation Datasets",
         "citations": 18,
-        "rank": "412 out of 416",
+        "rank": "412 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Contrastive Learning with Prompt-derived Virtual Semantic Prototypes for Unsupervised Sentence Embedding",
         "citations": 18,
-        "rank": "413 out of 416",
+        "rank": "413 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Trial2Vec: Zero-Shot Clinical Trial Document Similarity Search using Self-Supervision",
         "citations": 18,
-        "rank": "414 out of 416",
+        "rank": "414 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "One size does not fit all: Investigating strategies for differentially-private learning across NLP tasks",
         "citations": 18,
-        "rank": "415 out of 416",
+        "rank": "415 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     },
     {
         "title": "Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models",
         "citations": 18,
-        "rank": "416 out of 416",
+        "rank": "416 out of 1342",
         "percentile": "top 30%",
         "date": "2024-12-20"
     }

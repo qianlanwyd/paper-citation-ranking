@@ -3255,49 +3255,49 @@
         "date": "2024-12-20"
     },
     {
-        "title": "Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation",
+        "title": "Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences",
         "citations": 54,
         "rank": "466 out of 832",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
-        "title": "Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences",
+        "title": "Incorporating Bias-aware Margins into Contrastive Loss for Collaborative Filtering",
         "citations": 54,
         "rank": "467 out of 832",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
-        "title": "Incorporating Bias-aware Margins into Contrastive Loss for Collaborative Filtering",
+        "title": "Knowledge Distillation Improves Graph Structure Augmentation for Graph Neural Networks",
         "citations": 54,
         "rank": "468 out of 832",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
-        "title": "Knowledge Distillation Improves Graph Structure Augmentation for Graph Neural Networks",
+        "title": "SoftPatch: Unsupervised Anomaly Detection with Noisy Data",
         "citations": 54,
         "rank": "469 out of 832",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
-        "title": "SoftPatch: Unsupervised Anomaly Detection with Noisy Data",
+        "title": "Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning",
         "citations": 54,
         "rank": "470 out of 832",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
-        "title": "Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning",
+        "title": "Resolving the data ambiguity for periodic crystals",
         "citations": 54,
         "rank": "471 out of 832",
         "percentile": "top 17%",
         "date": "2024-12-20"
     },
     {
-        "title": "Resolving the data ambiguity for periodic crystals",
+        "title": "Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation",
         "citations": 54,
         "rank": "472 out of 832",
         "percentile": "top 17%",
@@ -4382,98 +4382,98 @@
         "date": "2024-12-20"
     },
     {
-        "title": "Exploring Example Influence in Continual Learning",
+        "title": "Offline Multi-Agent Reinforcement Learning with Knowledge Distillation",
         "citations": 40,
         "rank": "627 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Offline Multi-Agent Reinforcement Learning with Knowledge Distillation",
+        "title": "Accelerated Training of Physics-Informed Neural Networks (PINNs) using Meshless Discretizations",
         "citations": 40,
         "rank": "628 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Accelerated Training of Physics-Informed Neural Networks (PINNs) using Meshless Discretizations",
+        "title": "Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant",
         "citations": 40,
         "rank": "629 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant",
+        "title": "Robust Semi-Supervised Learning when Not All Classes have Labels",
         "citations": 40,
         "rank": "630 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Robust Semi-Supervised Learning when Not All Classes have Labels",
+        "title": "A gradient sampling method with complexity guarantees for Lipschitz functions in high and low dimensions",
         "citations": 40,
         "rank": "631 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "A gradient sampling method with complexity guarantees for Lipschitz functions in high and low dimensions",
+        "title": "Improved Feature Distillation via Projector Ensemble",
         "citations": 40,
         "rank": "632 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Improved Feature Distillation via Projector Ensemble",
+        "title": "Graph Self-supervised Learning with Accurate Discrepancy Learning",
         "citations": 40,
         "rank": "633 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Graph Self-supervised Learning with Accurate Discrepancy Learning",
+        "title": "Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation",
         "citations": 40,
         "rank": "634 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation",
+        "title": "Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields",
         "citations": 40,
         "rank": "635 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields",
+        "title": "Phase diagram of Stochastic Gradient Descent in high-dimensional two-layer neural networks",
         "citations": 40,
         "rank": "636 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Phase diagram of Stochastic Gradient Descent in high-dimensional two-layer neural networks",
+        "title": "Compositional Generalization in Unsupervised Compositional Representation Learning: A Study on Disentanglement and Emergent Language",
         "citations": 40,
         "rank": "637 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Compositional Generalization in Unsupervised Compositional Representation Learning: A Study on Disentanglement and Emergent Language",
+        "title": "Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning",
         "citations": 40,
         "rank": "638 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning",
+        "title": "Beyond Separability: Analyzing the Linear Transferability of Contrastive Representations to Related Subpopulations",
         "citations": 40,
         "rank": "639 out of 832",
         "percentile": "top 23%",
         "date": "2024-12-20"
     },
     {
-        "title": "Beyond Separability: Analyzing the Linear Transferability of Contrastive Representations to Related Subpopulations",
+        "title": "Exploring Example Influence in Continual Learning",
         "citations": 40,
         "rank": "640 out of 832",
         "percentile": "top 23%",
